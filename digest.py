@@ -56,7 +56,7 @@ def generate_digest(articles):
     for i, a in enumerate(articles, 1):
         articles_text += f"\n[{i}] {a['source']}: {a['title']}\nURL: {a['url']}\n{a['summary'][:500]}\n"
 
-prompt = f"""You are a defence tech news editor for a UK and European audience.
+    prompt = f"""You are a defence tech news editor for a UK and European audience.
 
 From the articles below, select only those relevant to defence technology in the UK or EU — 
 including AI and autonomy, cyber, procurement reform, defence industrial policy, C-UAS, 
@@ -80,7 +80,7 @@ Articles:
         messages=[{"role": "user", "content": prompt}]
     )
     result = message.content[0].text
-    result = result.replace("```html", "").replace("```","").strip()
+    result = result.replace("```html", "").replace("```", "").strip()
     return result
 
 # ── Send email ─────────────────────────────────────────────────────────────────
