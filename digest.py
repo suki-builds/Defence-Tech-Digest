@@ -66,7 +66,9 @@ Articles:
         max_tokens=2000,
         messages=[{"role": "user", "content": prompt}]
     )
-    return message.content[0].text
+    result = message.content[0].text
+    result = result.replace("```html", "").replace("```","").strip()
+    return result
 
 # ── Send email ─────────────────────────────────────────────────────────────────
 def send_email(html_body):
