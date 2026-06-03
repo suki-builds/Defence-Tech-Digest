@@ -1,5 +1,6 @@
 import os
 import smtplib
+from datetime import datetime, timedelta, timezone
 import feedparser
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -37,9 +38,16 @@ MAX_ARTICLES_PER_FEED = 3  # keeps Claude token usage low
 # ── Fetch articles ─────────────────────────────────────────────────────────────
 def fetch_articles():
     articles = []
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
+    
     for url in RSS_FEEDS:
         feed = feedparser.parse(url)
         for entry in feed.entries[:MAX_ARTICLES_PER_FEED]:
+            published = entry.get("published_parsed") or entry.get("updated_parsed")
+            if published:
+                pub_date = datetime(*published[:6], tzinfo=timezone.utc)
+                if pub_date < cutoff:
+                    continue
             articles.append({
                 "title":   entry.get("title", "No title"),
                 "summary": entry.get("summary", entry.get("description", "")),
@@ -69,7 +77,12 @@ Return a numbered list of headlines only, ranked by likelihood of generating eng
 on Reddit's r/Defence_Tech_UK community. Most engagement-worthy first.
 Include the URL after each headline.
 
-Format as clean HTML for an email.
+Format as clean HTML for an email with this structure:
+<h2 style="color:#1a1a2e;font-family:Arial,sans-serif;">🛡️ Daily Defence Tech Digest</h2>
+<ol style="font-family:Arial,sans-serif;line-height:2;">
+<li><a href="URL" style="color:#0066cc;text-decoration:none;">Headline</a></li>
+</ol>
+Use only these tags. Do not include any raw HTML or visible tag text.
 
 Articles:
 {articles_text}"""
