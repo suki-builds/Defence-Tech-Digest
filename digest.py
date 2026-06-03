@@ -17,9 +17,22 @@ RSS_FEEDS = [
     "https://euro-sd.com/feed/",
     "https://www.rusi.org/rss.xml",
     "https://www.defensenews.com/arc/outboundfeeds/rss/category/global/",
+    "https://ukdefencejournal.org.uk/feed/",
+    "https://warontherocks.com/feed/",
+    "https://navaltoday.com/feed/",
+    "https://defence-blog.com/feed/",
+    "https://www.gov.uk/government/organisations/ministry-of-defence.atom",
+    "https://twz.com/feed/",
+    "https://euractiv.com/?feed=mcfeed",
+    "https://feeds.feedburner.com/euronews/en/news/",
+    "https://www.independent.co.uk/news/world/rss",
+    "https://www.dw.com/en/top-stories/s-9097/rss",
+    "https://www.lemonde.fr/rss/une.xml",
+    "https://www.theguardian.com/uk/technology/rss",
+    "https://rss.libsyn.com/shows/580325/destinations/5030860.xml",
 ]
 
-MAX_ARTICLES_PER_FEED = 5  # keeps Claude token usage low
+MAX_ARTICLES_PER_FEED = 3  # keeps Claude token usage low
 
 # ── Fetch articles ─────────────────────────────────────────────────────────────
 def fetch_articles():
@@ -43,27 +56,27 @@ def generate_digest(articles):
     for i, a in enumerate(articles, 1):
         articles_text += f"\n[{i}] {a['source']}: {a['title']}\nURL: {a['url']}\n{a['summary'][:500]}\n"
 
-    prompt = f"""You are a defence tech news editor for a UK and European audience.
+prompt = f"""You are a defence tech news editor for a UK and European audience.
 
 From the articles below, select only those relevant to defence technology in the UK or EU — 
 including AI and autonomy, cyber, procurement reform, defence industrial policy, C-UAS, 
 electronic warfare, and space. Ignore US-only stories, personnel announcements, 
 and general military operations news.
 
-For each relevant article write:
-- A bold headline (the original title is fine)
-- 2-3 sentence summary
-- The URL as a plain link
+Translate any non-English headlines into English.
 
-Format as clean HTML for an email. Group under a single heading "Today's Defence Tech Digest".
-If fewer than 3 articles are relevant, say so and include what you have.
+Return a numbered list of headlines only, ranked by likelihood of generating engagement 
+on Reddit's r/Defence_Tech_UK community. Most engagement-worthy first.
+Include the URL after each headline.
+
+Format as clean HTML for an email.
 
 Articles:
 {articles_text}"""
 
     message = client.messages.create(
         model="claude-haiku-4-5",
-        max_tokens=2000,
+        max_tokens=500,
         messages=[{"role": "user", "content": prompt}]
     )
     result = message.content[0].text
