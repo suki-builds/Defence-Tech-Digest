@@ -99,7 +99,7 @@ Articles:
 # ── Send email ─────────────────────────────────────────────────────────────────
 def send_email(html_body):
     msg = MIMEMultipart("alternative")
-    msg["Subject"] = "Daily Defence Tech Digest"
+    msg["Subject"] = f"Daily Defence Tech Digest {datetime.now(timezone.utc).strftime('%Y/%m/%d')}"
     msg["From"]    = GMAIL_ADDRESS
     msg["To"]      = RECIPIENT_EMAIL
     msg.attach(MIMEText(html_body, "html"))
