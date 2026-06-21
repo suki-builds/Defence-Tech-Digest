@@ -64,21 +64,40 @@ def generate_digest(articles):
     for i, a in enumerate(articles, 1):
         articles_text += f"\n[{i}] {a['source']}: {a['title']}\nURL: {a['url']}\n{a['summary'][:500]}\n"
 
-    prompt = f"""You are a defence tech news editor for a UK and European audience.
+    prompt = f"""You are a defence tech news editor for a UK, European, and Korean audience.
 
-From the articles below, select only those relevant to defence technology in the UK or EU — 
+From the articles below, select only those relevant to defence technology — 
 including AI and autonomy, cyber, procurement reform, defence industrial policy, C-UAS, 
-electronic warfare, and space. Ignore US-only stories, personnel announcements, 
-and general military operations news.
+electronic warfare, and space. Ignore personnel announcements and general military 
+operations news.
 
 Translate any non-English headlines into English.
 
-Return a numbered list of headlines only, ranked by likelihood of generating engagement 
-on Reddit's r/Defence_Tech_UK community. Most engagement-worthy first.
-Include the URL after each headline.
+Sort relevant articles into four categories based on geography:
+- UK
+- EU
+- Korea
+- World (everything else, including the US and other regions)
+
+Within each category, rank articles by likelihood of generating engagement on Reddit's 
+r/Defence_Tech_UK community, most engagement-worthy first. Omit any category with no 
+relevant articles.
 
 Format as clean HTML for an email with this structure:
 <h2 style="color:#1a1a2e;font-family:Arial,sans-serif;">🛡️ Daily Defence Tech Digest</h2>
+<h3 style="color:#1a1a2e;font-family:Arial,sans-serif;">UK</h3>
+<ol style="font-family:Arial,sans-serif;line-height:2;">
+<li><a href="URL" style="color:#0066cc;text-decoration:none;">Headline</a></li>
+</ol>
+<h3 style="color:#1a1a2e;font-family:Arial,sans-serif;">EU</h3>
+<ol style="font-family:Arial,sans-serif;line-height:2;">
+<li><a href="URL" style="color:#0066cc;text-decoration:none;">Headline</a></li>
+</ol>
+<h3 style="color:#1a1a2e;font-family:Arial,sans-serif;">Korea</h3>
+<ol style="font-family:Arial,sans-serif;line-height:2;">
+<li><a href="URL" style="color:#0066cc;text-decoration:none;">Headline</a></li>
+</ol>
+<h3 style="color:#1a1a2e;font-family:Arial,sans-serif;">World</h3>
 <ol style="font-family:Arial,sans-serif;line-height:2;">
 <li><a href="URL" style="color:#0066cc;text-decoration:none;">Headline</a></li>
 </ol>
