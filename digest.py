@@ -153,12 +153,32 @@ def build_email_html(categorized):
     return html
 
 
+# ── Fetch the currently published feed, so today's run can merge rather ──────
+# ── than overwrite it ──────────────────────────────────────────────────────────
+FEED_URL = "https://raw.githubusercontent.com/suki-builds/Defence-Tech-Digest/gh-pages/news.json"
+ROLLING_WINDOW_DAYS = 3
+
+
+def fetch_existing_feed():
+    """Returns the currently live news.json as a list, or [] if it doesn't
+    exist yet (e.g. the very first run) or the fetch fails for any reason."""
+    import urllib.request
+    try:
+        with urllib.request.urlopen(FEED_URL, timeout=15) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except Exception as e:
+        print(f"No existing feed found (or fetch failed): {e}")
+        return []
+
+
 # ── Write the flat JSON feed for the Wix news section ─────────────────────────
 def write_news_json(categorized):
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    feed = []
+    cutoff_date = (datetime.now(timezone.utc) - timedelta(days=ROLLING_WINDOW_DAYS)).strftime("%Y-%m-%d")
+
+    new_stories = []
     for a in categorized:
-        feed.append({
+        new_stories.append({
             "title":   a["title"],
             "url":     a["url"],
             "source":  a["source"],
@@ -166,10 +186,25 @@ def write_news_json(categorized):
             "date":    a.get("published") or today,
             "tag":     a["category"],
         })
+
+    existing = fetch_existing_feed()
+    combined = new_stories + existing  # today's stories take priority on dedupe
+
+    seen_urls = set()
+    deduped = []
+    for s in combined:
+        if s["url"] in seen_urls:
+            continue
+        seen_urls.add(s["url"])
+        deduped.append(s)
+
+    fresh = [s for s in deduped if s["date"] >= cutoff_date]
+    fresh.sort(key=lambda s: s["date"], reverse=True)
+
     os.makedirs("public", exist_ok=True)
     with open("public/news.json", "w", encoding="utf-8") as f:
-        json.dump(feed, f, ensure_ascii=False, indent=2)
-    print(f"Wrote {len(feed)} stories to public/news.json")
+        json.dump(fresh, f, ensure_ascii=False, indent=2)
+    print(f"Wrote {len(fresh)} stories (rolling {ROLLING_WINDOW_DAYS}-day window) to public/news.json")
 
 
 # ── Send email ─────────────────────────────────────────────────────────────────
