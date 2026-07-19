@@ -5,6 +5,9 @@ on:
     - cron: '0 7 * * *'  # 7:00 AM UTC every day
   workflow_dispatch:       # allows manual trigger from GitHub UI
 
+permissions:
+  contents: write   # needed so the workflow can push news.json to gh-pages
+
 jobs:
   send-digest:
     runs-on: ubuntu-latest
@@ -26,3 +29,11 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL:    ${{ secrets.RECIPIENT_EMAIL }}
         run: python digest.py
+
+      - name: Publish news.json to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          keep_files: false
