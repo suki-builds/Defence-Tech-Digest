@@ -1,5 +1,6 @@
 import os
 import re
+import html
 import json
 import smtplib
 from datetime import datetime, timedelta, timezone
@@ -40,8 +41,10 @@ CATEGORIES = ["UK", "EU", "Korea", "World"]
 
 
 def strip_html(text):
-    """Remove HTML tags from RSS summaries so snippets render as plain text."""
-    return re.sub(r"<[^<]+?>", "", text or "").strip()
+    """Remove HTML tags and decode entities (e.g. &#8217; -> ') from RSS
+    summaries so snippets render as clean plain text."""
+    stripped = re.sub(r"<[^<]+?>", "", text or "")
+    return html.unescape(stripped).strip()
 
 
 # ── Fetch articles ─────────────────────────────────────────────────────────────
@@ -60,7 +63,7 @@ def fetch_articles():
                     continue
                 pub_iso = pub_date.strftime("%Y-%m-%d")
             articles.append({
-                "title":     entry.get("title", "No title"),
+                "title":     strip_html(entry.get("title", "No title")),
                 "summary":   strip_html(entry.get("summary", entry.get("description", ""))),
                 "url":       entry.get("link", ""),
                 "source":    feed.feed.get("title", url),
