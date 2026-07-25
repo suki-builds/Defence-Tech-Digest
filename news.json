@@ -1,5 +1,53 @@
 [
   {
+    "title": "Deadly blast exposes a weak link in South Korea’s missile supply chain",
+    "url": "https://defence-blog.com/deadly-blast-exposes-a-weak-link-in-south-koreas-missile-supply-chain/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "A single explosion at one South Korean missile factory has exposed just how fragile the supply chain behind the country’s booming arms export business really is, since many of the components that go i",
+    "date": "2026-07-25",
+    "tag": "Korea"
+  },
+  {
+    "title": "What we learned about GCAP at the Farnborough Airshow",
+    "url": "https://breakingdefense.com/2026/07/what-we-learned-about-gcap-at-the-farnborough-airshow/",
+    "source": "Breaking Defense",
+    "snippet": "From potential new entrants to a “bridge” aircraft in the works, here’s what you need to know about GCAP.",
+    "date": "2026-07-24",
+    "tag": "UK"
+  },
+  {
+    "title": "First British-Designed Collaborative Combat Aircraft (CCA) Unveiled",
+    "url": "https://euro-sd.com/2026/07/news/52536/first-british-designed-collaborative-combat-aircraft-cca-unveiled/",
+    "source": "European Security & Defence",
+    "snippet": "BAE Systems has unveiled the UK’s first uncrewed, autonomous Collaborative Combat Aircraft (CCA) at the Farnborough International Airshow. The system … mehr... \nThe post First British-Designed Collabo",
+    "date": "2026-07-24",
+    "tag": "UK"
+  },
+  {
+    "title": "More Of The UK’s Stealth Fighter Demonstrator Revealed In New Images",
+    "url": "https://www.twz.com/air/more-of-the-uks-stealth-fighter-demonstrator-revealed-in-new-images",
+    "source": "TWZ",
+    "snippet": "We are getting better insights into the configuration of the demonstrator jet that will inform the design of the upcoming Tempest fighter. \nThe post More Of The UK’s Stealth Fighter Demonstrator Revea",
+    "date": "2026-07-24",
+    "tag": "UK"
+  },
+  {
+    "title": "Fincantieri signs contract amendment with OCCAR for U212 NFS program",
+    "url": "https://www.navaltoday.com/2026/07/24/fincantieri-signs-contract-amendment-with-occar-for-u212-nfs-program/",
+    "source": "Naval Today",
+    "snippet": "Italian shipbuilder Fincantieri has signed a contract amendment with OCCAR (Organisation for Joint Armament Co-operation) under the U212 NFS (Near Future Submarine) program\nThe post Fincantieri signs ",
+    "date": "2026-07-24",
+    "tag": "EU"
+  },
+  {
+    "title": "Rheinmetall Powder Plant: Foundation-Laying in Aschau am Inn",
+    "url": "https://euro-sd.com/2026/07/news/52524/rheinmetall-powder-plant-foundation-laying-in-aschau-am-inn/",
+    "source": "European Security & Defence",
+    "snippet": "As part of its major “Firepower” project, Rheinmetall is massively expanding its production capacities for ammunition and propelling charge components. … mehr... \nThe post Rheinmetall Powder Plant: Fo",
+    "date": "2026-07-24",
+    "tag": "EU"
+  },
+  {
     "title": "Intelligent Cooperation Between Manned and Unmanned Aircraft",
     "url": "https://euro-sd.com/2026/07/articles/exclusive/52163/intelligent-cooperation-between-manned-and-unmanned-aircraft/",
     "source": "European Security & Defence",
@@ -213,94 +261,6 @@
     "source": "European Security & Defence",
     "snippet": "The extensive use of the PAC-3 air defence interceptor in the recent clashes with Iran in the Middle East and … mehr... \nThe post Affordable Patriot PAC-3 Variant appeared first on European Security &",
     "date": "2026-07-22",
-    "tag": "EU"
-  },
-  {
-    "title": "Typhoons Paired With CCA Fighter Drones Armed With Meteor Missiles Eyed By UK",
-    "url": "https://www.twz.com/air/typhoons-paired-with-cca-fighter-drones-armed-with-meteor-missiles-eyed-by-uk",
-    "source": "TWZ",
-    "snippet": "The emerging concepts envision Typhoon commanding loyal wingman drones with help of new radar and next-gen cockpit.\nThe post Typhoons Paired With CCA Fighter Drones Armed With Meteor Missiles Eyed By ",
-    "date": "2026-07-21",
-    "tag": "UK"
-  },
-  {
-    "title": "£20 million investment for hypersonic target to test air defence systems and boost British small businesses",
-    "url": "https://www.gov.uk/government/news/20-million-investment-for-hypersonic-target-to-test-air-defence-systems-and-boost-british-small-businesses--2",
-    "source": "Ministry of Defence - Activity on GOV.UK",
-    "snippet": "British small businesses will help develop a hypersonic ‘clay pigeon’ target, a vehicle intended to represent threats capable of travelling at five times the speed of sound, under a new £20m investmen",
-    "date": "2026-07-21",
-    "tag": "UK"
-  },
-  {
-    "title": "UK firms join forces to develop maritime counter-drone air defense system",
-    "url": "https://www.navaltoday.com/2026/07/21/uk-firms-join-forces-to-develop-maritime-counter-drone-air-defense-system/",
-    "source": "Naval Today",
-    "snippet": "UK companies Babcock, ACUA Ocean Technologies and Frankenburg Technologies have partnered to develop an integrated maritime counter-uncrewed aerial system (C-UAS) capability, combining autonomous surf",
-    "date": "2026-07-21",
-    "tag": "UK"
-  },
-  {
-    "title": "GCAP officially expands, and other news from day 2 at Farnborough",
-    "url": "https://breakingdefense.com/2026/07/gcap-officially-expands-and-other-news-from-day-2-at-farnborough/",
-    "source": "Breaking Defense",
-    "snippet": "Plus we talk about why the Commerce Department sent representatives to the air show.",
-    "date": "2026-07-21",
-    "tag": "UK"
-  },
-  {
-    "title": "New British prime minister gains early defense win with Canada fighter jet tie-up",
-    "url": "https://www.defensenews.com/global/europe/2026/07/21/new-british-prime-minister-gains-early-defense-win-with-canada-fighter-jet-tie-up/",
-    "source": "Defense News",
-    "snippet": "Canada has joined the GCAP fighter program as an observer, marking the first expansion beyond the founding members Britain, Italy and Japan.",
-    "date": "2026-07-21",
-    "tag": "UK"
-  },
-  {
-    "title": "Germany to study French cooperation offer on SAMP/T air-defense system",
-    "url": "https://www.defensenews.com/global/europe/2026/07/21/germany-to-study-french-cooperation-offer-on-sampt-air-defense-system/",
-    "source": "Defense News",
-    "snippet": "German government leaders will study an offer by French President Emmanuel Macron to cooperate on the French-Italian SAMP/T air defense system.",
-    "date": "2026-07-21",
-    "tag": "EU"
-  },
-  {
-    "title": "British firm pumping cash into new Laser weapon tech",
-    "url": "https://ukdefencejournal.org.uk/british-firm-pumping-cash-into-new-laser-weapon-tech/",
-    "source": "UK Defence Journal",
-    "snippet": "QinetiQ is investing £20m to accelerate development and production of high-energy laser technology, unveiling its HELENA laser source brand at Farnborough.\nThe post British firm pumping cash into new ",
-    "date": "2026-07-21",
-    "tag": "UK"
-  },
-  {
-    "title": "Raytheon pitches Red Kite weapon at RAF stockpile gap",
-    "url": "https://ukdefencejournal.org.uk/raytheon-pitches-red-kite-weapon-at-raf-stockpile-gap/",
-    "source": "UK Defence Journal",
-    "snippet": "Raytheon UK has unveiled Red Kite, designed and digitally engineered in Britain, built on the StormBreaker airframe and aimed at strengthening RAF stockpile resilience.\nThe post Raytheon pitches Red K",
-    "date": "2026-07-21",
-    "tag": "UK"
-  },
-  {
-    "title": "UK plant will begin assembling next-gen surveillance gear",
-    "url": "https://defence-blog.com/uk-plant-will-begin-assembling-next-gen-surveillance-gear/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "Teledyne FLIR Defense announced it will begin assembling its Star SAFIRE line of thermal imaging camera systems at its facility in West Malling, Kent, after more than two years of planning and formal ",
-    "date": "2026-07-21",
-    "tag": "UK"
-  },
-  {
-    "title": "Behind the Scenes of the Historic Kizilelma and M-346 Formation Flight Revealed at Farnborough",
-    "url": "https://euro-sd.com/2026/07/news/52442/behind-the-scenes-of-the-historic-kizilelma-and-m-346-formation-flight-revealed-at-farnborough/",
-    "source": "European Security & Defence",
-    "snippet": "Baykar and Leonardo shared the details of the K-SWARM flight tests, successfully completed in June, and the future manned/unmanned teaming … mehr... \nThe post Behind the Scenes of the Historic Kizilel",
-    "date": "2026-07-21",
-    "tag": "EU"
-  },
-  {
-    "title": "Partnership: Daimler Truck, Soframe and Lambert Defence for Belgian Military Logistics",
-    "url": "https://euro-sd.com/2026/07/news/52445/partnership-daimler-truck-soframe-and-lambert-defence-for-belgian-military-logistics/",
-    "source": "European Security & Defence",
-    "snippet": "Daimler Truck AG, French defence specialist Soframe and Belgian company Lambert Defence have signed a memorandum of understanding (MoU), Daimler … mehr... \nThe post Partnership: Daimler Truck, Soframe",
-    "date": "2026-07-21",
     "tag": "EU"
   }
 ]
