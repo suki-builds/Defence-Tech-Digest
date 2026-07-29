@@ -1,5 +1,45 @@
 [
   {
+    "title": "UK funds 22 firms to plan new munitions plants",
+    "url": "https://ukdefencejournal.org.uk/uk-funds-22-firms-to-plan-new-munitions-plants/",
+    "source": "UK Defence Journal",
+    "snippet": "Twenty-two companies, including British small and medium-sized enterprises, are to receive contracts to carry out feasibility studies on sites for new UK factories producing materials used in munition",
+    "date": "2026-07-29",
+    "tag": "UK"
+  },
+  {
+    "title": "Funding boost for British companies to supercharge UK munitions production",
+    "url": "https://www.gov.uk/government/news/funding-boost-for-british-companies-to-supercharge-uk-munitions-production",
+    "source": "Ministry of Defence - Activity on GOV.UK",
+    "snippet": "22 companies, including British SMEs, will receive contracts worth up to £300,000 each to carry out feasibility studies on sites for new UK energetics manufacturing plants.",
+    "date": "2026-07-29",
+    "tag": "UK"
+  },
+  {
+    "title": "Five companies advance in EDA loitering munition competition",
+    "url": "https://www.euractiv.com/news/five-companies-advance-in-eda-loitering-munition-competition/",
+    "source": "Euractiv - Feeds",
+    "snippet": "Their technologies will be tested in controlled but operationally realistic scenarios in the autumn",
+    "date": "2026-07-29",
+    "tag": "EU"
+  },
+  {
+    "title": "Huge £8bn tactical comms framework opens to industry",
+    "url": "https://ukdefencejournal.org.uk/huge-8bn-tactical-comms-framework-opens-to-industry/",
+    "source": "UK Defence Journal",
+    "snippet": "The government has established the first frameworks under an eight-year open scheme for military-grade tactical communications, worth around £8bn across three lots and admitting close to 100 suppliers",
+    "date": "2026-07-28",
+    "tag": "UK"
+  },
+  {
+    "title": "Finland closes airspace, restricts maritime traffic near Russia over drone risk",
+    "url": "https://www.defensenews.com/global/europe/2026/07/28/finland-closes-airspace-restricts-maritime-traffic-near-russia-over-drone-risk/",
+    "source": "Defense News",
+    "snippet": "Finland’s military said it closed a section of Finnish airspace and restricted maritime traffic off the country’s southern coast near the Russian border.",
+    "date": "2026-07-28",
+    "tag": "EU"
+  },
+  {
     "title": "Russian AI Technology on Iranian Drones?",
     "url": "https://euro-sd.com/2026/07/news/52581/russian-ai-technology-on-iranian-drones/",
     "source": "European Security & Defence",
@@ -78,29 +118,5 @@
     "snippet": "An unmanned boat has launched a drone into the air over open ocean, all without a single person on board either vehicle, and the demonstration could change how the Royal Navy watches its own waters. B",
     "date": "2026-07-26",
     "tag": "UK"
-  },
-  {
-    "title": "Elistair and Exail bring persistent aerial surveillance to unmanned surface vessels",
-    "url": "https://euro-sd.com/2026/07/news/52507/elistair-and-exail-bring-persistent-aerial-surveillance-to-unmanned-surface-vessels/",
-    "source": "European Security & Defence",
-    "snippet": "Persistent aerial surveillance delivered by a tethered drone launched from an unmanned surface vessel, for coastal security, port protection, and … mehr... \nThe post Elistair and Exail bring persisten",
-    "date": "2026-07-25",
-    "tag": "EU"
-  },
-  {
-    "title": "NATO intern arrested in Belgium over foreign espionage plot",
-    "url": "https://www.euractiv.com/news/nato-intern-arrested-in-belgium-over-foreign-espionage-plot/",
-    "source": "Euractiv - Feeds",
-    "snippet": "The suspect is a Canadian national of Chinese origin",
-    "date": "2026-07-25",
-    "tag": "EU"
-  },
-  {
-    "title": "Deadly blast exposes a weak link in South Korea’s missile supply chain",
-    "url": "https://defence-blog.com/deadly-blast-exposes-a-weak-link-in-south-koreas-missile-supply-chain/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "A single explosion at one South Korean missile factory has exposed just how fragile the supply chain behind the country’s booming arms export business really is, since many of the components that go i",
-    "date": "2026-07-25",
-    "tag": "Korea"
   }
 ]
