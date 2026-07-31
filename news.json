@@ -1,5 +1,53 @@
 [
   {
+    "title": "Anthropic’s AI Claude escaped testing environment and hacked organizations",
+    "url": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
+    "source": "Technology | The Guardian",
+    "snippet": "Company says it discovered unauthorized access during ‘proactive review’ after rival OpenAI revealed rogue agentAnthropic ⁠said on Thursday its AI Claude model hacked ⁠systems of ⁠three ​organizations",
+    "date": "2026-07-31",
+    "tag": "World"
+  },
+  {
+    "title": "Major £8.4bn investment advances UK nuclear deterrent and backs British industry",
+    "url": "https://www.gov.uk/government/news/major-84bn-investment-advances-uk-nuclear-deterrent-and-backs-british-industry",
+    "source": "Ministry of Defence - Activity on GOV.UK",
+    "snippet": "The UK will continue to be kept safe for decades to come, as major investments will progress the next phase of the next generation nuclear deterrent submarines.",
+    "date": "2026-07-30",
+    "tag": "UK"
+  },
+  {
+    "title": "UK funds next Dreadnought-class submarine phase with £8.4B package",
+    "url": "https://navaltoday.com/2026/07/30/uk-funds-next-dreadnought-class-submarine-phase-with-pound84b-package",
+    "source": "Naval Today",
+    "snippet": "The UK government has announced an £8.4 billion ($11.2 billion) investment to advance the next phase of the Royal Navy's Dreadnought-class...",
+    "date": "2026-07-30",
+    "tag": "UK"
+  },
+  {
+    "title": "JIATF-401 awards CACI $500M for non-kinetic cUAS",
+    "url": "https://breakingdefense.com/2026/07/jiatf-401-awards-caci-500m-for-non-kinetic-cuas/",
+    "source": "Breaking Defense",
+    "snippet": "JIATF-401 also awarded AeroVironment (AV) a $500 million three-year contract earlier this month.",
+    "date": "2026-07-30",
+    "tag": "World"
+  },
+  {
+    "title": "How the Pentagon plans to help mitigate industry concerns over critical mineral EO",
+    "url": "https://breakingdefense.com/2026/07/how-the-pentagon-plans-to-help-mitigate-industry-concerns-over-critical-mineral-eo/",
+    "source": "Breaking Defense",
+    "snippet": "An executive order on sourcing critical minerals could shake up supply chains for industry.",
+    "date": "2026-07-30",
+    "tag": "World"
+  },
+  {
+    "title": "Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy",
+    "url": "https://breakingdefense.com/2026/07/senate-confirms-hurst-as-pentagon-comptroller-after-1-5-year-vacancy/",
+    "source": "Breaking Defense",
+    "snippet": "Lawmakers also confirmed nominees for space acquisitions and to lead one of the national security space spy agencies.",
+    "date": "2026-07-30",
+    "tag": "World"
+  },
+  {
     "title": "Rheinmetall to modernize F123-class frigate for German Navy",
     "url": "https://navaltoday.com/2026/07/30/rheinmetall-to-modernize-f123-class-frigate-for-german-navy",
     "source": "Naval Today",
@@ -93,54 +141,6 @@
     "source": "European Security & Defence",
     "snippet": "Across Europe, border environments are becoming increasingly dynamic and complex. Activity can shift within hours—vehicles reposition, staging areas disperse, small \n… mehr... \nThe post Speed as a str",
     "date": "2026-07-28",
-    "tag": "EU"
-  },
-  {
-    "title": "Burnham hosts Zelensky on British aircraft carrier",
-    "url": "https://ukdefencejournal.org.uk/burnham-hosts-zelensky-on-british-aircraft-carrier/",
-    "source": "UK Defence Journal",
-    "snippet": "The Prime Minister has welcomed President Zelensky as his first international visitor, meeting aboard HMS Queen Elizabeth and confirming the UK will share the tech behind the Stone Cloak drone jammer.",
-    "date": "2026-07-27",
-    "tag": "UK"
-  },
-  {
-    "title": "Royal Navy tests seabed defence tech with AUKUS allies",
-    "url": "https://ukdefencejournal.org.uk/royal-navy-tests-seabed-defence-tech-with-aukus-allies/",
-    "source": "UK Defence Journal",
-    "snippet": "British, US and Australian forces ran uncrewed underwater systems across a six-week trial, Exercise Lanternfish, rehearsing how the three AUKUS nations would protect critical seabed infrastructure.\nTh",
-    "date": "2026-07-27",
-    "tag": "UK"
-  },
-  {
-    "title": "Greece Evaluating Elbit Air Keeper System",
-    "url": "https://euro-sd.com/2026/07/news/52579/greece-evaluating-elbit-air-keeper-system/",
-    "source": "European Security & Defence",
-    "snippet": "The Elbit Air Keeper solution brings together all ISTAR and EW capabilities and is designed to be compatible to various … mehr... \nThe post Greece Evaluating Elbit Air Keeper System appeared first on ",
-    "date": "2026-07-27",
-    "tag": "EU"
-  },
-  {
-    "title": "What are the Stone Cloak devices the UK is giving Kyiv?",
-    "url": "https://www.euractiv.com/news/what-are-the-stone-cloak-devices-the-uk-is-giving-kyiv/",
-    "source": "Euractiv - Feeds",
-    "snippet": "London has already supplied thousands of tablet-sized jammers that can be fitted onto drones",
-    "date": "2026-07-27",
-    "tag": "UK"
-  },
-  {
-    "title": "Saab wins huge deal to fit out German frigates",
-    "url": "https://ukdefencejournal.org.uk/saab-wins-huge-deal-to-fit-out-german-frigates/",
-    "source": "UK Defence Journal",
-    "snippet": "Saab has received an order to deliver and integrate combat systems, sensors and composite structures for four of the German Navy's new MEKO A-200 DEU class frigates.\nThe post Saab wins huge deal to fi",
-    "date": "2026-07-27",
-    "tag": "EU"
-  },
-  {
-    "title": "Improved Mission Capabilities",
-    "url": "https://euro-sd.com/2026/07/news/52558/improved-mission-capabilities/",
-    "source": "European Security & Defence",
-    "snippet": "Israeli company Elbit has unveiled a system it claims will dramatically enhance the mission capability of advanced fighter aircraft. The … mehr... \nThe post Improved Mission Capabilities appeared firs",
-    "date": "2026-07-27",
     "tag": "EU"
   }
 ]
