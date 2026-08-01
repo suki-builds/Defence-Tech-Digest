@@ -1,5 +1,61 @@
 [
   {
+    "title": "BAE lands £135m Royal Navy torpedo support deal",
+    "url": "https://ukdefencejournal.org.uk/bae-lands-135m-royal-navy-torpedo-support-deal/",
+    "source": "UK Defence Journal",
+    "snippet": "BAE Systems has been awarded a contract worth just over £135 million to maintain the Royal Navy's Spearfish and Sting Ray torpedoes, placed without competition on the grounds that no other company is ",
+    "date": "2026-08-01",
+    "tag": "UK"
+  },
+  {
+    "title": "U.S. Air Force expands Blue Origin’s role in rocket cargo program",
+    "url": "https://defence-blog.com/u-s-air-force-expands-blue-origins-role-in-rocket-cargo-program/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "The Pentagon just handed Blue Origin nearly $12 million more to figure out whether the company’s rockets could someday deliver military cargo to anywhere on Earth within about an hour, a concept that ",
+    "date": "2026-08-01",
+    "tag": "World"
+  },
+  {
+    "title": "New GCAP fighter jet could enter service two years early",
+    "url": "https://ukdefencejournal.org.uk/new-gcap-fighter-jet-could-enter-service-two-years-early/",
+    "source": "UK Defence Journal",
+    "snippet": "There is a strong push to bring forward the entry into service of the GCAP fighter jet by around two years, and doing so is feasible provided the initial version enters service more gradually, accordi",
+    "date": "2026-07-31",
+    "tag": "UK"
+  },
+  {
+    "title": "Official Statistics: UK Defence Export Statistics 2025",
+    "url": "https://www.gov.uk/government/statistics/announcements/uk-defence-export-statistics-2025",
+    "source": "Ministry of Defence - Activity on GOV.UK",
+    "snippet": "Information and trends on UK defence exports over the period from 2013 to 2025.",
+    "date": "2026-07-31",
+    "tag": "UK"
+  },
+  {
+    "title": "Chinese military researchers tap US AI models to train defense systems",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
+    "source": "Defense News",
+    "snippet": "Chinese researchers have reportedly used leading U.S. AI models developed by OpenAI and Anthropic to train AI systems to advance defense capabilities.",
+    "date": "2026-07-31",
+    "tag": "World"
+  },
+  {
+    "title": "U.S. Navy Is Seeking A Submarine Launched Anti-Air Missile",
+    "url": "https://www.twz.com/sea/u-s-navy-is-seeking-a-submarine-launched-anti-air-missile",
+    "source": "TWZ",
+    "snippet": "The Navy has a plan for a revolutionary modular surface-to-air missile arsenal, and submarines are intended to be added as launch platforms.\nThe post U.S. Navy Is Seeking A Submarine Launched Anti-Air",
+    "date": "2026-07-31",
+    "tag": "World"
+  },
+  {
+    "title": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
+    "url": "https://breakingdefense.com/2026/07/facing-a-lack-of-kit-space-force-creates-981m-pool-to-buy-training-capabilities/",
+    "source": "Breaking Defense",
+    "snippet": "Gen. Greg Gagnon, head of Space Force Combat Forces Command, said a number of key mission areas face a serious lack of simulators needed for training Guardians.",
+    "date": "2026-07-31",
+    "tag": "World"
+  },
+  {
     "title": "Anthropic’s AI Claude escaped testing environment and hacked organizations",
     "url": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
     "source": "Technology | The Guardian",
@@ -101,46 +157,6 @@
     "source": "Euractiv - Feeds",
     "snippet": "Their technologies will be tested in controlled but operationally realistic scenarios in the autumn",
     "date": "2026-07-29",
-    "tag": "EU"
-  },
-  {
-    "title": "Huge £8bn tactical comms framework opens to industry",
-    "url": "https://ukdefencejournal.org.uk/huge-8bn-tactical-comms-framework-opens-to-industry/",
-    "source": "UK Defence Journal",
-    "snippet": "The government has established the first frameworks under an eight-year open scheme for military-grade tactical communications, worth around £8bn across three lots and admitting close to 100 suppliers",
-    "date": "2026-07-28",
-    "tag": "UK"
-  },
-  {
-    "title": "Finland closes airspace, restricts maritime traffic near Russia over drone risk",
-    "url": "https://www.defensenews.com/global/europe/2026/07/28/finland-closes-airspace-restricts-maritime-traffic-near-russia-over-drone-risk/",
-    "source": "Defense News",
-    "snippet": "Finland’s military said it closed a section of Finnish airspace and restricted maritime traffic off the country’s southern coast near the Russian border.",
-    "date": "2026-07-28",
-    "tag": "EU"
-  },
-  {
-    "title": "Russian AI Technology on Iranian Drones?",
-    "url": "https://euro-sd.com/2026/07/news/52581/russian-ai-technology-on-iranian-drones/",
-    "source": "European Security & Defence",
-    "snippet": "Western intelligence organisations suspect that Russia has transferred to Iran the technology that enables the use of AI on advanced … mehr... \nThe post Russian AI Technology on Iranian Drones? appear",
-    "date": "2026-07-28",
-    "tag": "EU"
-  },
-  {
-    "title": "French wildfires threaten nuclear deterrence industry, Rafale assembly",
-    "url": "https://www.defensenews.com/global/europe/2026/07/28/french-wildfires-threaten-nuclear-deterrence-industry-rafale-assembly/",
-    "source": "Defense News",
-    "snippet": "Wildfires raging west of the French city of Bordeaux are threatening a number of France’s key defense-industrial sites.",
-    "date": "2026-07-28",
-    "tag": "EU"
-  },
-  {
-    "title": "Speed as a strategic advantage in border monitoring",
-    "url": "https://euro-sd.com/2026/07/sponsored-content/50980/speed-as-a-strategic-advantage-in-border-monitoring/",
-    "source": "European Security & Defence",
-    "snippet": "Across Europe, border environments are becoming increasingly dynamic and complex. Activity can shift within hours—vehicles reposition, staging areas disperse, small \n… mehr... \nThe post Speed as a str",
-    "date": "2026-07-28",
     "tag": "EU"
   }
 ]
