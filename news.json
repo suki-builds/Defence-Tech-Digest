@@ -1,5 +1,29 @@
 [
   {
+    "title": "Kyiv defence business centre to open, minister says",
+    "url": "https://ukdefencejournal.org.uk/kyiv-defence-business-centre-to-open-minister-says/",
+    "source": "UK Defence Journal",
+    "snippet": "Answering questions on the UK/EU-Ukraine Defence Innovation Corridor roundtable, Luke Pollard pointed to a business centre about to open in Kyiv to give British SMEs access to Ukrainian industry.\nThe ",
+    "date": "2026-08-03",
+    "tag": "UK"
+  },
+  {
+    "title": "Russia’s Starlink rival gains steady coverage over Ukraine",
+    "url": "https://defence-blog.com/russias-starlink-rival-gains-steady-coverage-over-ukraine/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "A Russian satellite network built to rival Starlink has quietly reached a threshold Ukrainian defense officials have been dreading, providing at least two reliable windows of connectivity over Ukraini",
+    "date": "2026-08-03",
+    "tag": "World"
+  },
+  {
+    "title": "SpaceX launches classified spy satellite into orbit",
+    "url": "https://defence-blog.com/spacex-launches-classified-spy-satellite-into-orbit/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "A rocket booster that has flown to space and back seven times carried a classified American spy satellite into orbit before dawn last week, the latest and least publicized entry in a launch campaign t",
+    "date": "2026-08-03",
+    "tag": "World"
+  },
+  {
     "title": "Commission tools up for AI Act enforcement as powers kick in",
     "url": "https://www.euractiv.com/news/commission-tools-up-for-ai-act-enforcement-as-powers-kick-in/",
     "source": "Euractiv - Feeds",
@@ -86,53 +110,5 @@
     "snippet": "Company says it discovered unauthorized access during ‘proactive review’ after rival OpenAI revealed rogue agentAnthropic ⁠said on Thursday its AI Claude model hacked ⁠systems of ⁠three ​organizations",
     "date": "2026-07-31",
     "tag": "World"
-  },
-  {
-    "title": "Major £8.4bn investment advances UK nuclear deterrent and backs British industry",
-    "url": "https://www.gov.uk/government/news/major-84bn-investment-advances-uk-nuclear-deterrent-and-backs-british-industry",
-    "source": "Ministry of Defence - Activity on GOV.UK",
-    "snippet": "The UK will continue to be kept safe for decades to come, as major investments will progress the next phase of the next generation nuclear deterrent submarines.",
-    "date": "2026-07-30",
-    "tag": "UK"
-  },
-  {
-    "title": "UK funds next Dreadnought-class submarine phase with £8.4B package",
-    "url": "https://navaltoday.com/2026/07/30/uk-funds-next-dreadnought-class-submarine-phase-with-pound84b-package",
-    "source": "Naval Today",
-    "snippet": "The UK government has announced an £8.4 billion ($11.2 billion) investment to advance the next phase of the Royal Navy's Dreadnought-class...",
-    "date": "2026-07-30",
-    "tag": "UK"
-  },
-  {
-    "title": "JIATF-401 awards CACI $500M for non-kinetic cUAS",
-    "url": "https://breakingdefense.com/2026/07/jiatf-401-awards-caci-500m-for-non-kinetic-cuas/",
-    "source": "Breaking Defense",
-    "snippet": "JIATF-401 also awarded AeroVironment (AV) a $500 million three-year contract earlier this month.",
-    "date": "2026-07-30",
-    "tag": "World"
-  },
-  {
-    "title": "How the Pentagon plans to help mitigate industry concerns over critical mineral EO",
-    "url": "https://breakingdefense.com/2026/07/how-the-pentagon-plans-to-help-mitigate-industry-concerns-over-critical-mineral-eo/",
-    "source": "Breaking Defense",
-    "snippet": "An executive order on sourcing critical minerals could shake up supply chains for industry.",
-    "date": "2026-07-30",
-    "tag": "World"
-  },
-  {
-    "title": "Senate confirms Hurst as Pentagon comptroller after 1.5-year vacancy",
-    "url": "https://breakingdefense.com/2026/07/senate-confirms-hurst-as-pentagon-comptroller-after-1-5-year-vacancy/",
-    "source": "Breaking Defense",
-    "snippet": "Lawmakers also confirmed nominees for space acquisitions and to lead one of the national security space spy agencies.",
-    "date": "2026-07-30",
-    "tag": "World"
-  },
-  {
-    "title": "Rheinmetall to modernize F123-class frigate for German Navy",
-    "url": "https://navaltoday.com/2026/07/30/rheinmetall-to-modernize-f123-class-frigate-for-german-navy",
-    "source": "Naval Today",
-    "snippet": "German technology group Rheinmetall has been awarded the contract to modernize the F123-class frigate Bayern for the German Navy. As part of the...",
-    "date": "2026-07-30",
-    "tag": "EU"
   }
 ]
