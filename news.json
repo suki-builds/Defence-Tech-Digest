@@ -1,5 +1,53 @@
 [
   {
+    "title": "OpenAI and Anthropic models ‘went rogue’ during UK cybersecurity test",
+    "url": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
+    "source": "Technology | The Guardian",
+    "snippet": "AI Security Institute says tools engaged in potentially harmful activity and incident reveals new type of riskAdvanced AI models developed by OpenAI and Anthropic went rogue during a cybersecurity tes",
+    "date": "2026-08-05",
+    "tag": "UK"
+  },
+  {
+    "title": "Palantir paid just £2m corporation tax in UK in 2024 despite lucrative public sector contracts",
+    "url": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
+    "source": "Technology | The Guardian",
+    "snippet": "Software group benefits from global systems and accounting practices ‘that enable tax to be shirked’, says union bossThe software group Palantir paid just £2m in corporation tax in the UK in 2024, des",
+    "date": "2026-08-05",
+    "tag": "UK"
+  },
+  {
+    "title": "ASELSAN grows by investing in the future",
+    "url": "https://euro-sd.com/2026/08/news/industry-news/52645/aselsan-grows-by-investing-in-the-future/",
+    "source": "European Security & Defence",
+    "snippet": "ASELSAN announced its inflation-adjusted financial results for the first half of 2026. According to the disclosure made to the Public \n… mehr... \nThe post ASELSAN grows by investing in the future appe",
+    "date": "2026-08-05",
+    "tag": "EU"
+  },
+  {
+    "title": "Diehl Defence, BAE Systems link up on naval systems",
+    "url": "https://navaltoday.com/2026/08/05/diehl-defence-bae-systems-link-up-on-naval-systems",
+    "source": "Naval Today",
+    "snippet": "Diehl Defence and BAE Systems have signed a memorandum of understanding to jointly develop integrated maritime defense solutions, with an initial...",
+    "date": "2026-08-05",
+    "tag": "World"
+  },
+  {
+    "title": "Three tank regiments, 190 tanks needed, 148 on order",
+    "url": "https://ukdefencejournal.org.uk/three-tank-regiments-190-tanks-needed-148-on-order/",
+    "source": "UK Defence Journal",
+    "snippet": "Three tank regiments at 56 each, plus 22 for training. That is 190. Challenger 3 will deliver 148. A new paper by Robert Clark puts 3rd Division 42 tanks short and wants the order raised to 198 at £65",
+    "date": "2026-08-04",
+    "tag": "UK"
+  },
+  {
+    "title": "Hybrid Communications and NATO’s Imperative for Innovation on the Eastern Flank",
+    "url": "https://euro-sd.com/2026/08/sponsored-content/49019/hybrid-communications-and-natos-imperative-for-innovation-on-the-eastern-flank/",
+    "source": "European Security & Defence",
+    "snippet": "As NATO adapts to a rapidly evolving security environment, one requirement has become unequivocal, having resilient, interoperable communications which are \n… mehr... \nThe post Hybrid Communications a",
+    "date": "2026-08-04",
+    "tag": "EU"
+  },
+  {
     "title": "‘Fortnite on steroids’: the virtual gaming worlds transformed to train British soldiers",
     "url": "https://www.theguardian.com/uk-news/2026/aug/04/fortnite-on-steroids-the-virtual-gaming-worlds-transformed-to-train-british-soldiers",
     "source": "Technology | The Guardian",
@@ -86,37 +134,5 @@
     "snippet": "The AI office, overseeing the AI Act, looks to add more contractors to compliance and safety units",
     "date": "2026-08-02",
     "tag": "EU"
-  },
-  {
-    "title": "BAE Systems begins production of Turkish Eurofighter Typhoons",
-    "url": "https://defence-blog.com/bae-systems-begins-production-of-turkish-eurofighter-typhoons/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "British workers have started building the first Eurofighter Typhoon jets Türkiye will actually fly, confirming a defense deal announced last October is now moving from paperwork into an actual factory",
-    "date": "2026-08-01",
-    "tag": "UK"
-  },
-  {
-    "title": "American Rheinmetall wins U.S. Army deal for autonomous supply vehicles",
-    "url": "https://defence-blog.com/american-rheinmetall-wins-u-s-army-deal-for-autonomous-supply-vehicles/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "American Rheinmetall announced that the U.S. Army selected Harbinger’s plug-in hybrid vehicle platform as the basis for an autonomous unmanned ground vehicle contract awarded to the company, covering ",
-    "date": "2026-08-01",
-    "tag": "World"
-  },
-  {
-    "title": "BAE lands £135m Royal Navy torpedo support deal",
-    "url": "https://ukdefencejournal.org.uk/bae-lands-135m-royal-navy-torpedo-support-deal/",
-    "source": "UK Defence Journal",
-    "snippet": "BAE Systems has been awarded a contract worth just over £135 million to maintain the Royal Navy's Spearfish and Sting Ray torpedoes, placed without competition on the grounds that no other company is ",
-    "date": "2026-08-01",
-    "tag": "UK"
-  },
-  {
-    "title": "U.S. Air Force expands Blue Origin’s role in rocket cargo program",
-    "url": "https://defence-blog.com/u-s-air-force-expands-blue-origins-role-in-rocket-cargo-program/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "The Pentagon just handed Blue Origin nearly $12 million more to figure out whether the company’s rockets could someday deliver military cargo to anywhere on Earth within about an hour, a concept that ",
-    "date": "2026-08-01",
-    "tag": "World"
   }
 ]
