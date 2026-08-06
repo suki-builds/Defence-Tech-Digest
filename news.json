@@ -1,5 +1,53 @@
 [
   {
+    "title": "Britain to buy new drone warfare testbed vessel",
+    "url": "https://ukdefencejournal.org.uk/britain-to-buy-new-drone-warfare-testbed-vessel/",
+    "source": "UK Defence Journal",
+    "snippet": "The Royal Navy is planning to procure a multi-role uncrewed surface vessel intended for tech demonstration and to be delivered by the end of the financial year.\nThe post Britain to buy new drone warfa",
+    "date": "2026-08-06",
+    "tag": "UK"
+  },
+  {
+    "title": "France’s drone production shifts from policy ambition to factory floor",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/08/05/frances-drone-production-shifts-from-policy-ambition-to-factory-floor/",
+    "source": "Defense News",
+    "snippet": "France’s push to enlist its car industry to produce military drones is moving to industrial implementation.",
+    "date": "2026-08-05",
+    "tag": "EU"
+  },
+  {
+    "title": "Airbus Flexrotor begins Baltic maritime surveillance work",
+    "url": "https://ukdefencejournal.org.uk/airbus-flexrotor-begins-baltic-maritime-surveillance-work/",
+    "source": "UK Defence Journal",
+    "snippet": "The Airbus U030 Flexrotor has begun maritime surveillance operations in the Baltic Sea on behalf of the European Maritime Safety Agency, marking the tactical uncrewed system's first operational deploy",
+    "date": "2026-08-05",
+    "tag": "EU"
+  },
+  {
+    "title": "NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts",
+    "url": "https://breakingdefense.com/2026/08/nro-issues-3-sar-satellite-data-providers-rigorous-new-contracts/",
+    "source": "Breaking Defense",
+    "snippet": "The new Radar Commercial Augmentation contracts reflect the companies’ successful demonstration of their capabilities under previous NRO study contracts, according to the spy satellite agency.",
+    "date": "2026-08-05",
+    "tag": "World"
+  },
+  {
+    "title": "Space Force awards 3 firms $615M to track airborne targets",
+    "url": "https://breakingdefense.com/2026/08/space-force-awards-3-firms-615m-to-track-airborne-targets/",
+    "source": "Breaking Defense",
+    "snippet": "The task orders come under an ID/IQ with an undisclosed value granted to nine firms in April, and follow a first order to SpaceX in May worth $4.6 billion.",
+    "date": "2026-08-05",
+    "tag": "World"
+  },
+  {
+    "title": "Blue Water Autonomy wins spot on US Navy’s $40M ocean mapping contract",
+    "url": "https://navaltoday.com/2026/08/05/blue-water-autonomy-wins-spot-on-us-navys-dollar40m-ocean-mapping-contract",
+    "source": "Naval Today",
+    "snippet": "Boston-based technology and shipbuilding company Blue Water Autonomy has been selected for a multiple-award contract by the US Naval...",
+    "date": "2026-08-05",
+    "tag": "World"
+  },
+  {
     "title": "OpenAI and Anthropic models ‘went rogue’ during UK cybersecurity test",
     "url": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
     "source": "Technology | The Guardian",
@@ -126,13 +174,5 @@
     "snippet": "A rocket booster that has flown to space and back seven times carried a classified American spy satellite into orbit before dawn last week, the latest and least publicized entry in a launch campaign t",
     "date": "2026-08-03",
     "tag": "World"
-  },
-  {
-    "title": "Commission tools up for AI Act enforcement as powers kick in",
-    "url": "https://www.euractiv.com/news/commission-tools-up-for-ai-act-enforcement-as-powers-kick-in/",
-    "source": "Euractiv - Feeds",
-    "snippet": "The AI office, overseeing the AI Act, looks to add more contractors to compliance and safety units",
-    "date": "2026-08-02",
-    "tag": "EU"
   }
 ]
