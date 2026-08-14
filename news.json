@@ -1,5 +1,53 @@
 [
   {
+    "title": "Cooling research could triple the range of radars",
+    "url": "https://ukdefencejournal.org.uk/cooling-research-could-triple-the-range-of-radars/",
+    "source": "UK Defence Journal",
+    "snippet": "BAE Systems has completed the first phase of a DARPA programme aimed at removing heat from radio frequency electronics and has been funded to continue into a second phase.\nThe post Cooling research co",
+    "date": "2026-08-13",
+    "tag": "UK"
+  },
+  {
+    "title": "Rheinmetall successfully launches the FV-014",
+    "url": "https://euro-sd.com/2026/08/news/land/52851/rheinmetall-successfully-launches-the-fv-014/",
+    "source": "European Security & Defence",
+    "snippet": "Rheinmetall has successfully launched its FV-014 loitering munition system from the Containerized Missile Launcher, a modular multi launcher for guided \n… mehr... \nThe post Rheinmetall successfully la",
+    "date": "2026-08-13",
+    "tag": "EU"
+  },
+  {
+    "title": "Rafael Unveils Drone Killer “Light Hunter” in Secret Show",
+    "url": "https://euro-sd.com/2026/08/news/52857/rafael-drone-killer-light-hunter/",
+    "source": "European Security & Defence",
+    "snippet": "As European militaries race to counter the rapidly growing threat posed by armed FPV drones, Israel’s Rafael Advanced Defense Systems … mehr... \nThe post Rafael Unveils Drone Killer “Light Hunter” in ",
+    "date": "2026-08-13",
+    "tag": "EU"
+  },
+  {
+    "title": "Meet MORFIUS: The Drone Designed To Zap Other Drones",
+    "url": "https://www.twz.com/news-features/meet-morfius-the-drone-designed-to-zap-other-drones",
+    "source": "TWZ",
+    "snippet": "Lockheed Martin's new MORFIUS X-Rotor counter-UAS system hunts drones and can knock down dozens of them with its high power microwave payload.\nThe post Meet MORFIUS: The Drone Designed To Zap Other Dr",
+    "date": "2026-08-13",
+    "tag": "World"
+  },
+  {
+    "title": "Australia’s MC-55 Electronic Warfare Jet Has Entered The South China Sea",
+    "url": "https://www.twz.com/air/australias-mc-55-electronic-warfare-jet-has-entered-the-south-china-sea",
+    "source": "TWZ",
+    "snippet": "The Peregrine’s first overseas deployment gives Canberra an extremely powerful new intelligence-gathering capability right in China’s backyard.\nThe post Australia’s MC-55 Electronic Warfare Jet Has En",
+    "date": "2026-08-13",
+    "tag": "World"
+  },
+  {
+    "title": "Army gears up to ‘engage’ enemy surveillance satellites",
+    "url": "https://breakingdefense.com/2026/08/army-gears-up-to-engage-enemy-surveillance-satellites/",
+    "source": "Breaking Defense",
+    "snippet": "The Army’s space superiority efforts are focused on countering adversary ISR satellites, as well as conducting “stratospheric warfare,” Col. Joe Mroszcyck told Breaking Defense.",
+    "date": "2026-08-13",
+    "tag": "World"
+  },
+  {
     "title": "Should the US demonstrate its space weapons?",
     "url": "https://breakingdefense.com/2026/08/should-the-us-demonstrate-its-space-weapons/",
     "source": "Breaking Defense",
@@ -93,54 +141,6 @@
     "source": "European Security & Defence",
     "snippet": "As NATO adapts to a rapidly evolving security environment, one requirement has become unequivocal, having resilient, interoperable communications which are \n… mehr... \nThe post Hybrid Communications a",
     "date": "2026-08-11",
-    "tag": "EU"
-  },
-  {
-    "title": "Royal Navy naval drone cameras secretly sent data to China",
-    "url": "https://defence-blog.com/royal-navy-naval-drone-cameras-secretly-sent-data-to-china/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "Cameras mounted on Royal Navy surveillance drones bound for special forces missions in the Gulf were secretly transmitting signals to an IP address inside China, The Telegraph reported, citing an inve",
-    "date": "2026-08-10",
-    "tag": "UK"
-  },
-  {
-    "title": "Thales wins deal to run Britain’s Link 16 network",
-    "url": "https://ukdefencejournal.org.uk/thales-wins-deal-to-run-britains-link-16-network/",
-    "source": "UK Defence Journal",
-    "snippet": "The Ministry of Defence has awarded Thales UK a contract worth £9.8 million to support the system that manages and monitors all Link 16 activity across the United Kingdom.\nThe post Thales wins deal to",
-    "date": "2026-08-10",
-    "tag": "UK"
-  },
-  {
-    "title": "Agentic AI turning Zero Trust cybersecurity ‘on its head’",
-    "url": "https://breakingdefense.com/2026/08/agentic-ai-turning-zero-trust-cybersecurity-on-its-head/",
-    "source": "Breaking Defense",
-    "snippet": "A top Intelligence Community official said the government may need to develop digital birth certificates for AI agents.",
-    "date": "2026-08-10",
-    "tag": "World"
-  },
-  {
-    "title": "OCCAR signs contract amendment for Horizon frigate mid-life upgrade",
-    "url": "https://navaltoday.com/2026/08/10/occar-signs-contract-amendment-for-horizon-frigate-mid-life-upgrade",
-    "source": "Naval Today",
-    "snippet": "The Organisation for Joint Armament Co-operation (OCCAR) has signed the second amendment to the Horizon-class frigates’ Mid-Life Upgrade (MLU)...",
-    "date": "2026-08-10",
-    "tag": "EU"
-  },
-  {
-    "title": "British drone-killer startup hits $3.4bn value in under 2 years",
-    "url": "https://defence-blog.com/british-drone-killer-startup-hits-3-4bn-value-in-under-2-years/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "A British air defense startup that did not exist until late 2024 just landed a $300 million funding round that values the company at $3.4 billion, a valuation that puts it on par with established defe",
-    "date": "2026-08-10",
-    "tag": "UK"
-  },
-  {
-    "title": "DroneShield Launches RfRecon",
-    "url": "https://euro-sd.com/2026/08/news/exclusive-news/52719/droneshield-launches-rfrecon/",
-    "source": "European Security & Defence",
-    "snippet": "Marking the Evolution from RF Detection to RF Intelligence\nEnabling operators to detect, locate, and understand activity in the RF \n… mehr... \nThe post DroneShield Launches RfRecon appeared first on E",
-    "date": "2026-08-10",
     "tag": "EU"
   }
 ]
