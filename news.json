@@ -1,9 +1,9 @@
 [
   {
-    "title": "Europe’s airpower future is evolving. Here’s what to know.",
-    "url": "https://breakingdefense.com/2026/09/europes-airpower-future-is-evolving-heres-what-to-know/",
+    "title": "Sweden to ‘evaluate’ adding French long-range strike missiles to new frigates",
+    "url": "https://breakingdefense.com/2026/09/sweden-to-evaluate-adding-french-long-range-strike-missiles-to-new-frigates/",
     "source": "Breaking Defense",
-    "snippet": "Breaking Defense kicks off a new video series focused on how Europe is modernizing its manned and unmanned aircraft.",
+    "snippet": "After inking a €4.3 billion frigate deal, Sweden’s defense minister told Breaking Defense Stockholm was keeping an “open mind” about additional cruise missiles.",
     "date": "2026-09-02",
     "tag": "EU"
   },
@@ -16,12 +16,44 @@
     "tag": "EU"
   },
   {
+    "title": "Le réseau électrique européen face aux menaces de sabotage et de cyberattaques : « Le scénario du pire n’a rien d’inéluctable, mais il faut s’y préparer »",
+    "url": "https://www.lemonde.fr/economie/article/2026/09/02/le-reseau-electrique-europeen-face-aux-menaces-de-sabotage-et-de-cyberattaques-le-scenario-du-pire-n-a-rien-d-ineluctable-mais-il-faut-s-y-preparer_6763909_3234.html",
+    "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+    "snippet": "Dans un contexte de conflictualité croissante avec la Russie, le risque d’un black-out majeur en Europe est pris au sérieux. La France veut organiser un exercice de simulation de crise en 2027.",
+    "date": "2026-09-02",
+    "tag": "EU"
+  },
+  {
     "title": "German government blames Russia for Leipzig airport drone attack with explosives",
     "url": "https://www.defensenews.com/global/europe/2026/09/02/german-government-blames-russia-for-leipzig-airport-drone-attack-with-explosives/",
     "source": "Defense News",
     "snippet": "Russia was behind the failed explosive drone attack on Germany’s key Leipzig/Halle Airport last month, the authorities in Berlin have concluded.",
     "date": "2026-09-02",
     "tag": "EU"
+  },
+  {
+    "title": "GE Aerospace wins Korean Navy destroyer engine deal",
+    "url": "https://defence-blog.com/ge-aerospace-wins-korean-navy-destroyer-engine-deal/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "South Korea’s Navy has selected GE Aerospace to supply gas turbine engines for its next-generation KDDX destroyer program, with GE Marine set to deliver 12 LM2500+G4 engines to power six ships, the co",
+    "date": "2026-09-02",
+    "tag": "Korea"
+  },
+  {
+    "title": "Europe’s airpower future is evolving. Here’s what to know.",
+    "url": "https://breakingdefense.com/2026/09/europes-airpower-future-is-evolving-heres-what-to-know/",
+    "source": "Breaking Defense",
+    "snippet": "Breaking Defense kicks off a new video series focused on how Europe is modernizing its manned and unmanned aircraft.",
+    "date": "2026-09-02",
+    "tag": "World"
+  },
+  {
+    "title": "Chinese Cargo Ships Clandestinely Gather Signals Intelligence: Report",
+    "url": "https://www.twz.com/news-features/chinese-cargo-ships-clandestinely-gather-signals-intelligence-report",
+    "source": "TWZ",
+    "snippet": "It should not come as too much of a surprise that China is using its massive commercial fleet to spy around the globe as they go about their business.\nThe post Chinese Cargo Ships Clandestinely Gather",
+    "date": "2026-09-02",
+    "tag": "World"
   },
   {
     "title": "UK ship requisition may fail in wartime, report warns",
@@ -40,22 +72,6 @@
     "tag": "UK"
   },
   {
-    "title": "GE Aerospace wins Korean Navy destroyer engine deal",
-    "url": "https://defence-blog.com/ge-aerospace-wins-korean-navy-destroyer-engine-deal/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "South Korea’s Navy has selected GE Aerospace to supply gas turbine engines for its next-generation KDDX destroyer program, with GE Marine set to deliver 12 LM2500+G4 engines to power six ships, the co",
-    "date": "2026-09-02",
-    "tag": "Korea"
-  },
-  {
-    "title": "Chinese Cargo Ships Clandestinely Gather Signals Intelligence: Report",
-    "url": "https://www.twz.com/news-features/chinese-cargo-ships-clandestinely-gather-signals-intelligence-report",
-    "source": "TWZ",
-    "snippet": "It should not come as too much of a surprise that China is using its massive commercial fleet to spy around the globe as they go about their business.\nThe post Chinese Cargo Ships Clandestinely Gather",
-    "date": "2026-09-02",
-    "tag": "World"
-  },
-  {
     "title": "Ukraine’s Ground Robots and the Economics of Survival",
     "url": "https://warontherocks.com/ukraines-ground-robots-and-the-economics-of-survival/",
     "source": "War on the Rocks",
@@ -64,18 +80,18 @@
     "tag": "World"
   },
   {
-    "title": "TKMS, Fincantieri to expand cooperation in underwater and submarine sector",
-    "url": "https://navaltoday.com/2026/09/01/tkms-fincantieri-to-expand-cooperation-in-underwater-and-submarine-sector",
-    "source": "Naval Today",
-    "snippet": "German shipbuilder TKMS and its Italian counterpart Fincantieri have signed a Memorandum of Understanding (MoU) aimed at deepening their...",
-    "date": "2026-09-01",
-    "tag": "EU"
-  },
-  {
     "title": "Germany Formally Accuses Russia Of Attempted Drone Strike On Ukrainian An-124 Cargo Jet",
     "url": "https://www.twz.com/news-features/germany-formally-accuses-russia-of-attempted-drone-strike-on-ukrainian-an-124-cargo-jet",
     "source": "TWZ",
     "snippet": "The news comes as Germany's power grid is also targeted, with separate incidents pointing to a widening threat in Germany and beyond.\nThe post Germany Formally Accuses Russia Of Attempted Drone Strike",
+    "date": "2026-09-01",
+    "tag": "EU"
+  },
+  {
+    "title": "TKMS, Fincantieri to expand cooperation in underwater and submarine sector",
+    "url": "https://navaltoday.com/2026/09/01/tkms-fincantieri-to-expand-cooperation-in-underwater-and-submarine-sector",
+    "source": "Naval Today",
+    "snippet": "German shipbuilder TKMS and its Italian counterpart Fincantieri have signed a Memorandum of Understanding (MoU) aimed at deepening their...",
     "date": "2026-09-01",
     "tag": "EU"
   },
