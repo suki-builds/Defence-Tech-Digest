@@ -1,5 +1,29 @@
 [
   {
+    "title": "Europe wants to build with Ukraine. Can its defence industry keep up?",
+    "url": "https://www.euractiv.com/news/europe-wants-to-build-with-ukraine-can-its-defence-industry-keep-up/",
+    "source": "Euractiv - Feeds",
+    "snippet": "As Kyiv pushes Europe to move faster, its defence industry is showing just how far behind the bloc still is",
+    "date": "2026-09-07",
+    "tag": "EU"
+  },
+  {
+    "title": "To lead in advanced materials, Europe must change how it innovates [Promoted Content]",
+    "url": "https://www.euractiv.com/opinion/to-lead-in-advanced-materials-europe-must-change-how-it-innovates/",
+    "source": "Euractiv - Feeds",
+    "snippet": "Europe discovers advanced materials but turns them into products too slowly, losing ground to the US and China. Horizon Europe 2028–2034, the European Competitiveness Fund and the Advanced Materials A",
+    "date": "2026-09-07",
+    "tag": "EU"
+  },
+  {
+    "title": "Report urges Britain to offer EU nuclear protection",
+    "url": "https://ukdefencejournal.org.uk/report-urges-britain-to-offer-eu-nuclear-protection/",
+    "source": "UK Defence Journal",
+    "snippet": "Britain should explore formally extending its nuclear deterrent over the European Union in exchange for access to European defence funds, according to a report by the Council on Geostrategy.\nThe post ",
+    "date": "2026-09-06",
+    "tag": "UK"
+  },
+  {
     "title": "Bavarian startup celebrates Europe’s first private-sector orbital rocket launch",
     "url": "https://www.euractiv.com/news/bavarian-startup-celebrates-europes-first-private-sector-orbital-rocket-launch/",
     "source": "Euractiv - Feeds",
@@ -126,125 +150,5 @@
     "snippet": "American Rheinmetall has secured a contract from Kongsberg Defence & Aerospace to manufacture machined components for MCT-30 medium-caliber...",
     "date": "2026-09-04",
     "tag": "EU"
-  },
-  {
-    "title": "Ford, GDLS and Ricardo Join Forces for the UK",
-    "url": "https://euro-sd.com/2026/09/news/land/53570/ford-gdls-ricardo/",
-    "source": "European Security & Defence",
-    "snippet": "As the UK Ministry of Defence (MoD) prioritises fleet modernisation and operational resilience across the armed forces, Ford, General Dynamics … mehr... \nThe post Ford, GDLS and Ricardo Join Forces fo",
-    "date": "2026-09-03",
-    "tag": "UK"
-  },
-  {
-    "title": "XPONENTIAL Europe: Drone-Protection Following Leipzig",
-    "url": "https://euro-sd.com/2026/09/news/industry-news/53577/xponential-drones/",
-    "source": "European Security & Defence",
-    "snippet": "Perimeter protection was long considered a comparatively unspectacular discipline of airport security: fences, cameras, motion detectors and patrols along the \n\n… mehr... \nThe post XPONENTIAL Europe: ",
-    "date": "2026-09-03",
-    "tag": "EU"
-  },
-  {
-    "title": "German warship secretly fires ballistic missile in Atlantic",
-    "url": "https://ukdefencejournal.org.uk/german-warship-secretly-fires-ballistic-missile-in-atlantic/",
-    "source": "UK Defence Journal",
-    "snippet": "A German frigate secretly fired a powerful, long range Israeli LORA ballistic missile in the North Atlantic, with NATO sending a very clear message to potential adversaries.\nThe post German warship se",
-    "date": "2026-09-03",
-    "tag": "EU"
-  },
-  {
-    "title": "New counter-UAV system for close-range threats debuts in Germany",
-    "url": "https://navaltoday.com/2026/09/03/new-counter-uav-system-for-close-range-threats-debuts-in-germany",
-    "source": "Naval Today",
-    "snippet": "Mehler Systems is unveiling a new active counter-unmanned aerial vehicle (UAV) system at SMM 2026 in Germany, designed to protect ships against...",
-    "date": "2026-09-03",
-    "tag": "World"
-  },
-  {
-    "title": "Britain wants laser armed ground vehicle drones",
-    "url": "https://ukdefencejournal.org.uk/britain-wants-laser-armed-ground-vehicle-drones/",
-    "source": "UK Defence Journal",
-    "snippet": "Britain is seeking counter-drone technology that could lead to autonomous laser weapons mounted on Army vehicles and, later, uncrewed ground vehicles.\nThe post Britain wants laser armed ground vehicle",
-    "date": "2026-09-03",
-    "tag": "UK"
-  },
-  {
-    "title": "Construction of British deep space radar to begin in 2027",
-    "url": "https://ukdefencejournal.org.uk/construction-of-british-deep-space-radar-to-begin-in-2027/",
-    "source": "UK Defence Journal",
-    "snippet": "Construction of the British site for the Deep Space Advanced Radar Capability will begin in April 2027.\nThe post Construction of British deep space radar to begin in 2027 first appeared on UK Defence ",
-    "date": "2026-09-03",
-    "tag": "UK"
-  },
-  {
-    "title": "UK targets faster contracting for warships, aircraft and uncrewed systems",
-    "url": "https://navaltoday.com/2026/09/03/uk-targets-faster-contracting-for-warships-aircraft-and-uncrewed-systems",
-    "source": "Naval Today",
-    "snippet": "The UK Ministry of Defense (MoD) is introducing new acquisition reforms aimed at reducing the time required to contract for major military...",
-    "date": "2026-09-03",
-    "tag": "UK"
-  },
-  {
-    "title": "Fast-paced funding for force-protection innovation",
-    "url": "https://www.gov.uk/government/news/fast-paced-funding-for-force-protection-innovation",
-    "source": "Ministry of Defence - Activity on GOV.UK",
-    "snippet": "UKDI seeks counter-Uncrewed Aerial System capabilities for development to deployment",
-    "date": "2026-09-03",
-    "tag": "UK"
-  },
-  {
-    "title": "Beyond the Howitzer: Hanwha Unveils Next Evolution of K9",
-    "url": "https://euro-sd.com/2026/09/news/land/53564/hanwha-k9/",
-    "source": "European Security & Defence",
-    "snippet": "Hanwha Aerospace unveiled its vision for the next evolution of the K9 Self-Propelled Howitzer at this year’s K9 User Club … mehr... \nThe post Beyond the Howitzer: Hanwha Unveils Next Evolution of K9 a",
-    "date": "2026-09-03",
-    "tag": "Korea"
-  },
-  {
-    "title": "Warrior conversion under way for uncrewed mine breaching",
-    "url": "https://ukdefencejournal.org.uk/warrior-conversion-under-way-for-uncrewed-mine-breaching/",
-    "source": "UK Defence Journal",
-    "snippet": "Work has begun on converting Warrior infantry fighting vehicles into uncrewed minefield breaching platforms as part of the trial phase of Project ATILLA.\nThe post Warrior conversion under way for uncr",
-    "date": "2026-09-03",
-    "tag": "UK"
-  },
-  {
-    "title": "MOD targets two-year contract deadline for major platforms",
-    "url": "https://ukdefencejournal.org.uk/mod-targets-two-year-contract-deadline-for-major-platforms/",
-    "source": "UK Defence Journal",
-    "snippet": "The Ministry of Defence has set a target of reducing the average time to first contract for major platforms such as tanks, frigates and aircraft from six years to two.\nThe post MOD targets two-year co",
-    "date": "2026-09-03",
-    "tag": "UK"
-  },
-  {
-    "title": "Dhesi presses PM on pathway to three per cent",
-    "url": "https://ukdefencejournal.org.uk/dhesi-presses-pm-on-pathway-to-three-per-cent/",
-    "source": "UK Defence Journal",
-    "snippet": "Tanmanjeet Singh Dhesi has pressed the PM for a pathway to three per cent of GDP on defence by 2030, telling the Commons that \"vibes alone just will not be enough\".\nThe post Dhesi presses PM on pathwa",
-    "date": "2026-09-03",
-    "tag": "UK"
-  },
-  {
-    "title": "German startup TYTAN debuts new rocket-boosted interceptor",
-    "url": "https://defence-blog.com/german-startup-tytan-debuts-new-rocket-boosted-interceptor/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "Munich-based counter-drone company TYTAN Technologies said it demonstrated a new rocket-boosted interceptor drone to the German Federal Cabinet last month, presenting what the company described as a n",
-    "date": "2026-09-03",
-    "tag": "EU"
-  },
-  {
-    "title": "GE Aerospace to power ROKN's new KDDX destroyers",
-    "url": "https://navaltoday.com/2026/09/03/ge-aerospace-to-power-rokns-new-kddx-destroyers",
-    "source": "Naval Today",
-    "snippet": "GE Aerospace has received a contract to supply twelve LM2500+G4 marine gas turbine engines to power six ships of the Republic of Korea Navy’s...",
-    "date": "2026-09-03",
-    "tag": "Korea"
-  },
-  {
-    "title": "Where Does AI Escalation Come From? We Don’t Know. We Should Find Out.",
-    "url": "https://warontherocks.com/where-does-ai-escalation-come-from-we-dont-know-we-should-find-out/",
-    "source": "War on the Rocks",
-    "snippet": "We played a wargame using AI players. Two nuclear-armed nations — Red and Blue — with a long-standing, fierce border dispute were placed into a militarized crisis. Over the course of several turns, th",
-    "date": "2026-09-03",
-    "tag": "World"
   }
 ]
