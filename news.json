@@ -1,9 +1,33 @@
 [
   {
-    "title": "Second phase of RAF air command system cancelled",
-    "url": "https://ukdefencejournal.org.uk/second-phase-of-raf-air-command-system-cancelled/",
+    "title": "New space strategy will bolster UK defences against threats from space",
+    "url": "https://www.gov.uk/government/news/new-space-strategy-will-bolster-uk-defences-against-threats-from-space",
+    "source": "Ministry of Defence - Activity on GOV.UK",
+    "snippet": "New UK space strategy to bring government's investment and activity under one plan to drive growth, strengthen security and back everyday technologies",
+    "date": "2026-09-08",
+    "tag": "UK"
+  },
+  {
+    "title": "Policy paper: UK Space Strategy",
+    "url": "https://www.gov.uk/government/publications/uk-space-strategy",
+    "source": "Ministry of Defence - Activity on GOV.UK",
+    "snippet": "The UK Space Strategy sets out the UK’s enhanced intentions for the space sector, focussing on defence, national security and economic growth, backed by £7.8 billion of investment to 2030.",
+    "date": "2026-09-08",
+    "tag": "UK"
+  },
+  {
+    "title": "No decision yet on drone defences for Army’s new vehicles",
+    "url": "https://ukdefencejournal.org.uk/no-decision-yet-on-drone-defences-for-armys-new-vehicles/",
     "source": "UK Defence Journal",
-    "snippet": "The Ministry of Defence has cancelled the second phase of Project Guardian, a Royal Air Force command and control system.\nThe post Second phase of RAF air command system cancelled first appeared on UK",
+    "snippet": "The Ministry of Defence has taken no decision on including a hard-kill counter-drone active protection system within the Mechanised Infantry Programme, though such opportunities are being explored.\nTh",
+    "date": "2026-09-08",
+    "tag": "UK"
+  },
+  {
+    "title": "Gun requirement pulled from Fleet Solid Support contract",
+    "url": "https://ukdefencejournal.org.uk/gun-requirement-pulled-from-fleet-solid-support-contract/",
+    "source": "UK Defence Journal",
+    "snippet": "The automatic small calibre gun requirement has been removed from the Fleet Solid Support manufacture contract with Navantia UK, at a cost of £1.7 million recorded as a constructive loss, because it n",
     "date": "2026-09-08",
     "tag": "UK"
   },
@@ -16,6 +40,38 @@
     "tag": "EU"
   },
   {
+    "title": "DNV, Fassmer link up on autonomous naval vessels",
+    "url": "https://navaltoday.com/2026/09/08/dnv-fassmer-link-up-on-autonomous-naval-vessels",
+    "source": "Naval Today",
+    "snippet": "Classification society DNV and German shipbuilder Fassmer have signed a Memorandum of Understanding (MoU) to jointly develop and classify...",
+    "date": "2026-09-08",
+    "tag": "World"
+  },
+  {
+    "title": "German Navy fires IAI’s LORA ballistic missile",
+    "url": "https://navaltoday.com/2026/09/08/german-navy-fires-iais-lora-ballistic-missile",
+    "source": "Naval Today",
+    "snippet": "The German Navy has completed a dual operational firing trial with IAI’s naval Lora ballistic missile, as part of its Operational Experimentation...",
+    "date": "2026-09-08",
+    "tag": "World"
+  },
+  {
+    "title": "Israeli firm lands first order for its new drone defense turret",
+    "url": "https://defence-blog.com/israeli-firm-lands-first-order-for-its-new-drone-defense-turret/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "Axon Vision has received its first order for ForceField, an AI-powered counter-drone system it launched in July, with an Israeli defense organization placing a deal worth up to roughly 15 million shek",
+    "date": "2026-09-08",
+    "tag": "World"
+  },
+  {
+    "title": "Second phase of RAF air command system cancelled",
+    "url": "https://ukdefencejournal.org.uk/second-phase-of-raf-air-command-system-cancelled/",
+    "source": "UK Defence Journal",
+    "snippet": "The Ministry of Defence has cancelled the second phase of Project Guardian, a Royal Air Force command and control system.\nThe post Second phase of RAF air command system cancelled first appeared on UK",
+    "date": "2026-09-08",
+    "tag": "UK"
+  },
+  {
     "title": "Mistral AI annonce une levée de fonds à 3 milliards d’euros en réponse aux doutes sur l’évolution de sa stratégie",
     "url": "https://www.lemonde.fr/economie/article/2026/09/08/mistral-ai-une-levee-de-fonds-a-3-milliards-d-euros-en-reponse-aux-doutes-sur-l-evolution-de-sa-strategie_6768110_3234.html",
     "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
@@ -24,12 +80,12 @@
     "tag": "EU"
   },
   {
-    "title": "Billions for space defence under new national strategy",
-    "url": "https://ukdefencejournal.org.uk/billions-for-space-defence-under-new-national-strategy/",
-    "source": "UK Defence Journal",
-    "snippet": "The government has published a new UK Space Strategy, with more than £3 billion of it directed at defence capabilities in orbit, the Department for Business, Innovation, Science and Trade announced.\nT",
+    "title": "Rafael, Lower Saxony and Aurelius to develop Volkswagen site in Germany",
+    "url": "https://breakingdefense.com/2026/09/rafael-lower-saxony-and-aurelius-to-develop-volkswagen-site-in-germany/",
+    "source": "Breaking Defense",
+    "snippet": "The agreement, if completed, would give Rafael a new production site in Germany, at a Volkswagen location slated to close.",
     "date": "2026-09-07",
-    "tag": "UK"
+    "tag": "EU"
   },
   {
     "title": "NSPA Launches IRSP",
@@ -48,20 +104,20 @@
     "tag": "EU"
   },
   {
-    "title": "Rafael, Lower Saxony and Aurelius to develop Volkswagen site in Germany",
-    "url": "https://breakingdefense.com/2026/09/rafael-lower-saxony-and-aurelius-to-develop-volkswagen-site-in-germany/",
-    "source": "Breaking Defense",
-    "snippet": "The agreement, if completed, would give Rafael a new production site in Germany, at a Volkswagen location slated to close.",
-    "date": "2026-09-07",
-    "tag": "EU"
-  },
-  {
     "title": "Croatia buys South Korean rocket artillery after HIMARS purchase from the US",
     "url": "https://www.defensenews.com/global/europe/2026/09/07/croatia-buys-south-korean-rocket-artillery-after-himars-purchase-from-the-us/",
     "source": "Defense News",
     "snippet": "In the aftermath of the Iran war, the U.S. government has flagged possible delays in deliveries of military gear, including HIMARS ammunition.",
     "date": "2026-09-07",
     "tag": "Korea"
+  },
+  {
+    "title": "Billions for space defence under new national strategy",
+    "url": "https://ukdefencejournal.org.uk/billions-for-space-defence-under-new-national-strategy/",
+    "source": "UK Defence Journal",
+    "snippet": "The government has published a new UK Space Strategy, with more than £3 billion of it directed at defence capabilities in orbit, the Department for Business, Innovation, Science and Trade announced.\nT",
+    "date": "2026-09-07",
+    "tag": "UK"
   },
   {
     "title": "Hybrid Communications and NATO’s Imperative for Innovation on the Eastern Flank",
