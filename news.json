@@ -1,9 +1,17 @@
 [
   {
-    "title": "Dutch military to get a GlobalEye radar plane",
-    "url": "https://defence-blog.com/dutch-military-to-get-a-globaleye-radar-plane/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "The Netherlands and Sweden signed a letter of intent for the Dutch government to buy a Saab GlobalEye surveillance aircraft, the Dutch Ministry of Defence announced September 10. The Netherlands does ",
+    "title": "Rules for Navy uncrewed surface vessels make progress",
+    "url": "https://ukdefencejournal.org.uk/rules-for-navy-uncrewed-surface-vessels-make-progress/",
+    "source": "UK Defence Journal",
+    "snippet": "The Ministry of Defence is continuing work with the Defence Maritime Regulator to define how uncrewed surface vessels should be regulated and classified as the Royal Navy expands its use of maritime a",
+    "date": "2026-09-10",
+    "tag": "UK"
+  },
+  {
+    "title": "US radar maker Echodyne mulls European production as drone warfare fuels demand",
+    "url": "https://www.defensenews.com/global/europe/2026/09/10/us-radar-maker-echodyne-mulls-european-production-as-drone-warfare-fuels-demand/",
+    "source": "Defense News",
+    "snippet": "The U.S. radar specialist said it's sensing new business opportunities in Europe, where governments are scrambling to up their counter-drone capabilities.",
     "date": "2026-09-10",
     "tag": "EU"
   },
@@ -16,18 +24,34 @@
     "tag": "Korea"
   },
   {
-    "title": "Automating the Action Officer: Between Bureaucracy and Technology",
-    "url": "https://warontherocks.com/cogs-of-war/automating-the-action-officer-between-bureaucracy-and-technology/",
-    "source": "War on the Rocks",
-    "snippet": "If there is a revolution brewing in the automation of white-collar work, you wouldn’t know it at the Pentagon. Here, the typical action officers, staff who tackle the daily work of the bureaucracy, pe",
-    "date": "2026-09-10",
-    "tag": "World"
-  },
-  {
     "title": "L3Harris to deliver VAMPIRE counter-unmanned systems to US Navy",
     "url": "https://navaltoday.com/2026/09/10/l3harris-to-deliver-vampire-counter-unmanned-systems-to-us-navy",
     "source": "Naval Today",
     "snippet": "L3Harris Technologies has been selected by the US Navy to deliver VAMPIRE counter-unmanned systems (C-UxS) in support of the US growing...",
+    "date": "2026-09-10",
+    "tag": "World"
+  },
+  {
+    "title": "EN DIRECT, guerre en Ukraine : l’OTAN dit avoir interrompu un exercice russe de sabotage de câbles sous-marins dans l’Arctique",
+    "url": "https://www.lemonde.fr/international/live/2026/09/10/en-direct-guerre-en-ukraine-l-otan-dit-avoir-interrompu-un-exercice-russe-de-sabotage-de-cables-sous-marins-dans-l-arctique_6766818_3210.html",
+    "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+    "snippet": "Le Royaume-Uni, la Norvège et les Etats-Unis ont interrompu un exercice clandestin russe mené au printemps près de l’archipel norvégien du Svalbard. Selon les deux responsables occidentaux qui ont déc",
+    "date": "2026-09-10",
+    "tag": "World"
+  },
+  {
+    "title": "Dutch military to get a GlobalEye radar plane",
+    "url": "https://defence-blog.com/dutch-military-to-get-a-globaleye-radar-plane/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "The Netherlands and Sweden signed a letter of intent for the Dutch government to buy a Saab GlobalEye surveillance aircraft, the Dutch Ministry of Defence announced September 10. The Netherlands does ",
+    "date": "2026-09-10",
+    "tag": "EU"
+  },
+  {
+    "title": "Automating the Action Officer: Between Bureaucracy and Technology",
+    "url": "https://warontherocks.com/cogs-of-war/automating-the-action-officer-between-bureaucracy-and-technology/",
+    "source": "War on the Rocks",
+    "snippet": "If there is a revolution brewing in the automation of white-collar work, you wouldn’t know it at the Pentagon. Here, the typical action officers, staff who tackle the daily work of the bureaucracy, pe",
     "date": "2026-09-10",
     "tag": "World"
   },
