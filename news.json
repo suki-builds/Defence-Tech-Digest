@@ -1,5 +1,61 @@
 [
   {
+    "title": "Northrop’s kamikaze drone gets jam-proof navigation",
+    "url": "https://defence-blog.com/northrops-kamikaze-drone-gets-jam-proof-navigation/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "A one-way attack drone built by Northrop Grumman flew a test flight in California, guided by a navigation system that never touches GPS. Instead, it reads faint variations in Earth’s own magnetic fiel",
+    "date": "2026-09-12",
+    "tag": "World"
+  },
+  {
+    "title": "Northrop Grumman expands ties across Eastern Europe",
+    "url": "https://defence-blog.com/northrop-grumman-expands-ties-across-eastern-europe/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "Northrop Grumman announced a series of new industrial agreements with partners in Poland and Estonia on September 10, 2026, unveiled at MSPO, Poland’s largest defense trade show, in Kielce. The announ",
+    "date": "2026-09-12",
+    "tag": "EU"
+  },
+  {
+    "title": "Northrop Grumman: E-2D talks with Poland still ongoing",
+    "url": "https://defence-blog.com/northrop-grumman-e-2d-talks-with-poland-still-ongoing/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "Northrop Grumman said on September 10, 2026, that it remains in talks with Poland about supplying the E-2D Advanced Hawkeye, a radar and command aircraft the U.S. Navy already flies from its carriers.",
+    "date": "2026-09-12",
+    "tag": "EU"
+  },
+  {
+    "title": "Pentagon looks to AI to identify space and missile threats",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/09/11/pentagon-looks-to-ai-to-identify-space-and-missile-threats/",
+    "source": "Defense News",
+    "snippet": "The Pentagon is seeking artificial intelligence that can cut through the confusion of missile defense.",
+    "date": "2026-09-11",
+    "tag": "World"
+  },
+  {
+    "title": "Adversaries Using Claude AI To Target Americans And Develop Missiles Is A Sign Of What’s To Come",
+    "url": "https://www.twz.com/news-features/adversaries-using-claude-ai-to-target-americans-and-develop-missiles-is-a-sign-of-whats-to-come",
+    "source": "TWZ",
+    "snippet": "A new report from Anthropic presents a stark picture of how malign actors are using commercially available U.S. AI services despite safeguards.\nThe post Adversaries Using Claude AI To Target Americans",
+    "date": "2026-09-11",
+    "tag": "World"
+  },
+  {
+    "title": "Polish prime minister: Poland to develop its own Starlink",
+    "url": "https://www.defensenews.com/global/europe/2026/09/11/polish-prime-minister-poland-to-develop-its-own-starlink/",
+    "source": "Defense News",
+    "snippet": "Polish Prime Minister Donald Tusk said the project will pave the way for the launch of a Starlink-like system for the nation.",
+    "date": "2026-09-11",
+    "tag": "EU"
+  },
+  {
+    "title": "Hanwha Aerospace to Supply Chunmoo MRLS to Croatia",
+    "url": "https://euro-sd.com/2026/09/news/land/53751/hanwha-aerospace-chunmoo-mrls-croatia/",
+    "source": "European Security & Defence",
+    "snippet": "ZAGREB, Sept 11, 2026 – Hanwha Aerospace signed a contract with the Ministry of Defence of the Republic of Croatia … mehr... \nThe post Hanwha Aerospace to Supply Chunmoo MRLS to Croatia appeared first",
+    "date": "2026-09-11",
+    "tag": "Korea"
+  },
+  {
     "title": "EU approves €6.1bn for Ukraine arms, including Patriots",
     "url": "https://www.euractiv.com/news/eu-approves-e6-1bn-for-ukraine-arms-including-patriots/",
     "source": "Euractiv - Feeds",
@@ -262,125 +318,5 @@
     "snippet": "Brimstone 3 integration with the RAF’s Protector remotely piloted aircraft has moved into the analysis stage after further weapons testing in the United States and UK.\nThe post Brimstone 3 moves close",
     "date": "2026-09-09",
     "tag": "UK"
-  },
-  {
-    "title": "Defense a key focus for new UK $10.6B, 4-year space spending plan",
-    "url": "https://breakingdefense.com/2026/09/defense-a-key-focus-for-new-uk-10-6b-4-year-space-spending-plan/",
-    "source": "Breaking Defense",
-    "snippet": "The largest MoD investment detailed in the new strategy is a planned £880 million between 2026/2027 and 2029/2030 for intelligence, surveillance and reconnaissance, and space control “activities.”",
-    "date": "2026-09-08",
-    "tag": "UK"
-  },
-  {
-    "title": "UK changes gun plan for new FSS ships",
-    "url": "https://navaltoday.com/2026/09/08/uk-changes-gun-plan-for-new-fss-ships",
-    "source": "Naval Today",
-    "snippet": "The UK Ministry of Defense has removed the Automatic Small Calibre Gun requirement from the Fleet Solid Support (FSS) manufacturing contract with...",
-    "date": "2026-09-08",
-    "tag": "UK"
-  },
-  {
-    "title": "This Is Poland’s New Heavy Infantry Fighting Vehicle",
-    "url": "https://www.twz.com/uncategorized/this-is-polands-new-heavy-infantry-fighting-vehicle",
-    "source": "TWZ",
-    "snippet": "Even as the utility of heavy armor is being questioned, the 40-ton Ratel aims to bring more protection and firepower to a rapidly modernizing Polish Army.\nThe post This Is Poland’s New Heavy Infantry ",
-    "date": "2026-09-08",
-    "tag": "EU"
-  },
-  {
-    "title": "New space strategy will bolster UK defences against threats from space",
-    "url": "https://www.gov.uk/government/news/new-space-strategy-will-bolster-uk-defences-against-threats-from-space",
-    "source": "Ministry of Defence - Activity on GOV.UK",
-    "snippet": "New UK space strategy to bring government's investment and activity under one plan to drive growth, strengthen security and back everyday technologies",
-    "date": "2026-09-08",
-    "tag": "UK"
-  },
-  {
-    "title": "Hanwha plans to build armored vehicle carrying a counter-drone laser",
-    "url": "https://www.defensenews.com/global/europe/2026/09/08/hanwha-plans-to-build-armored-vehicle-carrying-a-counter-drone-laser/",
-    "source": "Defense News",
-    "snippet": "Hanwha representatives said the vehicle is fitted with a more powerful version of the stationary Cheongwang laser that protects the presidential compound.",
-    "date": "2026-09-08",
-    "tag": "Korea"
-  },
-  {
-    "title": "European missile-maker MBDA opens first industrial facility in Poland",
-    "url": "https://breakingdefense.com/2026/09/european-missile-maker-mbda-opens-first-industrial-facility-in-poland/",
-    "source": "Breaking Defense",
-    "snippet": "“At a time when Europe faces its most serious security challenges for generations, the opening of MBDA’s new site demonstrates that the relationship between our two nations has never been more importa",
-    "date": "2026-09-08",
-    "tag": "EU"
-  },
-  {
-    "title": "Digital Sovereignty – Geopolitical upheavals are increasing the pressure to act",
-    "url": "https://euro-sd.com/2026/09/sponsored-content/53273/digital-sovereignty-geopolitical-upheavals-are-increasing-the-pressure-to-act/",
-    "source": "European Security & Defence",
-    "snippet": "Recent years have made it clear that technological dependencies can become a security risk. Russia’s war of aggression against Ukraine, … mehr... \nThe post Digital Sovereignty – Geopolitical upheavals",
-    "date": "2026-09-08",
-    "tag": "EU"
-  },
-  {
-    "title": "Policy paper: UK Space Strategy",
-    "url": "https://www.gov.uk/government/publications/uk-space-strategy",
-    "source": "Ministry of Defence - Activity on GOV.UK",
-    "snippet": "The UK Space Strategy sets out the UK’s enhanced intentions for the space sector, focussing on defence, national security and economic growth, backed by £7.8 billion of investment to 2030.",
-    "date": "2026-09-08",
-    "tag": "UK"
-  },
-  {
-    "title": "No decision yet on drone defences for Army’s new vehicles",
-    "url": "https://ukdefencejournal.org.uk/no-decision-yet-on-drone-defences-for-armys-new-vehicles/",
-    "source": "UK Defence Journal",
-    "snippet": "The Ministry of Defence has taken no decision on including a hard-kill counter-drone active protection system within the Mechanised Infantry Programme, though such opportunities are being explored.\nTh",
-    "date": "2026-09-08",
-    "tag": "UK"
-  },
-  {
-    "title": "Gun requirement pulled from Fleet Solid Support contract",
-    "url": "https://ukdefencejournal.org.uk/gun-requirement-pulled-from-fleet-solid-support-contract/",
-    "source": "UK Defence Journal",
-    "snippet": "The automatic small calibre gun requirement has been removed from the Fleet Solid Support manufacture contract with Navantia UK, at a cost of £1.7 million recorded as a constructive loss, because it n",
-    "date": "2026-09-08",
-    "tag": "UK"
-  },
-  {
-    "title": "DNV, Fassmer link up on autonomous naval vessels",
-    "url": "https://navaltoday.com/2026/09/08/dnv-fassmer-link-up-on-autonomous-naval-vessels",
-    "source": "Naval Today",
-    "snippet": "Classification society DNV and German shipbuilder Fassmer have signed a Memorandum of Understanding (MoU) to jointly develop and classify...",
-    "date": "2026-09-08",
-    "tag": "World"
-  },
-  {
-    "title": "German Navy fires IAI’s LORA ballistic missile",
-    "url": "https://navaltoday.com/2026/09/08/german-navy-fires-iais-lora-ballistic-missile",
-    "source": "Naval Today",
-    "snippet": "The German Navy has completed a dual operational firing trial with IAI’s naval Lora ballistic missile, as part of its Operational Experimentation...",
-    "date": "2026-09-08",
-    "tag": "World"
-  },
-  {
-    "title": "Israeli firm lands first order for its new drone defense turret",
-    "url": "https://defence-blog.com/israeli-firm-lands-first-order-for-its-new-drone-defense-turret/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "Axon Vision has received its first order for ForceField, an AI-powered counter-drone system it launched in July, with an Israeli defense organization placing a deal worth up to roughly 15 million shek",
-    "date": "2026-09-08",
-    "tag": "World"
-  },
-  {
-    "title": "Second phase of RAF air command system cancelled",
-    "url": "https://ukdefencejournal.org.uk/second-phase-of-raf-air-command-system-cancelled/",
-    "source": "UK Defence Journal",
-    "snippet": "The Ministry of Defence has cancelled the second phase of Project Guardian, a Royal Air Force command and control system.\nThe post Second phase of RAF air command system cancelled first appeared on UK",
-    "date": "2026-09-08",
-    "tag": "UK"
-  },
-  {
-    "title": "Mistral AI annonce une levée de fonds à 3 milliards d’euros en réponse aux doutes sur l’évolution de sa stratégie",
-    "url": "https://www.lemonde.fr/economie/article/2026/09/08/mistral-ai-une-levee-de-fonds-a-3-milliards-d-euros-en-reponse-aux-doutes-sur-l-evolution-de-sa-strategie_6768110_3234.html",
-    "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-    "snippet": "La start-up française d’intelligence artificielle, accusée par certains experts d’avoir abandonné la course face aux Américains et aux Chinois pour se développer dans les data centers et les services,",
-    "date": "2026-09-08",
-    "tag": "EU"
   }
 ]
