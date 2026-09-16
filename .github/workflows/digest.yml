@@ -1,8 +1,10 @@
 name: Daily Defence Tech Digest
 
 on:
-  schedule:
-    - cron: '0 7 * * *'  # 7:00 AM UTC every day
+  # Scheduled runs disabled — run manually from the Actions tab instead.
+  # To re-enable the daily run, uncomment the two lines below.
+  # schedule:
+  #   - cron: '0 7 * * *'  # 7:00 AM UTC every day
   workflow_dispatch:       # allows manual trigger from GitHub UI
 
 permissions:
