@@ -1,5 +1,85 @@
 [
   {
+    "title": "British Army explores pairing Ajax with a robot scout",
+    "url": "https://defence-blog.com/british-army-explores-pairing-ajax-with-a-robot-scout/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "ARX Robotics UK and General Dynamics Land Systems-UK are launching a collaboration to explore turning the British Army’s Ajax armored vehicle into a command hub for robotic ground “wingmen,” the compa",
+    "date": "2026-09-16",
+    "tag": "UK"
+  },
+  {
+    "title": "Air defence turret shown on Boxer for the first time",
+    "url": "https://ukdefencejournal.org.uk/air-defence-turret-shown-on-boxer-for-the-first-time/",
+    "source": "UK Defence Journal",
+    "snippet": "Moog has shown an air defence mission module for the Boxer 8x8 vehicle at Defence Vehicle Dynamics, the first time its Reconfigurable Integrated weapons Platform has been fitted to the wheeled platfor",
+    "date": "2026-09-16",
+    "tag": "UK"
+  },
+  {
+    "title": "Germany, US to expand shared production of Patriot interceptors, strike missiles",
+    "url": "https://www.defensenews.com/global/europe/2026/09/16/germany-us-to-expand-shared-production-of-patriot-interceptors-strike-missiles/",
+    "source": "Defense News",
+    "snippet": "German and U.S. defense leaders have signed an agreement positioning Germany as an additional production hub for scarce American defense equipment.",
+    "date": "2026-09-16",
+    "tag": "EU"
+  },
+  {
+    "title": "Space Force’s GMTI program gets a name, with Northrop as prime: General",
+    "url": "https://breakingdefense.com/2026/09/space-forces-gmti-program-gets-a-name-with-northrop-as-prime-general/",
+    "source": "Breaking Defense",
+    "snippet": "Separately, the Space Force plans to issue the first operational contracts for space domain awareness to commercial firms “very soon,” according to Space Force Col. Timothy Tremailo.",
+    "date": "2026-09-16",
+    "tag": "World"
+  },
+  {
+    "title": "SPACECOM needs more capabilities to target space adversaries: Whiting",
+    "url": "https://breakingdefense.com/2026/09/spacecom-needs-more-capabilities-to-target-space-adversaries-whiting/",
+    "source": "Breaking Defense",
+    "snippet": "SPACECOM also is focusing on developing the baseline capabilities, such as space domain awareness and satellite communications, to undertake cislunar operations, said Gen. Stephen Whiting.",
+    "date": "2026-09-16",
+    "tag": "World"
+  },
+  {
+    "title": "AI military targeting may move faster than humans can authenticate, critics warn",
+    "url": "https://www.defensenews.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn/",
+    "source": "Defense News",
+    "snippet": "AI military targeting may move faster than humans can authenticate, critics warned during a Wednesday hearing in Washington.",
+    "date": "2026-09-16",
+    "tag": "World"
+  },
+  {
+    "title": "US ‘not prepared’ to respond to nuclear attacks in space, report says",
+    "url": "https://www.defensenews.com/news/your-air-force/2026/09/16/us-not-prepared-to-respond-to-nuclear-attacks-in-space-report-says/",
+    "source": "Defense News",
+    "snippet": "A recent war-gaming report found that the U.S. has no tested response to a nuclear detonation in space.",
+    "date": "2026-09-16",
+    "tag": "World"
+  },
+  {
+    "title": "China warns US space weapons could fuel arms race",
+    "url": "https://www.defensenews.com/global/2026/09/16/china-warns-us-space-weapons-could-fuel-arms-race/",
+    "source": "Defense News",
+    "snippet": "China urged the United States to halt its military build-up in outer space after Washington acknowledged it has weapons deployed in orbit.",
+    "date": "2026-09-16",
+    "tag": "World"
+  },
+  {
+    "title": "Cessna Cuts Cockpit Out Of SkyCourier Cargo Hauler For Uncrewed Logistics",
+    "url": "https://www.twz.com/air/cessna-cuts-cockpit-out-of-skycourier-cargo-hauler-for-uncrewed-logistics",
+    "source": "TWZ",
+    "snippet": "As China moves at warp speed on uncrewed aerial logistics, Textron is offering a similar solution to the Pentagon with SkyCourier UX.\nThe post Cessna Cuts Cockpit Out Of SkyCourier Cargo Hauler For Un",
+    "date": "2026-09-16",
+    "tag": "World"
+  },
+  {
+    "title": "Apache Crew Rescue Highlights Need For AI In Combat Says Joint Chiefs Chairman",
+    "url": "https://www.twz.com/air/apache-crew-rescue-highlights-need-for-ai-in-combat-says-joint-chiefs-chairman",
+    "source": "TWZ",
+    "snippet": "AI enabled troops to manage networks of unmanned systems across thousands of miles of water and to pull assets together for a quick rescue.\nThe post Apache Crew Rescue Highlights Need For AI In Combat",
+    "date": "2026-09-16",
+    "tag": "World"
+  },
+  {
     "title": "USAF’s Fighter Drones To Make Debut In A Large Scale Exercise",
     "url": "https://www.twz.com/air/usafs-fighter-drones-to-make-debut-in-a-large-scale-exercise",
     "source": "TWZ",
@@ -245,14 +325,6 @@
     "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
     "snippet": "L’Ukraine dénonce une « attaque systémique » contre son réseau ferroviaire, tandis que la Pologne, membre de l’OTAN, craint une « escalade » de la part de la Russie. Un autre train, avec à son bord de",
     "date": "2026-09-14",
-    "tag": "EU"
-  },
-  {
-    "title": "Europe is rearming. Democratic resilience must be part of the design",
-    "url": "https://www.euractiv.com/opinion/europe-is-rearming-democratic-resilience-must-be-part-of-the-design/",
-    "source": "Euractiv - Feeds",
-    "snippet": "Europe’s defence build-up assumes tomorrow’s governments will remain trustworthy allies. EU funding must include safeguards in case that assumption fails",
-    "date": "2026-09-13",
     "tag": "EU"
   }
 ]
