@@ -1,5 +1,29 @@
 [
   {
+    "title": "NATO military chiefs tell industry they are ready to buy",
+    "url": "https://ukdefencejournal.org.uk/nato-military-chiefs-tell-industry-they-are-ready-to-buy/",
+    "source": "UK Defence Journal",
+    "snippet": "Allied chiefs of defence have sent what NATO describes as a direct and united message to the defence industry that allies are ready to buy at scale.\nThe post NATO military chiefs tell industry they ar",
+    "date": "2026-09-20",
+    "tag": "World"
+  },
+  {
+    "title": "North Korea launches 'suspected ballistic missile' into East Sea",
+    "url": "https://www.euronews.com/2026/09/20/north-korea-launches-suspected-ballistic-missile-into-east-sea",
+    "source": "News | Euronews RSS",
+    "snippet": "In August, Trump told reporters that North Korean leader Kim Jong-un had \"57 very powerful nuclear weapons\" as he once again touted the pair's relationship.",
+    "date": "2026-09-20",
+    "tag": "Korea"
+  },
+  {
+    "title": "U.S. Space Force wants satellites that can hunt objects in orbit",
+    "url": "https://defence-blog.com/u-s-space-force-wants-satellites-that-can-hunt-objects-in-orbit/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "The U.S. Space Force wants companies to pitch satellites that can chase down and inspect objects in orbit on short notice, according to a request for information Space Systems Command published Septem",
+    "date": "2026-09-20",
+    "tag": "World"
+  },
+  {
     "title": "Britain exploring return to making its own reactor fuel",
     "url": "https://ukdefencejournal.org.uk/britain-exploring-return-to-making-its-own-reactor-fuel/",
     "source": "UK Defence Journal",
@@ -126,93 +150,5 @@
     "snippet": "Germany will send four Eurofighter jets to defend Latvian airspace during upcoming elections, amid concerns over drone incursions from Russia and Belarus.",
     "date": "2026-09-17",
     "tag": "EU"
-  },
-  {
-    "title": "British Army explores pairing Ajax with a robot scout",
-    "url": "https://defence-blog.com/british-army-explores-pairing-ajax-with-a-robot-scout/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "ARX Robotics UK and General Dynamics Land Systems-UK are launching a collaboration to explore turning the British Army’s Ajax armored vehicle into a command hub for robotic ground “wingmen,” the compa",
-    "date": "2026-09-16",
-    "tag": "UK"
-  },
-  {
-    "title": "Air defence turret shown on Boxer for the first time",
-    "url": "https://ukdefencejournal.org.uk/air-defence-turret-shown-on-boxer-for-the-first-time/",
-    "source": "UK Defence Journal",
-    "snippet": "Moog has shown an air defence mission module for the Boxer 8x8 vehicle at Defence Vehicle Dynamics, the first time its Reconfigurable Integrated weapons Platform has been fitted to the wheeled platfor",
-    "date": "2026-09-16",
-    "tag": "UK"
-  },
-  {
-    "title": "Germany, US to expand shared production of Patriot interceptors, strike missiles",
-    "url": "https://www.defensenews.com/global/europe/2026/09/16/germany-us-to-expand-shared-production-of-patriot-interceptors-strike-missiles/",
-    "source": "Defense News",
-    "snippet": "German and U.S. defense leaders have signed an agreement positioning Germany as an additional production hub for scarce American defense equipment.",
-    "date": "2026-09-16",
-    "tag": "EU"
-  },
-  {
-    "title": "Space Force’s GMTI program gets a name, with Northrop as prime: General",
-    "url": "https://breakingdefense.com/2026/09/space-forces-gmti-program-gets-a-name-with-northrop-as-prime-general/",
-    "source": "Breaking Defense",
-    "snippet": "Separately, the Space Force plans to issue the first operational contracts for space domain awareness to commercial firms “very soon,” according to Space Force Col. Timothy Tremailo.",
-    "date": "2026-09-16",
-    "tag": "World"
-  },
-  {
-    "title": "SPACECOM needs more capabilities to target space adversaries: Whiting",
-    "url": "https://breakingdefense.com/2026/09/spacecom-needs-more-capabilities-to-target-space-adversaries-whiting/",
-    "source": "Breaking Defense",
-    "snippet": "SPACECOM also is focusing on developing the baseline capabilities, such as space domain awareness and satellite communications, to undertake cislunar operations, said Gen. Stephen Whiting.",
-    "date": "2026-09-16",
-    "tag": "World"
-  },
-  {
-    "title": "AI military targeting may move faster than humans can authenticate, critics warn",
-    "url": "https://www.defensenews.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn/",
-    "source": "Defense News",
-    "snippet": "AI military targeting may move faster than humans can authenticate, critics warned during a Wednesday hearing in Washington.",
-    "date": "2026-09-16",
-    "tag": "World"
-  },
-  {
-    "title": "US ‘not prepared’ to respond to nuclear attacks in space, report says",
-    "url": "https://www.defensenews.com/news/your-air-force/2026/09/16/us-not-prepared-to-respond-to-nuclear-attacks-in-space-report-says/",
-    "source": "Defense News",
-    "snippet": "A recent war-gaming report found that the U.S. has no tested response to a nuclear detonation in space.",
-    "date": "2026-09-16",
-    "tag": "World"
-  },
-  {
-    "title": "China warns US space weapons could fuel arms race",
-    "url": "https://www.defensenews.com/global/2026/09/16/china-warns-us-space-weapons-could-fuel-arms-race/",
-    "source": "Defense News",
-    "snippet": "China urged the United States to halt its military build-up in outer space after Washington acknowledged it has weapons deployed in orbit.",
-    "date": "2026-09-16",
-    "tag": "World"
-  },
-  {
-    "title": "Cessna Cuts Cockpit Out Of SkyCourier Cargo Hauler For Uncrewed Logistics",
-    "url": "https://www.twz.com/air/cessna-cuts-cockpit-out-of-skycourier-cargo-hauler-for-uncrewed-logistics",
-    "source": "TWZ",
-    "snippet": "As China moves at warp speed on uncrewed aerial logistics, Textron is offering a similar solution to the Pentagon with SkyCourier UX.\nThe post Cessna Cuts Cockpit Out Of SkyCourier Cargo Hauler For Un",
-    "date": "2026-09-16",
-    "tag": "World"
-  },
-  {
-    "title": "Apache Crew Rescue Highlights Need For AI In Combat Says Joint Chiefs Chairman",
-    "url": "https://www.twz.com/air/apache-crew-rescue-highlights-need-for-ai-in-combat-says-joint-chiefs-chairman",
-    "source": "TWZ",
-    "snippet": "AI enabled troops to manage networks of unmanned systems across thousands of miles of water and to pull assets together for a quick rescue.\nThe post Apache Crew Rescue Highlights Need For AI In Combat",
-    "date": "2026-09-16",
-    "tag": "World"
-  },
-  {
-    "title": "USAF’s Fighter Drones To Make Debut In A Large Scale Exercise",
-    "url": "https://www.twz.com/air/usafs-fighter-drones-to-make-debut-in-a-large-scale-exercise",
-    "source": "TWZ",
-    "snippet": "Exercise Emerald Flag will give the USAF a completely new opportunity to test how its CCA drones work together with crewed assets.\nThe post USAF’s Fighter Drones To Make Debut In A Large Scale Exercis",
-    "date": "2026-09-16",
-    "tag": "World"
   }
 ]
