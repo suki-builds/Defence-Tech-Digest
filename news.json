@@ -1,5 +1,53 @@
 [
   {
+    "title": "European-made Black Hawk gets an armed upgrade",
+    "url": "https://breakingdefense.com/2026/09/european-made-black-hawk-gets-an-armed-upgrade/",
+    "source": "Breaking Defense",
+    "snippet": "[Sponsored] New kits turn Black Hawks into attack Hawks in just three hours.",
+    "date": "2026-09-21",
+    "tag": "EU"
+  },
+  {
+    "title": "RAFAEL presents National Air Defense with Rafael’s SPYDER",
+    "url": "https://euro-sd.com/2026/09/news/air/53915/rafael-spyder/",
+    "source": "European Security & Defence",
+    "snippet": "At a ceremony hosted by the Czech Republic on 19 September 2026, during NATO Days in Ostrava, one of Europe’s … mehr... \nThe post RAFAEL presents National Air Defense with Rafael’s SPYDER appeared fir",
+    "date": "2026-09-21",
+    "tag": "EU"
+  },
+  {
+    "title": "Guidance: Design Approved Organization Scheme (DAOS)",
+    "url": "https://www.gov.uk/government/publications/design-approved-organization-scheme-daos",
+    "source": "Ministry of Defence - Activity on GOV.UK",
+    "snippet": "DAOS is the means by which the MOD can assess the competency of design organisations.",
+    "date": "2026-09-21",
+    "tag": "UK"
+  },
+  {
+    "title": "Old balloons, new drones: U.S. Army tests both in Japan",
+    "url": "https://defence-blog.com/old-balloons-new-drones-u-s-army-tests-both-in-japan/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "U.S. Army soldiers launched micro-High-Altitude Balloons at the Yausubetsu Training Area on Hokkaido, Japan, on Sept. 18, including one that carried an APOLLO-R drone. Observers from Japan, the United",
+    "date": "2026-09-21",
+    "tag": "World"
+  },
+  {
+    "title": "U.S. Air Force tests drones for runway damage checks",
+    "url": "https://defence-blog.com/u-s-air-force-tests-drones-for-runway-damage-checks/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "U.S. Air Force officers studying at the Air Force Institute of Technology (AFIT) are testing whether small drones can scout a damaged airfield before engineers walk onto it. The research targets a job",
+    "date": "2026-09-21",
+    "tag": "World"
+  },
+  {
+    "title": "U.S. Marines field counter-drone vehicles in Middle East",
+    "url": "https://defence-blog.com/u-s-marines-field-counter-drone-vehicles-in-middle-east/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "The U.S. Marine Corps has released a photo of Marines with the 11th Marine Expeditionary Unit driving a Light Marine Air Defense Integrated System, known as LMADIS, a mobile counter-drone system, in t",
+    "date": "2026-09-21",
+    "tag": "World"
+  },
+  {
     "title": "NATO military chiefs tell industry they are ready to buy",
     "url": "https://ukdefencejournal.org.uk/nato-military-chiefs-tell-industry-they-are-ready-to-buy/",
     "source": "UK Defence Journal",
@@ -133,22 +181,6 @@
     "source": "UK Defence Journal",
     "snippet": "France has selected the THUNDART system from MBDA and Safran Electronics & Defense to provide the French Army with a new sovereign long-range land strike capability.\nThe post France selects THUNDART f",
     "date": "2026-09-18",
-    "tag": "EU"
-  },
-  {
-    "title": "Babcock and Ark Robotics partner",
-    "url": "https://euro-sd.com/2026/09/news/land/53836/babcock-ark-robotics/",
-    "source": "European Security & Defence",
-    "snippet": "Combat-proven uncrewed ground vehicles to UK forces\nBabcock International Group (Babcock), the defence company, and Ark Robotics have signed a … mehr... \nThe post Babcock and Ark Robotics partner appe",
-    "date": "2026-09-17",
-    "tag": "UK"
-  },
-  {
-    "title": "Germany sending fighter jets to Latvia to protect election from drone incidents",
-    "url": "https://www.defensenews.com/global/europe/2026/09/17/germany-sending-fighter-jets-to-latvia-to-protect-election-from-drone-incidents/",
-    "source": "Defense News",
-    "snippet": "Germany will send four Eurofighter jets to defend Latvian airspace during upcoming elections, amid concerns over drone incursions from Russia and Belarus.",
-    "date": "2026-09-17",
     "tag": "EU"
   }
 ]
