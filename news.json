@@ -1,5 +1,45 @@
 [
   {
+    "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
+    "url": "https://www.defensenews.com/unmanned/2026/09/25/ukraines-deadly-ai-training-platform-for-drone-tech-opens-to-uk-companies/",
+    "source": "Defense News",
+    "snippet": "Ukraine opens wartime battlefield data to Britain through Avengers AI Labs, giving British companies access to data for AI drone development.",
+    "date": "2026-09-25",
+    "tag": "UK"
+  },
+  {
+    "title": "Thales in ‘quite advanced’ talks with NATO countries on AI-powered command software",
+    "url": "https://www.defensenews.com/global/europe/2026/09/25/thales-in-quite-advanced-talks-with-nato-countries-on-ai-powered-command-software/",
+    "source": "Defense News",
+    "snippet": "French firm Thales is “quite advanced” in discussions with a number of NATO countries about using its artificial intelligence-powered C2 system.",
+    "date": "2026-09-25",
+    "tag": "EU"
+  },
+  {
+    "title": "Building logistics networks that survive contested environments",
+    "url": "https://breakingdefense.com/2026/09/building-logistics-networks-that-survive-contested-environments/",
+    "source": "Breaking Defense",
+    "snippet": "Explore how software, edge AI and resilient connectivity can strengthen military logistics in contested environments. Join Breaking Defense on Oct. 21 and earn 1 CPE credit.",
+    "date": "2026-09-25",
+    "tag": "World"
+  },
+  {
+    "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next?",
+    "url": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next/",
+    "source": "Breaking Defense",
+    "snippet": "Pentagon CTO Emil Michael crowed “The hammer of justice has smashed AnthropicAI[’s] arguments.” The AI titan hinted at an appeal — but they may not be allowed one.",
+    "date": "2026-09-25",
+    "tag": "World"
+  },
+  {
+    "title": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
+    "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
+    "source": "Defense News",
+    "snippet": "A federal appeals court upheld the Pentagon’s blacklisting of Anthropic from military contracts, handing a victory to President Trump and the Pentagon.",
+    "date": "2026-09-25",
+    "tag": "World"
+  },
+  {
     "title": "Britain forms squadron to strike threats in orbit",
     "url": "https://ukdefencejournal.org.uk/britain-forms-squadron-to-strike-threats-in-orbit/",
     "source": "UK Defence Journal",
@@ -30,93 +70,5 @@
     "snippet": "PM aims to ‘stem poisonous tide’ of disinformation and deepfakes with National Centre for Information DefenceSecurity chiefs will set up a new national centre to tackle disinformation and deepfakes fr",
     "date": "2026-09-23",
     "tag": "UK"
-  },
-  {
-    "title": "Royal Navy successfully launches US Mk 48 torpedo from uncrewed submersible",
-    "url": "https://www.defensenews.com/news/your-military/2026/09/22/royal-navy-successfully-launches-us-mk-48-torpedo-from-uncrewed-submersible/",
-    "source": "Defense News",
-    "snippet": "Last week, the Royal Navy successfully launched a U.S.-made Mk 48 Heavyweight Torpedo from a British Excalibur uncrewed underwater vehicle.",
-    "date": "2026-09-22",
-    "tag": "UK"
-  },
-  {
-    "title": "France’s Modular Rampart Point Defense Launcher Has Gone To Sea",
-    "url": "https://www.twz.com/sea/frances-modular-rampart-point-defense-launcher-has-gone-to-sea",
-    "source": "TWZ",
-    "snippet": "The launcher that can fire laser-guided rockets, small missiles, and more has emerged on a Mistral class amphibious assault ship.\nThe post France’s Modular Rampart Point Defense Launcher Has Gone To S",
-    "date": "2026-09-22",
-    "tag": "EU"
-  },
-  {
-    "title": "European-made Black Hawk gets an armed upgrade",
-    "url": "https://breakingdefense.com/2026/09/european-made-black-hawk-gets-an-armed-upgrade/",
-    "source": "Breaking Defense",
-    "snippet": "[Sponsored] New kits turn Black Hawks into attack Hawks in just three hours.",
-    "date": "2026-09-21",
-    "tag": "EU"
-  },
-  {
-    "title": "RAFAEL presents National Air Defense with Rafael’s SPYDER",
-    "url": "https://euro-sd.com/2026/09/news/air/53915/rafael-spyder/",
-    "source": "European Security & Defence",
-    "snippet": "At a ceremony hosted by the Czech Republic on 19 September 2026, during NATO Days in Ostrava, one of Europe’s … mehr... \nThe post RAFAEL presents National Air Defense with Rafael’s SPYDER appeared fir",
-    "date": "2026-09-21",
-    "tag": "EU"
-  },
-  {
-    "title": "Guidance: Design Approved Organization Scheme (DAOS)",
-    "url": "https://www.gov.uk/government/publications/design-approved-organization-scheme-daos",
-    "source": "Ministry of Defence - Activity on GOV.UK",
-    "snippet": "DAOS is the means by which the MOD can assess the competency of design organisations.",
-    "date": "2026-09-21",
-    "tag": "UK"
-  },
-  {
-    "title": "Old balloons, new drones: U.S. Army tests both in Japan",
-    "url": "https://defence-blog.com/old-balloons-new-drones-u-s-army-tests-both-in-japan/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "U.S. Army soldiers launched micro-High-Altitude Balloons at the Yausubetsu Training Area on Hokkaido, Japan, on Sept. 18, including one that carried an APOLLO-R drone. Observers from Japan, the United",
-    "date": "2026-09-21",
-    "tag": "World"
-  },
-  {
-    "title": "U.S. Air Force tests drones for runway damage checks",
-    "url": "https://defence-blog.com/u-s-air-force-tests-drones-for-runway-damage-checks/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "U.S. Air Force officers studying at the Air Force Institute of Technology (AFIT) are testing whether small drones can scout a damaged airfield before engineers walk onto it. The research targets a job",
-    "date": "2026-09-21",
-    "tag": "World"
-  },
-  {
-    "title": "U.S. Marines field counter-drone vehicles in Middle East",
-    "url": "https://defence-blog.com/u-s-marines-field-counter-drone-vehicles-in-middle-east/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "The U.S. Marine Corps has released a photo of Marines with the 11th Marine Expeditionary Unit driving a Light Marine Air Defense Integrated System, known as LMADIS, a mobile counter-drone system, in t",
-    "date": "2026-09-21",
-    "tag": "World"
-  },
-  {
-    "title": "NATO military chiefs tell industry they are ready to buy",
-    "url": "https://ukdefencejournal.org.uk/nato-military-chiefs-tell-industry-they-are-ready-to-buy/",
-    "source": "UK Defence Journal",
-    "snippet": "Allied chiefs of defence have sent what NATO describes as a direct and united message to the defence industry that allies are ready to buy at scale.\nThe post NATO military chiefs tell industry they ar",
-    "date": "2026-09-20",
-    "tag": "World"
-  },
-  {
-    "title": "North Korea launches 'suspected ballistic missile' into East Sea",
-    "url": "https://www.euronews.com/2026/09/20/north-korea-launches-suspected-ballistic-missile-into-east-sea",
-    "source": "News | Euronews RSS",
-    "snippet": "In August, Trump told reporters that North Korean leader Kim Jong-un had \"57 very powerful nuclear weapons\" as he once again touted the pair's relationship.",
-    "date": "2026-09-20",
-    "tag": "Korea"
-  },
-  {
-    "title": "U.S. Space Force wants satellites that can hunt objects in orbit",
-    "url": "https://defence-blog.com/u-s-space-force-wants-satellites-that-can-hunt-objects-in-orbit/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "The U.S. Space Force wants companies to pitch satellites that can chase down and inspect objects in orbit on short notice, according to a request for information Space Systems Command published Septem",
-    "date": "2026-09-20",
-    "tag": "World"
   }
 ]
