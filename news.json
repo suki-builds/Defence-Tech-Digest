@@ -1,74 +1,26 @@
 [
   {
-    "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
-    "url": "https://www.defensenews.com/unmanned/2026/09/25/ukraines-deadly-ai-training-platform-for-drone-tech-opens-to-uk-companies/",
-    "source": "Defense News",
-    "snippet": "Ukraine opens wartime battlefield data to Britain through Avengers AI Labs, giving British companies access to data for AI drone development.",
-    "date": "2026-09-25",
-    "tag": "UK"
-  },
-  {
-    "title": "Thales in ‘quite advanced’ talks with NATO countries on AI-powered command software",
-    "url": "https://www.defensenews.com/global/europe/2026/09/25/thales-in-quite-advanced-talks-with-nato-countries-on-ai-powered-command-software/",
-    "source": "Defense News",
-    "snippet": "French firm Thales is “quite advanced” in discussions with a number of NATO countries about using its artificial intelligence-powered C2 system.",
-    "date": "2026-09-25",
-    "tag": "EU"
-  },
-  {
-    "title": "Building logistics networks that survive contested environments",
-    "url": "https://breakingdefense.com/2026/09/building-logistics-networks-that-survive-contested-environments/",
-    "source": "Breaking Defense",
-    "snippet": "Explore how software, edge AI and resilient connectivity can strengthen military logistics in contested environments. Join Breaking Defense on Oct. 21 and earn 1 CPE credit.",
-    "date": "2026-09-25",
-    "tag": "World"
-  },
-  {
-    "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next?",
-    "url": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next/",
-    "source": "Breaking Defense",
-    "snippet": "Pentagon CTO Emil Michael crowed “The hammer of justice has smashed AnthropicAI[’s] arguments.” The AI titan hinted at an appeal — but they may not be allowed one.",
-    "date": "2026-09-25",
-    "tag": "World"
-  },
-  {
-    "title": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
-    "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
-    "source": "Defense News",
-    "snippet": "A federal appeals court upheld the Pentagon’s blacklisting of Anthropic from military contracts, handing a victory to President Trump and the Pentagon.",
-    "date": "2026-09-25",
-    "tag": "World"
-  },
-  {
-    "title": "Britain forms squadron to strike threats in orbit",
-    "url": "https://ukdefencejournal.org.uk/britain-forms-squadron-to-strike-threats-in-orbit/",
+    "title": "Kraken and Saab test autonomous drone-seeker vessel",
+    "url": "https://ukdefencejournal.org.uk/kraken-and-saab-test-autonomous-drone-seeker-vessel/",
     "source": "UK Defence Journal",
-    "snippet": "The Royal Air Force is today forming No. III Space Effects Squadron, the first British unit dedicated to disrupting, degrading and denying hostile activity in space.\nThe post Britain forms squadron to",
-    "date": "2026-09-23",
+    "snippet": "Kraken Technology Group and Saab UK have developed and tested an autonomous vessel carrying an air-surveillance radar, intended to provide a rapidly deployable counter-drone sensing capability at sea.",
+    "date": "2026-10-05",
     "tag": "UK"
   },
   {
-    "title": "RAF launches first ever space squadron dedicated to defending Britain's satellites",
-    "url": "https://www.gov.uk/government/news/raf-launches-first-ever-space-squadron-dedicated-to-defending-britains-satellites",
-    "source": "Ministry of Defence - Activity on GOV.UK",
-    "snippet": "The RAF has launched No. III Space Effects Squadron, its first dedicated unit to counter hostile threats to UK satellites.",
-    "date": "2026-09-23",
-    "tag": "UK"
-  },
-  {
-    "title": "The future of European airpower might be unmanned",
-    "url": "https://breakingdefense.com/2026/09/the-future-of-european-airpower-might-be-unmanned/",
-    "source": "Breaking Defense",
-    "snippet": "With one sixth-gen fighter program in Europe dead, could the future for European airpower be drones?",
-    "date": "2026-09-23",
+    "title": "ARX Robotics and Ukrainian company Roboneers agree on far reaching technology partnership for unmanned land warfare",
+    "url": "https://euro-sd.com/2026/10/news/exclusive-news/54101/arx-robotics-roboneers/",
+    "source": "European Security & Defence",
+    "snippet": "Kyiv/Munich, 4th October 2026 – ARX Robotics, Europe’s leading defense tech company for software-defined defence technologies for land autonomy, has … mehr... \nThe post ARX Robotics and Ukrainian comp",
+    "date": "2026-10-05",
     "tag": "EU"
   },
   {
-    "title": "New UK agency to fight ‘information warfare’ from likes of Russia, Burnham tells UN",
-    "url": "https://www.theguardian.com/technology/2026/sep/23/andy-burnham-national-centre-russian-disinformation-deepfakes",
-    "source": "Technology | The Guardian",
-    "snippet": "PM aims to ‘stem poisonous tide’ of disinformation and deepfakes with National Centre for Information DefenceSecurity chiefs will set up a new national centre to tackle disinformation and deepfakes fr",
-    "date": "2026-09-23",
-    "tag": "UK"
+    "title": "Steel cut for Swedish Navy's first FDI frigate",
+    "url": "https://navaltoday.com/2026/10/05/steel-cut-for-swedish-navys-first-fdi-frigate",
+    "source": "Naval Today",
+    "snippet": "French shipbuilder Naval Group has started construction of the first FDI frigate for the Royal Swedish Navy, FDI Luleå, just one month after...",
+    "date": "2026-10-05",
+    "tag": "EU"
   }
 ]
