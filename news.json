@@ -1,5 +1,45 @@
 [
   {
+    "title": "UK and Germany strengthen defence ties in London talks",
+    "url": "https://www.gov.uk/government/news/uk-and-germany-strengthen-defence-ties-in-london-talks",
+    "source": "Ministry of Defence - Activity on GOV.UK",
+    "snippet": "UK and Germany deepen defence-industrial cooperation at Lancaster House talks, building on the Trinity House Agreement and Kensington Treaty.",
+    "date": "2026-10-16",
+    "tag": "UK"
+  },
+  {
+    "title": "UK scraps three planned Boxer variants after budget cut",
+    "url": "https://defence-blog.com/uk-scraps-three-planned-boxer-variants-after-budget-cut/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "The British Army has dropped plans for armored mortar, repair and recovery, and anti-tank overwatch versions of its Boxer wheeled armored vehicle, and has ruled out using Boxer in the armored cavalry ",
+    "date": "2026-10-15",
+    "tag": "UK"
+  },
+  {
+    "title": "France to go it alone on next-gen combat aircraft after FCAS collapse",
+    "url": "https://www.defensenews.com/global/europe/2026/10/15/france-to-go-it-alone-on-next-gen-combat-aircraft-after-fcas-collapse/",
+    "source": "Defense News",
+    "snippet": "France will develop a next-generation combat aircraft domestically, after a joint project with Germany and Spain collapsed earlier this year.",
+    "date": "2026-10-15",
+    "tag": "EU"
+  },
+  {
+    "title": "Netherlands opens nuclear deterrence talks with France",
+    "url": "https://defence-blog.com/netherlands-opens-nuclear-deterrence-talks-with-france/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "The Netherlands and France held the first meeting of a new bilateral Nuclear Steering Group on Oct. 14, opening high-level talks on how French nuclear forces and European conventional forces could wor",
+    "date": "2026-10-15",
+    "tag": "EU"
+  },
+  {
+    "title": "North Korea’s ‘Hunchback’ Submarine Makes First At-Sea Appearance For Missile Tests",
+    "url": "https://www.twz.com/news-features/north-koreas-hunchback-missile-submarine-makes-first-at-sea-appearance-for-missile-tests",
+    "source": "TWZ",
+    "snippet": "North Korea claims to have launched two cruise missiles from its bizarre modified Romeo class missile boat.\nThe post North Korea’s ‘Hunchback’ Submarine Makes First At-Sea Appearance For Missile Tests",
+    "date": "2026-10-15",
+    "tag": "Korea"
+  },
+  {
     "title": "The United Kingdom’s Military AI Ambitions Need Guardrails",
     "url": "https://warontherocks.com/the-united-kingdoms-military-ai-ambitions-need-guardrails/",
     "source": "War on the Rocks",
@@ -70,45 +110,5 @@
     "snippet": "Czech air defense troops have test-fired a remotely operated twin machine gun mounted on SVOS’s Mars 4×4 armored vehicle against small drones, as Czech industry offers the vehicle as a cheaper counter",
     "date": "2026-10-13",
     "tag": "EU"
-  },
-  {
-    "title": "Leeds firm offers alternative to AI kill switches",
-    "url": "https://ukdefencejournal.org.uk/leeds-firm-offers-alternative-to-ai-kill-switches/",
-    "source": "UK Defence Journal",
-    "snippet": "A Leeds cybersecurity company has launched a protocol intended to shut down a compromised artificial intelligence agent without pulling the plug on it.\nThe post Leeds firm offers alternative to AI kil",
-    "date": "2026-10-12",
-    "tag": "UK"
-  },
-  {
-    "title": "Italy eyes MBDA armaments for new Italo-Turkish drone",
-    "url": "https://www.defensenews.com/global/europe/2026/10/12/italy-eyes-mbda-armaments-for-new-italo-turkish-drone/",
-    "source": "Defense News",
-    "snippet": "The Italian air force is due to acquire six of the drones, which are derived from Baykar’s TB-3 and are being assembled in Italy by LBA Systems.",
-    "date": "2026-10-12",
-    "tag": "EU"
-  },
-  {
-    "title": "European U740 Variant Of The XQ-58A Valkyrie Has Flown",
-    "url": "https://www.twz.com/air/european-u740-variant-of-the-xq-58a-valkyrie-has-flown",
-    "source": "TWZ",
-    "snippet": "A team-up of Airbus and Kratos has put the U740 into the sky as Germany races to field advanced air combat drones by 2029.\nThe post European U740 Variant Of The XQ-58A Valkyrie Has Flown appeared firs",
-    "date": "2026-10-12",
-    "tag": "EU"
-  },
-  {
-    "title": "British startup develops 100-mile strike missile",
-    "url": "https://defence-blog.com/british-startup-develops-100-mile-strike-missile/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "Cody Aerospace & Defence, a British company founded in February, has unveiled its first product, the Badger Mk1 ground-launched strike missile, along with plans for a factory to build it and a goal of",
-    "date": "2026-10-11",
-    "tag": "UK"
-  },
-  {
-    "title": "Ground Robots Are Arriving on the Front Lines",
-    "url": "https://warontherocks.com/cogs-of-war/ground-robots-are-arriving-on-the-front-lines/",
-    "source": "War on the Rocks",
-    "snippet": "For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine wh",
-    "date": "2026-10-11",
-    "tag": "World"
   }
 ]
