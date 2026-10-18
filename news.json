@@ -1,5 +1,45 @@
 [
   {
+    "title": "British startup develos modular ground drone for front line",
+    "url": "https://defence-blog.com/british-startup-develos-modular-ground-drone-for-front-line/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "British defense technology company Stratonex Defence Technologies has unveiled VARAN, a modular unmanned ground vehicle concept designed to accompany and support forward units on the battlefield, with",
+    "date": "2026-10-18",
+    "tag": "UK"
+  },
+  {
+    "title": "Latvia’s combat-tested ground drone shows off in Finland",
+    "url": "https://defence-blog.com/latvias-combat-tested-ground-drone-shows-off-in-finland/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "Latvian company NATRIX, already a supplier of ground drones to Latvia’s armed forces, showed its battle-tested unmanned ground vehicle to Finnish military and security officials on Oct. 8, driving it ",
+    "date": "2026-10-18",
+    "tag": "EU"
+  },
+  {
+    "title": "Britain puts millions into protecting military sites",
+    "url": "https://ukdefencejournal.org.uk/britain-puts-millions-into-protecting-military-sites/",
+    "source": "UK Defence Journal",
+    "snippet": "An additional £470 million is being spent on improving the security of critical military sites across Britain, alongside £240 million for an enhanced counter-drone system called Project PRESAGIUM.\nThe",
+    "date": "2026-10-17",
+    "tag": "UK"
+  },
+  {
+    "title": "Firms queue for Ukraine’s captured Russian weapons data",
+    "url": "https://ukdefencejournal.org.uk/firms-queue-for-ukraines-captured-russian-weapons-data/",
+    "source": "UK Defence Journal",
+    "snippet": "Ukraine has received more than 650 applications to register on TrophyLab, its web portal for the study of captured Russian equipment, of which 389 came from foreign defence manufacturers.\nThe post Fir",
+    "date": "2026-10-17",
+    "tag": "UK"
+  },
+  {
+    "title": "GA-ASI Completes Flight Test of New ESM System on Gray Eagle UAS",
+    "url": "https://euro-sd.com/2026/10/news/air/54353/ga-asi-esm-gray-eagle/",
+    "source": "European Security & Defence",
+    "snippet": "General Atomics Aeronautical Systems, Inc. (GA-ASI) has completed flight testing of the SNC Electronic Support Measures (ESM) system on the … mehr... \nThe post GA-ASI Completes Flight Test of New ESM ",
+    "date": "2026-10-17",
+    "tag": "World"
+  },
+  {
     "title": "North Korea says it tested new AI-powered torpedo system",
     "url": "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system",
     "source": "News | Euronews RSS",
@@ -110,29 +150,5 @@
     "snippet": "North Korea claims to have launched two cruise missiles from its bizarre modified Romeo class missile boat.\nThe post North Korea’s ‘Hunchback’ Submarine Makes First At-Sea Appearance For Missile Tests",
     "date": "2026-10-15",
     "tag": "Korea"
-  },
-  {
-    "title": "The United Kingdom’s Military AI Ambitions Need Guardrails",
-    "url": "https://warontherocks.com/the-united-kingdoms-military-ai-ambitions-need-guardrails/",
-    "source": "War on the Rocks",
-    "snippet": "Advancing military AI capability is a priority for the United Kingdom, and in recent weeks, the new government has doubled down on its ambitions for AI and defense via two major partnerships.On Aug. 2",
-    "date": "2026-10-14",
-    "tag": "UK"
-  },
-  {
-    "title": "US Army hackathon sets backdrop for an AUSA focused on autonomy",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-hackathon-sets-backdrop-for-an-ausa-focused-on-autonomy/",
-    "source": "Defense News",
-    "snippet": "The Army's Operation Jailbreak initiative asked defense companies to hack into each other's autonomous systems and machines, enabling them to communicate.",
-    "date": "2026-10-14",
-    "tag": "World"
-  },
-  {
-    "title": "Army doubles down on autonomy, stakes out Indo-Pacific role: AUSA Day 2",
-    "url": "https://breakingdefense.com/2026/10/army-doubles-down-on-autonomy-stakes-out-indo-pacific-role-ausa-day-2/",
-    "source": "Breaking Defense",
-    "snippet": "From a newly redesignated command to long-range fires in the Pacific, Army leaders laid out where they see the service fitting into the future fight.",
-    "date": "2026-10-14",
-    "tag": "World"
   }
 ]
