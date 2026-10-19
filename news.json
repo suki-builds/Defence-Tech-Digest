@@ -1,5 +1,45 @@
 [
   {
+    "title": "American F-22 stealth jet controls combat drone",
+    "url": "https://ukdefencejournal.org.uk/american-f-22-stealth-jet-controls-combat-drone/",
+    "source": "UK Defence Journal",
+    "snippet": "A US Air Force F-22 Raptor has directed a YFQ-44A Collaborative Combat Aircraft during an airborne tactical-control demonstration, with the fighter pilot issuing commands that were interpreted and exe",
+    "date": "2026-10-19",
+    "tag": "UK"
+  },
+  {
+    "title": "Military Engineering Showcase highlights UK defence innovation",
+    "url": "https://www.gov.uk/government/news/military-engineering-showcase-highlights-uk-defence-innovation",
+    "source": "Ministry of Defence - Activity on GOV.UK",
+    "snippet": "Over 60 UK companies joined partners from over 20 nations to showcase military engineering solutions, strengthen collaboration and support UK defence exports.",
+    "date": "2026-10-19",
+    "tag": "UK"
+  },
+  {
+    "title": "Rheinmetall to acquire Romanian shipyard to boost naval shipbuilding",
+    "url": "https://navaltoday.com/2026/10/19/rheinmetall-to-acquire-romanian-shipyard-to-boost-naval-shipbuilding",
+    "source": "Naval Today",
+    "snippet": "Rheinmetall, together with the Swiss shipping company MSC, has decided to acquire the Mangalia shipyard in Romania, south of Constanța. As...",
+    "date": "2026-10-19",
+    "tag": "EU"
+  },
+  {
+    "title": "Denmark buys more NSMs from Kongsberg",
+    "url": "https://navaltoday.com/2026/10/19/denmark-buys-more-nsms-from-kongsberg",
+    "source": "Naval Today",
+    "snippet": "Kongsberg has signed a contract to deliver more Naval Strike Missiles (NSMs) to Denmark to strengthen the Scandinavian country’s coastal defense....",
+    "date": "2026-10-19",
+    "tag": "EU"
+  },
+  {
+    "title": "France doubles down on its homegrown kamikaze drone",
+    "url": "https://defence-blog.com/france-doubles-down-on-its-homegrown-kamikaze-drone/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "France has ordered several hundred more MX-10 DAMOCLES kamikaze drones from KNDS France and Delair, and the quadcopter munition has won its first export customer, Luxembourg, which signed a contract w",
+    "date": "2026-10-19",
+    "tag": "World"
+  },
+  {
     "title": "British startup develos modular ground drone for front line",
     "url": "https://defence-blog.com/british-startup-develos-modular-ground-drone-for-front-line/",
     "source": "The Defence Blog – Military and Defense News",
@@ -118,37 +158,5 @@
     "snippet": "UK and Germany deepen defence-industrial cooperation at Lancaster House talks, building on the Trinity House Agreement and Kensington Treaty.",
     "date": "2026-10-16",
     "tag": "UK"
-  },
-  {
-    "title": "UK scraps three planned Boxer variants after budget cut",
-    "url": "https://defence-blog.com/uk-scraps-three-planned-boxer-variants-after-budget-cut/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "The British Army has dropped plans for armored mortar, repair and recovery, and anti-tank overwatch versions of its Boxer wheeled armored vehicle, and has ruled out using Boxer in the armored cavalry ",
-    "date": "2026-10-15",
-    "tag": "UK"
-  },
-  {
-    "title": "France to go it alone on next-gen combat aircraft after FCAS collapse",
-    "url": "https://www.defensenews.com/global/europe/2026/10/15/france-to-go-it-alone-on-next-gen-combat-aircraft-after-fcas-collapse/",
-    "source": "Defense News",
-    "snippet": "France will develop a next-generation combat aircraft domestically, after a joint project with Germany and Spain collapsed earlier this year.",
-    "date": "2026-10-15",
-    "tag": "EU"
-  },
-  {
-    "title": "Netherlands opens nuclear deterrence talks with France",
-    "url": "https://defence-blog.com/netherlands-opens-nuclear-deterrence-talks-with-france/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "The Netherlands and France held the first meeting of a new bilateral Nuclear Steering Group on Oct. 14, opening high-level talks on how French nuclear forces and European conventional forces could wor",
-    "date": "2026-10-15",
-    "tag": "EU"
-  },
-  {
-    "title": "North Korea’s ‘Hunchback’ Submarine Makes First At-Sea Appearance For Missile Tests",
-    "url": "https://www.twz.com/news-features/north-koreas-hunchback-missile-submarine-makes-first-at-sea-appearance-for-missile-tests",
-    "source": "TWZ",
-    "snippet": "North Korea claims to have launched two cruise missiles from its bizarre modified Romeo class missile boat.\nThe post North Korea’s ‘Hunchback’ Submarine Makes First At-Sea Appearance For Missile Tests",
-    "date": "2026-10-15",
-    "tag": "Korea"
   }
 ]
