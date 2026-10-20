@@ -1,5 +1,77 @@
 [
   {
+    "title": "Guns, Growth, and the German Reinvention of Military Keynesianism",
+    "url": "https://warontherocks.com/guns-growth-and-the-german-reinvention-of-military-keynesianism/",
+    "source": "War on the Rocks",
+    "snippet": "In March 2025, Germany did more than loosen a fiscal rule. It fused two national emergencies — a deteriorating European security order and a deteriorating industrial model — into a single constitution",
+    "date": "2026-10-20",
+    "tag": "EU"
+  },
+  {
+    "title": "Rheinmetall’s ‘Firepower’ project",
+    "url": "https://euro-sd.com/2026/10/news/land/54386/rheinmetalls-firepower/",
+    "source": "European Security & Defence",
+    "snippet": "Rheinmetall is going ahead with its ‘Firepower’ project and continues to  expand its production capacity. In October 2026, its subsidiary … mehr... \nThe post Rheinmetall’s ‘Firepower’ project appeared",
+    "date": "2026-10-20",
+    "tag": "EU"
+  },
+  {
+    "title": "UK startup turns two-seat eVTOL into 400-mile cargo drone",
+    "url": "https://defence-blog.com/uk-startup-turns-two-seat-evtol-into-400-mile-cargo-drone/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "British aircraft maker Skyfly Technologies has raised $10 million to turn its two-seat electric vertical takeoff aircraft into Longbow, a hybrid-electric cargo drone designed to carry 200 kg (440 poun",
+    "date": "2026-10-20",
+    "tag": "UK"
+  },
+  {
+    "title": "Microwave drone killer now on Pentagon’s online store",
+    "url": "https://defence-blog.com/microwave-drone-killer-now-on-pentagons-online-store/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "Epirus’ Leonidas high-power microwave weapon, which knocks out drones by frying their electronics, has been added to the Pentagon’s online counter-drone marketplace, making it easier for U.S. military",
+    "date": "2026-10-20",
+    "tag": "World"
+  },
+  {
+    "title": "Germany Drops Boeing MQ-28 Ghost Bat Rapid Procurement Plan",
+    "url": "https://www.twz.com/air/germany-drops-boeing-mq-28-ghost-bat-rapid-procurement-plan",
+    "source": "TWZ",
+    "snippet": "A broader competition for Germany’s CCA requirement is now likely to extend into the next decade.\nThe post Germany Drops Boeing MQ-28 Ghost Bat Rapid Procurement Plan appeared first on TWZ.",
+    "date": "2026-10-19",
+    "tag": "EU"
+  },
+  {
+    "title": "Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers",
+    "url": "https://breakingdefense.com/2026/10/russian-satellite-stalked-iceye-spacecraft-in-potentially-dangerous-on-orbit-maneuvers/",
+    "source": "Breaking Defense",
+    "snippet": "The Cosmos 2612 came within 500 meters (about a third of a mile) to US-flagged ICEYE-X36 believed to be supporting Ukraine, according to LeoLabs.",
+    "date": "2026-10-19",
+    "tag": "World"
+  },
+  {
+    "title": "Russian Satellite’s Unprecedented Shadowing Of A Very Particular Radar Imaging Satellite Is A Big Deal",
+    "url": "https://www.twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal",
+    "source": "TWZ",
+    "snippet": "Russia's Kosmos 2612 came very close to ICEYE X36, which reportedly has Ukraine connections, after weeks of highly unusual maneuvering.\nThe post Russian Satellite’s Unprecedented Shadowing Of A Very P",
+    "date": "2026-10-19",
+    "tag": "World"
+  },
+  {
+    "title": "DIU unveils next phase in unmanned vessel competition",
+    "url": "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition/",
+    "source": "Breaking Defense",
+    "snippet": "The DIU solicitation said that it wants USVs outfitted with “mature hard-kill Counter-Air effectors and clutter-resilient sensor suites.”",
+    "date": "2026-10-19",
+    "tag": "World"
+  },
+  {
+    "title": "Phantom Defense EW Jammers Served as an Adversary for Drones During U.S. Drone Dominance",
+    "url": "https://euro-sd.com/2026/10/news/exclusive-news/54390/phantom-defense/",
+    "source": "European Security & Defence",
+    "snippet": "Phantom Defense, a Ukrainian defense-tech company building an integrated counter-UAS ecosystem, participated in Gauntlet II, a phase of the U.S. … mehr... \nThe post Phantom Defense EW Jammers Served a",
+    "date": "2026-10-19",
+    "tag": "World"
+  },
+  {
     "title": "American F-22 stealth jet controls combat drone",
     "url": "https://ukdefencejournal.org.uk/american-f-22-stealth-jet-controls-combat-drone/",
     "source": "UK Defence Journal",
@@ -110,53 +182,5 @@
     "snippet": "Russia’s Tupolev says about 80% of the systems and equipment on its new Tu-160M strategic bomber have been modernized, and that the aircraft’s onboard electronics were designed as a modular architectu",
     "date": "2026-10-17",
     "tag": "World"
-  },
-  {
-    "title": "Germany changes course on plans to buy MQ-28 drone wingman: Boeing official",
-    "url": "https://breakingdefense.com/2026/10/germany-changes-course-on-plans-to-buy-mq-28-drone-wingman-boeing-official/",
-    "source": "Breaking Defense",
-    "snippet": "Germany has set a target of 2029 to field a CCA, which would make it the first European country to reach such a milestone, but that timeline now looks to be in doubt.",
-    "date": "2026-10-16",
-    "tag": "EU"
-  },
-  {
-    "title": "South Korean lasers down three drones in Army demo, Hanwha says",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/south-korean-lasers-down-three-drones-in-army-demo-hanwha-says/",
-    "source": "Defense News",
-    "snippet": "Hanwha Systems laser weapons shot down target drones during a South Korean Army demonstration, the company said.",
-    "date": "2026-10-16",
-    "tag": "Korea"
-  },
-  {
-    "title": "Douglas Alexander welcomes defence skills investment boost",
-    "url": "https://www.gov.uk/government/news/douglas-alexander-welcomes-defence-skills-investment-boost",
-    "source": "Ministry of Defence - Activity on GOV.UK",
-    "snippet": "Two Defence Technical Excellence Colleges are coming to Scotland after the Scottish Government confirmed it will match fund the UK Government's £10 million,",
-    "date": "2026-10-16",
-    "tag": "UK"
-  },
-  {
-    "title": "Zone 5 ‘found a spot’ in drone interceptor market with new Eclipse: CEO",
-    "url": "https://breakingdefense.com/2026/10/zone-5-found-a-spot-in-drone-interceptor-market-with-new-eclipse-ceo/",
-    "source": "Breaking Defense",
-    "snippet": "CEO Thomas Akers told Breaking Defense that the company’s recent acquisition by Norwegian defense firm Kongsberg offers “an immediate step change” for the startup firm, whose portfolio now spans from ",
-    "date": "2026-10-16",
-    "tag": "World"
-  },
-  {
-    "title": "F-22 Pilot Controls FQ-44 Fighter Drone From The Cockpit For The First Time",
-    "url": "https://www.twz.com/air/f-22-pilot-controls-fq-44-fighter-drone-from-the-cockpit-for-the-first-time",
-    "source": "TWZ",
-    "snippet": "This is a key milestone as F-22s will be the Air Force's first aerial 'quarterbacks' for Collaborative Combat Aircraft drones.\nThe post F-22 Pilot Controls FQ-44 Fighter Drone From The Cockpit For The",
-    "date": "2026-10-16",
-    "tag": "World"
-  },
-  {
-    "title": "UK and Germany strengthen defence ties in London talks",
-    "url": "https://www.gov.uk/government/news/uk-and-germany-strengthen-defence-ties-in-london-talks",
-    "source": "Ministry of Defence - Activity on GOV.UK",
-    "snippet": "UK and Germany deepen defence-industrial cooperation at Lancaster House talks, building on the Trinity House Agreement and Kensington Treaty.",
-    "date": "2026-10-16",
-    "tag": "UK"
   }
 ]
