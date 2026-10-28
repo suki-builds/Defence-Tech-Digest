@@ -6,12 +6,17 @@ on:
   # schedule:
   #   - cron: '0 7 * * *'  # 7:00 AM UTC every day
   workflow_dispatch:       # allows manual trigger from GitHub UI
+    inputs:
+      dry_run:
+        description: 'Dry run: write drafts to a downloadable artifact only (no Prismic, no email, no history)'
+        type: boolean
+        default: true
 
 permissions:
-  contents: write   # needed so the workflow can push news.json to gh-pages
+  contents: read
 
 jobs:
-  send-digest:
+  draft-news:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -20,22 +25,43 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: pip
 
       - name: Install dependencies
-        run: pip install anthropic feedparser
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: pytest -q
+
+      # History of drafted events, so tomorrow's run skips what was already
+      # drafted. Kept in the Actions cache rather than a branch so it is not public.
+      - name: Restore history
+        uses: actions/cache/restore@v4
+        with:
+          path: state
+          key: history-${{ github.run_id }}
+          restore-keys: history-
 
       - name: Run digest
         env:
-          ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
-          GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          RECIPIENT_EMAIL:    ${{ secrets.RECIPIENT_EMAIL }}
+          DRY_RUN:             ${{ inputs.dry_run }}
+          ANTHROPIC_API_KEY:   ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS:       ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD:  ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL:     ${{ secrets.RECIPIENT_EMAIL }}
+          PRISMIC_WRITE_TOKEN: ${{ secrets.PRISMIC_WRITE_TOKEN }}
         run: python digest.py
 
-      - name: Publish news.json to gh-pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload dry-run output
+        if: ${{ inputs.dry_run }}
+        uses: actions/upload-artifact@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: gh-pages
-          keep_files: false
+          name: drafts
+          path: out/
+
+      - name: Save history
+        if: ${{ !inputs.dry_run }}
+        uses: actions/cache/save@v4
+        with:
+          path: state
+          key: history-${{ github.run_id }}
