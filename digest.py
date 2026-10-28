@@ -25,6 +25,8 @@ REWRITE_MODEL = "claude-sonnet-5-5"  # write each story in the house style
 
 # DRY_RUN=1 writes everything to out/ and sends, pushes and saves nothing.
 DRY_RUN = os.environ.get("DRY_RUN", "").lower() in ("1", "true", "yes")
+# IGNORE_HISTORY=1 treats every event as new, to re-test drafting on events already drafted.
+IGNORE_HISTORY = os.environ.get("IGNORE_HISTORY", "").lower() in ("1", "true", "yes")
 OUT_DIR = Path("out")
 STATE_PATH = Path("state/history.json")
 HISTORY_KEEP_DAYS = 7      # how long drafted events are remembered
@@ -231,7 +233,7 @@ def main():
 
     history = load_history()
     recent_cutoff = (datetime.now(timezone.utc) - timedelta(days=HISTORY_PROMPT_DAYS)).strftime("%Y-%m-%d")
-    recent = [h for h in history if h["date"] >= recent_cutoff]
+    recent = [] if IGNORE_HISTORY else [h for h in history if h["date"] >= recent_cutoff]
     cluster_tally = Tally()
     clusters, skipped = select_and_cluster(client, CLUSTER_MODEL, articles, recent, tally=cluster_tally)
     print(f"{len(clusters)} new events, {len(skipped)} already covered ({cluster_tally.describe()}). "

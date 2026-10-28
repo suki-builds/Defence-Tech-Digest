@@ -11,6 +11,10 @@ on:
         description: 'Dry run: write drafts to a downloadable artifact only (no Prismic, no email, no history)'
         type: boolean
         default: true
+      ignore_history:
+        description: 'Ignore history: treat already-drafted events as new (for testing)'
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -45,6 +49,7 @@ jobs:
       - name: Run digest
         env:
           DRY_RUN:             ${{ inputs.dry_run }}
+          IGNORE_HISTORY:      ${{ inputs.ignore_history }}
           ANTHROPIC_API_KEY:   ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_ADDRESS:       ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD:  ${{ secrets.GMAIL_APP_PASSWORD }}
