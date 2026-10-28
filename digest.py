@@ -129,8 +129,9 @@ def write_stories(client, clusters, run_tally):
         tally = Tally()
         try:
             story = write_story(client, REWRITE_MODEL, system_prompt, c["articles"], tally=tally)
-            problems = check_story(story.title, story.description, story.bullets, sources)
+            problems = first_problems = check_story(story.title, story.description, story.bullets, sources)
             if problems:
+                print(f"  Repairing '{story.title}': " + " | ".join(problems))
                 story = write_story(client, REWRITE_MODEL, system_prompt, c["articles"],
                                     previous=story, violations=problems, tally=tally)
                 problems = check_story(story.title, story.description, story.bullets, sources)
@@ -141,7 +142,8 @@ def write_stories(client, clusters, run_tally):
         finally:
             run_tally.add(tally)
         print(f"  {story.title}: {tally.describe()}")
-        stories.append({**c, "story": story, "problems": problems, "cost": tally})
+        stories.append({**c, "story": story, "problems": problems,
+                        "first_draft_problems": first_problems, "cost": tally})
     return stories, failures
 
 
@@ -255,7 +257,8 @@ def main():
         write_out("email.html", body)
         write_out("stories.json", json.dumps([
             {"category": s["category"], "event_label": s["event_label"],
-             **s["story"].model_dump(), "problems": s["problems"], "cost": s["cost"].describe(),
+             **s["story"].model_dump(), "problems": s["problems"],
+             "first_draft_problems": s["first_draft_problems"], "cost": s["cost"].describe(),
              "sources": [{k: a[k] for k in ("source", "title", "url", "summary")} for a in s["articles"]]}
             for s in stories
         ] + [{"skipped_as_covered": c["event_label"]} for c in skipped]

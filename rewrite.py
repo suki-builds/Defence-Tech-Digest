@@ -41,9 +41,11 @@ How to write each item:
 - Write entirely in your own words. Do not reuse phrasing from the sources, and do not quote them.
 - Do not mention or credit the source outlets or their reporters.
 - Sources in other languages are written up in British English.
+- State facts directly, as our own reporting. Never refer to reporting, sources or missing information: no "reportedly", "according to reports", "it was reported" or "no further detail was provided".
+- Keep facts that matter to a defence technology reader: what happened, who, how much, when and why it matters. Leave out trivia such as how long a meeting lasted, and vague filler such as "work began some time ago".
 - title: the headline, under 60 characters.
-- description: exactly two sentences, under 150 characters in total.
-- bullets: one to three, each 25 words or fewer, plain language, no labels or lead-in words."""
+- description: exactly two sentences, under 150 characters in total. Aim for 120 to 140 characters so it stays safely under the limit.
+- bullets: one to three, each 25 words or fewer, plain language, no labels or lead-in words. Every bullet must add a fact that is not already in the title or description; never restate them. If no new facts remain, one bullet is enough."""
 
 
 def _format_sources(articles):

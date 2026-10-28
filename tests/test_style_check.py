@@ -87,6 +87,22 @@ def test_copied_phrases():
     assert find_copied_phrases("BAE Systems will deliver six frigates by 2030.", [source]) == []
 
 
+def test_names_and_titles_are_not_copied_wording():
+    src = ("Defence Minister Shinjiro Koizumi and U.S. Secretary of War Pete Hegseth met in Tokyo. "
+           "The Ministry of Defence's chief scientific adviser has praised the work.")
+    assert find_copied_phrases(
+        "Minister Shinjiro Koizumi and U.S. Secretary of War Pete Hegseth agreed the plan.", [src]) == []
+    assert find_copied_phrases(
+        "Separately, the Ministry of Defence's chief scientific adviser has backed it.", [src]) == []
+
+
+def test_meta_references():
+    for text in ["The jet reportedly flew.", "According to reporting dated 27 October, it flew.",
+                 "No further detail was provided."]:
+        assert any("refers to sources" in p for p in check_text("T", text)), text
+    assert check_text("T", "According to the MoD, the jet flew.") == []
+
+
 def test_copied_phrase_reported_by_check_story():
     src = "The Ministry of Defence has signed a forty million pound contract for drones."
     out = check_story(CLEAN["title"], CLEAN["description"],

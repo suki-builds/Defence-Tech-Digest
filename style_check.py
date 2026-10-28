@@ -12,6 +12,20 @@ DESCRIPTION_SENTENCES = 2
 MAX_BULLETS = 3
 BULLET_MAX_WORDS = 25
 OVERLAP_WORDS = 8             # this many consecutive words shared with a source = copied
+# A shared run only counts as copied if it has at least this many ordinary
+# words, so names and titles ("U.S. Secretary of War Pete Hegseth") pass.
+MIN_ORDINARY_WORDS = 3
+
+# Words that do not count towards MIN_ORDINARY_WORDS: function words, and
+# lower-case words that commonly appear inside official titles.
+STOPWORDS = frozenset(
+    "a an the of and or to in on for at by with from as into its their his her "
+    "is was are were be been has have had will would that this which who".split()
+)
+TITLE_WORDS = frozenset(
+    "chief scientific adviser advisor secretary minister deputy general director head "
+    "officer executive chair chairman president vice state commander staff".split()
+)
 
 CONTRACTION = re.compile(
     r"\b\w+n[’']t\b"                                    # don't, isn't, won't
@@ -41,6 +55,16 @@ AMERICAN_SPELLINGS = re.compile(
     r")\b"
 )
 PROGRAM_OK_BEFORE = re.compile(r"(?:computer|software)\s+$", re.IGNORECASE)
+
+# Phrases that point at our sources or at missing information. News copy
+# states facts directly, as our own reporting.
+META_REFERENCE = re.compile(
+    r"\breportedly\b"
+    r"|\baccording to (?:the )?(?:reports?|reporting|media|coverage)\b"
+    r"|\bit (?:was|has been|is) reported\b"
+    r"|\bno further details?\b",
+    re.IGNORECASE,
+)
 
 # Abbreviations whose full stop does not end a sentence.
 ABBREVIATIONS = re.compile(r"\b(?:U\.S|U\.K|Mr|Mrs|Ms|Dr|No|St|Gen|Lt|Col|Adm|Capt|approx|vs|e\.g|i\.e)\.")
@@ -84,23 +108,34 @@ def check_text(label, text):
         problems.append(f'{label}: avoid the "it is not A, it is B" construction ("{m.group(0)}").')
     for word in _american_spellings(text):
         problems.append(f'{label}: American spelling "{word}" - use the British form.')
+    for m in META_REFERENCE.finditer(text):
+        problems.append(f'{label}: "{m.group(0)}" refers to sources or missing detail - state facts directly or leave it out.')
     return problems
 
 
+def _is_ordinary(word):
+    """A lower-case word that is not a function word or part of a job title.
+    Capitalised words, acronyms and numbers are names, not phrasing."""
+    return word[0].islower() and word.lower() not in STOPWORDS | TITLE_WORDS
+
+
 def find_copied_phrases(text, source_texts, n=OVERLAP_WORDS):
-    """Runs of `n`+ consecutive words in `text` that also appear in a source."""
+    """Runs of `n`+ consecutive words in `text` that also appear in a source,
+    ignoring runs that are mostly names and titles."""
     source_grams = set()
     for src in source_texts:
         w = _words(src)
         source_grams.update(tuple(w[i:i + n]) for i in range(len(w) - n + 1))
-    w = _words(text)
+    original = re.findall(r"[A-Za-z0-9]+(?:['’][A-Za-z]+)?", text)
+    w = [o.lower() for o in original]
     copied, i = [], 0
     while i <= len(w) - n:
         if tuple(w[i:i + n]) in source_grams:
             j = i + n
             while j < len(w) and tuple(w[j - n + 1:j + 1]) in source_grams:
                 j += 1
-            copied.append(" ".join(w[i:j]))
+            if sum(_is_ordinary(o) for o in original[i:j]) >= MIN_ORDINARY_WORDS:
+                copied.append(" ".join(w[i:j]))
             i = j
         else:
             i += 1
