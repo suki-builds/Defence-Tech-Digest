@@ -46,7 +46,9 @@ def build_document(story, category, needs_edit, date_str, taken_uids):
             "title": story.title,
             "meta_title": story.title,
             "meta_description": story.description,
-            "commentary": [{"type": "list-item", "text": b, "spans": []} for b in story.bullets],
+            # Summary bullets first, then the article paragraphs.
+            "commentary": [{"type": "list-item", "text": b, "spans": []} for b in story.bullets]
+                          + [{"type": "paragraph", "text": p, "spans": []} for p in story.body],
             # source_url left empty: no attribution. published_at left empty so the
             # site falls back to the date the post is actually published in Prismic.
             "source_url": "",

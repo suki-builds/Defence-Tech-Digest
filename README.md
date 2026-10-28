@@ -6,11 +6,12 @@ Drafts Fox and Lion news items from defence-tech RSS feeds and puts them in Pris
 
 1. Fetches the last 24 hours of articles from the feeds in `digest.py`.
 2. **Selects and groups** (`cluster.py`, Claude Haiku). This drops irrelevant, opinion and sponsored pieces, and groups articles that report the same event. Events already drafted in the last 3 days are skipped.
-3. **Writes** one news item per event (`rewrite.py`, Claude Sonnet), following the news rules in `style/fox-and-lion-writing-style.md`. Each item has a headline, a two-sentence description and up to three bullets.
-4. **Checks** each item (`style_check.py`): contractions, dashes, "U.S.", British spelling, length limits, references to sources ("reportedly"), and any wording copied from a source (runs of names and titles are allowed). A failing item gets one automatic repair attempt. If problems remain, it is tagged `needs-edit`.
-5. **Creates drafts** in Prismic (`prismic.py`) as `news_post` documents in the Migration Release. Nothing is published automatically.
-6. **Emails a preview** to `RECIPIENT_EMAIL`, with source links for fact-checking. These links are not published.
-7. **Reports cost** (`costs.py`): tokens and dollars per story and for the whole run, in the run log and at the foot of the email.
+3. **Fetches the full source articles** (`fulltext.py`) for the selected events. If a page cannot be read, the feed teaser is used and the draft is tagged `needs-edit` as thin.
+4. **Writes** one news item per event (`rewrite.py`, Claude Sonnet), following the news rules in `style/fox-and-lion-writing-style.md`. Each item has a headline, a two-sentence description, up to three summary bullets and a 150 to 300-word article body.
+5. **Checks** each item (`style_check.py`): contractions, dashes, "U.S.", British spelling, length limits, references to sources ("reportedly"), direct quotes in the body, body length, and any wording copied from a source (runs of names and titles are allowed). A failing item gets one automatic repair attempt. If problems remain, it is tagged `needs-edit`.
+6. **Creates drafts** in Prismic (`prismic.py`) as `news_post` documents in the Migration Release. Nothing is published automatically.
+7. **Emails a preview** to `RECIPIENT_EMAIL`, with source links for fact-checking. These links are not published.
+8. **Reports cost** (`costs.py`): tokens and dollars per story and for the whole run, in the run log and at the foot of the email.
 
 To publish, review the drafts in Prismic under **Migration Releases**, edit as needed, then publish.
 

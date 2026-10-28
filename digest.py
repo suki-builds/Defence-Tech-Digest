@@ -14,6 +14,7 @@ import anthropic
 from cluster import select_and_cluster
 from rewrite import load_news_style_guide, build_system_prompt, write_story
 from style_check import check_story
+from fulltext import add_full_text
 from costs import Tally
 import prismic
 
@@ -125,16 +126,21 @@ def write_stories(client, clusters, run_tally):
     system_prompt = build_system_prompt(load_news_style_guide())
     stories, failures = [], []
     for c in clusters:
-        sources = [f"{a['title']}\n{a['summary']}" for a in c["articles"]]
+        sources = [f"{a['title']}\n{a['summary']}\n{a.get('full_text') or ''}" for a in c["articles"]]
         tally = Tally()
         try:
             story = write_story(client, REWRITE_MODEL, system_prompt, c["articles"], tally=tally)
-            problems = first_problems = check_story(story.title, story.description, story.bullets, sources)
+            problems = first_problems = check_story(story.title, story.description, story.bullets,
+                                                    sources, story.body)
             if problems:
                 print(f"  Repairing '{story.title}': " + " | ".join(problems))
                 story = write_story(client, REWRITE_MODEL, system_prompt, c["articles"],
                                     previous=story, violations=problems, tally=tally)
-                problems = check_story(story.title, story.description, story.bullets, sources)
+                problems = check_story(story.title, story.description, story.bullets, sources, story.body)
+            if not any(a.get("full_text") for a in c["articles"]):
+                # Not sent to the repair call: no rewrite can add facts the feed lacked.
+                problems = problems + ["Thin: no full source article could be fetched, so this was "
+                                       "written from the feed teaser only. Check it against the source."]
         except (anthropic.APIError, RuntimeError) as e:
             print(f"Skipping '{c['event_label']}': {e}")
             failures.append((c, str(e)))
@@ -169,6 +175,7 @@ def build_email_html(stories, skipped, failures, push_errors, cost_summary):
             out.append(f'<p style="margin:0;font-weight:bold;">{e(st.title)}</p>')
             out.append(f'<p style="margin:4px 0;">{e(st.description)}</p>')
             out.append("<ul>" + "".join(f"<li>{e(b)}</li>" for b in st.bullets) + "</ul>")
+            out.append("".join(f'<p style="margin:6px 0;">{e(p)}</p>' for p in st.body))
             if s.get("push_error"):
                 out.append(f'<p style="color:#b00020;">Not created in Prismic: {e(s["push_error"])}</p>')
             if s["problems"]:
@@ -228,7 +235,11 @@ def main():
     cluster_tally = Tally()
     clusters, skipped = select_and_cluster(client, CLUSTER_MODEL, articles, recent, tally=cluster_tally)
     print(f"{len(clusters)} new events, {len(skipped)} already covered ({cluster_tally.describe()}). "
-          "Writing stories...")
+          "Fetching full articles...")
+    add_full_text(clusters)
+    fetched = sum(bool(a["full_text"]) for c in clusters for a in c["articles"])
+    total = sum(len(c["articles"]) for c in clusters)
+    print(f"Fetched full text for {fetched} of {total} source articles. Writing stories...")
 
     run_tally = Tally()
     run_tally.add(cluster_tally)
@@ -259,7 +270,8 @@ def main():
             {"category": s["category"], "event_label": s["event_label"],
              **s["story"].model_dump(), "problems": s["problems"],
              "first_draft_problems": s["first_draft_problems"], "cost": s["cost"].describe(),
-             "sources": [{k: a[k] for k in ("source", "title", "url", "summary")} for a in s["articles"]]}
+             "sources": [{**{k: a[k] for k in ("source", "title", "url", "summary")},
+                          "full_text_fetched": bool(a.get("full_text"))} for a in s["articles"]]}
             for s in stories
         ] + [{"skipped_as_covered": c["event_label"]} for c in skipped]
           + [{"failed": c["event_label"], "error": err} for c, err in failures]

@@ -66,6 +66,17 @@ Note: both paragraphs may contain small slips (for example the double "while" in
 **Inferred**
 - Plain statement of who did what, when and how much, with no editorial colour. This follows from "relay-like" but was not spelled out.
 
+**Article body (drafted by Claude, agreed by Suki on 28 October 2026)**
+- Every news item has a body after the summary: 150 to 300 words, in short paragraphs of one to three sentences. Shorter when the sources are thin; never pad.
+- The first paragraph gives the most important fact: who did what, when and how much. Context and background follow, then what happens next.
+- The order and emphasis are our own, led by what matters to UK, European and Korean readers. Never follow the structure of a source article.
+- Facts come only from the sources, combined where there are several. No speculation, no editorial colour and no closing comment or summing-up line.
+- No direct quotes. What officials or companies said is paraphrased and credited to the speaker, for example "the Ministry of Defence said".
+- Source outlets and their reporters are never named or credited. The copy does not refer to reporting or missing detail ("reportedly", "according to reports", "no further detail was given").
+- Organisations are named in full on first mention, with a short form after if needed ("the Ministry of Defence", then "the MoD").
+- The body may repeat facts from the summary, but not its sentences.
+- Exclusive reporting is not rewritten: if an outlet says it has learned something, obtained documents or spoken to unnamed sources, the item is skipped.
+
 ---
 
 ## 4. Unconfirmed
@@ -84,3 +95,4 @@ Note: both paragraphs may contain small slips (for example the double "while" in
 5. British spelling throughout.
 6. Foreign-language titles translated into English.
 7. News: title under 60 characters, description under 150 characters, bullets at 25 words or fewer.
+8. News: body of 150 to 300 words, no direct quotes, nothing copied from a source.

@@ -16,6 +16,7 @@ class Story(BaseModel):
     title: str = Field(description="Headline, under 60 characters.")
     description: str = Field(description="Exactly two sentences, under 150 characters in total.")
     bullets: list[str] = Field(description="One to three bullets, each 25 words or fewer, no labels.")
+    body: list[str] = Field(description="The article: 150 to 300 words in short paragraphs, one string per paragraph.")
 
 
 def load_news_style_guide(path=STYLE_GUIDE_PATH):
@@ -36,7 +37,7 @@ Follow the house style guide below exactly. Where it says News, it applies to yo
 </style_guide>
 
 How to write each item:
-- You receive one or more source articles about a single event. Combine their facts into one item.
+- You receive one or more source articles about a single event. Combine their facts into one item: a summary (title, description, bullets) and a full article (body).
 - Use only facts present in the sources. Never invent figures, names, dates or quotes. If the sources are thin, write fewer bullets rather than pad.
 - Write entirely in your own words. Do not reuse phrasing from the sources, and do not quote them.
 - Do not mention or credit the source outlets or their reporters.
@@ -45,12 +46,14 @@ How to write each item:
 - Keep facts that matter to a defence technology reader: what happened, who, how much, when and why it matters. Leave out trivia such as how long a meeting lasted, and vague filler such as "work began some time ago".
 - title: the headline, under 60 characters.
 - description: exactly two sentences, under 150 characters in total. Aim for 120 to 140 characters so it stays safely under the limit.
-- bullets: one to three, each 25 words or fewer, plain language, no labels or lead-in words. Every bullet must add a fact that is not already in the title or description; never restate them. If no new facts remain, one bullet is enough."""
+- bullets: one to three, each 25 words or fewer, plain language, no labels or lead-in words. Every bullet must add a fact that is not already in the title or description; never restate them. If no new facts remain, one bullet is enough.
+- body: the article, following the "Article body" rules in the style guide. 150 to 300 words in short paragraphs, one string per paragraph; shorter when the sources are thin. Lead with the most important fact, in our own order and structure, never the source's. No direct quotes: paraphrase and credit the speaker ("the Ministry of Defence said")."""
 
 
 def _format_sources(articles):
+    """Full article text where it could be fetched, otherwise the feed teaser."""
     return "\n\n".join(
-        f"Source {i} | {a['published']}\nTitle: {a['title']}\n{a['summary']}"
+        f"Source {i} | {a['published']}\nTitle: {a['title']}\n{a.get('full_text') or a['summary']}"
         for i, a in enumerate(articles, 1)
     )
 

@@ -11,7 +11,8 @@ DESCRIPTION_MAX_CHARS = 149   # "under 150 characters"
 DESCRIPTION_SENTENCES = 2
 MAX_BULLETS = 3
 BULLET_MAX_WORDS = 25
-OVERLAP_WORDS = 8             # this many consecutive words shared with a source = copied
+BODY_MAX_WORDS = 300
+OVERLAP_WORDS = 8            # this many consecutive words shared with a source = copied
 # A shared run only counts as copied if it has at least this many ordinary
 # words, so names and titles ("U.S. Secretary of War Pete Hegseth") pass.
 MIN_ORDINARY_WORDS = 3
@@ -65,6 +66,8 @@ META_REFERENCE = re.compile(
     r"|\bno further details?\b",
     re.IGNORECASE,
 )
+# A direct quote: double quotes, or British single quotes, around a phrase.
+DIRECT_QUOTE = re.compile(r"[“\"][^”\"]{15,}[”\"]|‘[^’]{15,}’")
 
 # Abbreviations whose full stop does not end a sentence.
 ABBREVIATIONS = re.compile(r"\b(?:U\.S|U\.K|Mr|Mrs|Ms|Dr|No|St|Gen|Lt|Col|Adm|Capt|approx|vs|e\.g|i\.e)\.")
@@ -142,7 +145,7 @@ def find_copied_phrases(text, source_texts, n=OVERLAP_WORDS):
     return copied
 
 
-def check_story(title, description, bullets, source_texts):
+def check_story(title, description, bullets, source_texts, body=()):
     """All news rules for one story. Returns a list of violations (empty = clean)."""
     problems = []
 
@@ -160,12 +163,20 @@ def check_story(title, description, bullets, source_texts):
         if words > BULLET_MAX_WORDS:
             problems.append(f"Bullet {i} is {words} words; the maximum is 25.")
 
+    body_words = sum(len(p.split()) for p in body)
+    if body_words > BODY_MAX_WORDS:
+        problems.append(f"The body is {body_words} words; the maximum is 300.")
+
     problems += check_text("Title", title)
     problems += check_text("Description", description)
     for i, b in enumerate(bullets, 1):
         problems += check_text(f"Bullet {i}", b)
+    for i, p in enumerate(body, 1):
+        problems += check_text(f"Body paragraph {i}", p)
+        for m in DIRECT_QUOTE.finditer(p):
+            problems.append(f'Body paragraph {i}: direct quote {m.group(0)} - paraphrase it and credit the speaker.')
 
-    for part in (title, description, *bullets):
+    for part in (title, description, *bullets, *body):
         for phrase in find_copied_phrases(part, source_texts):
             problems.append(f'Copied wording from a source: "{phrase}". Rewrite it in our own words.')
 

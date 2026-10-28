@@ -32,10 +32,11 @@ You receive a numbered batch of articles from many outlets, plus a list of stori
 1. Select only articles relevant to defence technology: AI and autonomy, cyber, procurement reform, defence industrial policy, C-UAS, electronic warfare, space and similar. Ignore personnel announcements and general military operations news.
 2. Drop opinion, analysis, commentary, podcast and interview pieces. We only rewrite reported news.
 3. Drop sponsored or advertorial pieces. A general "Sponsored by" or "Underwritten by" banner on a show does not by itself make an article sponsored.
-4. Group the remaining articles so that each group reports one single event (the same contract award, the same test, the same announcement). Different outlets covering the same event belong in one group. Related but separate events stay in separate groups. Every selected article belongs to exactly one group.
-5. Give each group one category: UK, EU, Korea, or World (everything else, including the United States and other regions).
-6. If a group reports an event that matches one of the previously drafted stories, set already_covered_by to that story's id, unless the new articles carry materially new facts (a new figure, a decision, a next stage), in which case leave it null.
-7. Order groups by likely engagement on the r/Defence_Tech_UK community, most engagement-worthy first."""
+4. Drop exclusives: articles where the outlet presents its own original reporting, for example "exclusive", "has learned", "obtained by", "documents seen by" or unnamed sources speaking to that outlet. We cannot republish another outlet's reporting without credit. Announcements, contract awards, official statements and events reported by several outlets are fine.
+5. Group the remaining articles so that each group reports one single event (the same contract award, the same test, the same announcement). Different outlets covering the same event belong in one group. Related but separate events stay in separate groups. Every selected article belongs to exactly one group.
+6. Give each group one category: UK, EU, Korea, or World (everything else, including the United States and other regions).
+7. If a group reports an event that matches one of the previously drafted stories, set already_covered_by to that story's id, unless the new articles carry materially new facts (a new figure, a decision, a next stage), in which case leave it null.
+8. Order groups by likely engagement on the r/Defence_Tech_UK community, most engagement-worthy first."""
 
 
 def _format_articles(articles):

@@ -103,6 +103,16 @@ def test_meta_references():
     assert check_text("T", "According to the MoD, the jet flew.") == []
 
 
+def test_body_rules():
+    def body_problems(body):
+        return check_story(CLEAN["title"], CLEAN["description"], CLEAN["bullets"], [], body)
+    assert body_problems(["The navy confirmed the order on Tuesday.", "Deliveries start next year."]) == []
+    assert any("body is 301 words" in p for p in body_problems(["word " * 150, "word " * 151]))
+    assert any("direct quote" in p for p in body_problems(['The minister said "this is a historic day for the navy".']))
+    assert any("direct quote" in p for p in body_problems(["He called it ‘a historic day for the navy’."]))
+    assert any("Body paragraph 2: contraction" in p for p in body_problems(["Fine.", "It's late."]))
+
+
 def test_copied_phrase_reported_by_check_story():
     src = "The Ministry of Defence has signed a forty million pound contract for drones."
     out = check_story(CLEAN["title"], CLEAN["description"],

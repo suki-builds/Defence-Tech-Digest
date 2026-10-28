@@ -20,7 +20,8 @@ def test_slugify():
 
 
 def test_build_document_maps_news_post_fields():
-    story = Story(title="Navy orders drones", description="One. Two.", bullets=["A.", "B."])
+    story = Story(title="Navy orders drones", description="One. Two.", bullets=["A.", "B."],
+                  body=["First paragraph.", "Second paragraph."])
     taken = set()
     doc = prismic.build_document(story, "UK", True, "2026-10-28", taken)
     assert doc["type"] == "news_post" and doc["lang"] == "en-us"
@@ -31,6 +32,8 @@ def test_build_document_maps_news_post_fields():
     assert doc["data"]["commentary"] == [
         {"type": "list-item", "text": "A.", "spans": []},
         {"type": "list-item", "text": "B.", "spans": []},
+        {"type": "paragraph", "text": "First paragraph.", "spans": []},
+        {"type": "paragraph", "text": "Second paragraph.", "spans": []},
     ]
     # A second story with the same headline gets a distinct uid.
     assert prismic.build_document(story, "UK", False, "2026-10-28", taken)["uid"] == "navy-orders-drones-20261028-2"
@@ -58,3 +61,15 @@ def test_select_and_cluster_rehydrates_and_guards_ids():
     assert [a["url"] for a in clusters[0]["articles"]] == ["u2", "u1"]   # dupes and 99 dropped
     assert [a["url"] for a in clusters[1]["articles"]] == ["u3"]         # 1 already claimed
     assert [c["event_label"] for c in skipped] == ["C"]
+
+
+def test_full_text_falls_back_to_none(monkeypatch):
+    import requests
+    import fulltext
+
+    def fail(*args, **kwargs):
+        raise requests.ConnectionError("blocked")
+    monkeypatch.setattr(fulltext.requests, "get", fail)
+    clusters = [{"articles": [{"url": "https://example.com/a"}, {"url": ""}]}]
+    fulltext.add_full_text(clusters)
+    assert [a["full_text"] for a in clusters[0]["articles"]] == [None, None]
