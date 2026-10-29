@@ -1,5 +1,69 @@
 [
   {
+    "title": "British stratospheric spy flight planned for next year",
+    "url": "https://ukdefencejournal.org.uk/british-stratospheric-spy-flight-planned-for-next-year/",
+    "source": "UK Defence Journal",
+    "snippet": "Project AETHER is planning a multi-payload, long endurance flight in the 2027-28 financial year to demonstrate a broader range of intelligence, surveillance and reconnaissance collection from stratosp",
+    "date": "2026-10-28",
+    "tag": "UK"
+  },
+  {
+    "title": "Saab launches space command and control platform",
+    "url": "https://ukdefencejournal.org.uk/saab-launches-space-command-and-control-platform/",
+    "source": "UK Defence Journal",
+    "snippet": "Saab has launched the Allied Mission System, a cloud-based platform that brings space domain awareness, mission management and command and control together so that operators can watch and respond to a",
+    "date": "2026-10-28",
+    "tag": "UK"
+  },
+  {
+    "title": "UK’s Healey says government will fill defense plan gap by ‘reprioritizing’",
+    "url": "https://www.defensenews.com/global/europe/2026/10/28/uks-healey-says-government-will-fill-defense-plan-gap-by-reprioritizing/",
+    "source": "Global - Defense News",
+    "snippet": "Finance minister John Healey said on Wednesday \"reprioritization\" in other departments would fill a £4.7 billion ($6.3 billion) gap in Britain's Defence Investment Plan.",
+    "date": "2026-10-28",
+    "tag": "UK"
+  },
+  {
+    "title": "AUKUS partners test autonomous systems as Europe weighs maritime surveillance needs",
+    "url": "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs/",
+    "source": "Breaking Defense",
+    "snippet": "The UK headed up the anti-submarine warfare component of Maritime Big Play exercise, which took place off the coast of San Diego in October.",
+    "date": "2026-10-28",
+    "tag": "UK"
+  },
+  {
+    "title": "Counter-UAS solution finds and classifies targets at standoff distance with “autonomous perception”",
+    "url": "https://breakingdefense.com/2026/10/counter-uas-solution-finds-and-classifies-targets-at-standoff-distance-with-autonomous-perception/",
+    "source": "Breaking Defense",
+    "snippet": "[Sponsored] Warden’s passive, first layer of detection complements EO/IR and radar.",
+    "date": "2026-10-28",
+    "tag": "World"
+  },
+  {
+    "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
+    "url": "https://www.defensenews.com/video/2026/10/28/inside-msis-next-generation-of-counter-drone-defense/",
+    "source": "Defense News",
+    "snippet": "MSI discusses its EAGLS air defense platform, development of EAGLS X and new approaches to modular, cost-effective counter-drone capabilities.",
+    "date": "2026-10-28",
+    "tag": "World"
+  },
+  {
+    "title": "U.S. Intel Warns China’s Space-Based Directed Energy Weapons Could Soon Threaten Satellites",
+    "url": "https://www.twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites",
+    "source": "TWZ",
+    "snippet": "Battlefield space is heating up as the DIA warns that China could use orbital directed energy weapons to take down satellites by the end of the decade. \nThe post U.S. Intel Warns China’s Space-Based D",
+    "date": "2026-10-28",
+    "tag": "World"
+  },
+  {
+    "title": "With daily jamming of US forces on Korean Peninsula, industry needs resilient solutions: USFK commander",
+    "url": "https://breakingdefense.com/2026/10/with-daily-jamming-of-us-forces-on-korean-peninsula-industry-needs-resilient-solutions-usfk-commander/",
+    "source": "Breaking Defense",
+    "snippet": "“If your capability requires pristine satellite communications, infinite bandwidth, and uninterrupted fiber optic backbone to function, it will not survive 48 hours on the peninsula,” Gen. Xavier Brun",
+    "date": "2026-10-28",
+    "tag": "Korea"
+  },
+  {
     "title": "UK defence spending target of 3 percent by 2030",
     "url": "https://ukdefencejournal.org.uk/uk-defence-spending-target-of-3-percent-by-2030/",
     "source": "UK Defence Journal",
@@ -142,29 +206,5 @@
     "snippet": "A computer simulation run by South Korean and U.S. forces during this summer’s Ulchi Freedom Shield exercise ended with North Korean troops breaking through allied defensive lines and advancing to the",
     "date": "2026-10-26",
     "tag": "Korea"
-  },
-  {
-    "title": "Up to two billion pounds to replace the SA80 rifle",
-    "url": "https://ukdefencejournal.org.uk/up-to-two-billion-pounds-to-replace-the-sa80-rifle/",
-    "source": "UK Defence Journal",
-    "snippet": "The programme to replace the SA80 family of weapons carries an estimated value of up to £2 billion and the contract is expected to run from July 2029 until the end of March 2045.\nThe post Up to two bi",
-    "date": "2026-10-25",
-    "tag": "UK"
-  },
-  {
-    "title": "Lib Dems propose six more frigates for Royal Navy",
-    "url": "https://ukdefencejournal.org.uk/lib-dems-propose-six-more-frigates-for-royal-navy/",
-    "source": "UK Defence Journal",
-    "snippet": "The Liberal Democrats have proposed ordering six additional Royal Navy frigates and expanding British shipbuilding capacity as part of a defence package aimed at responding to the threat from Russia.\n",
-    "date": "2026-10-25",
-    "tag": "UK"
-  },
-  {
-    "title": "Royal Navy moves to buy U.S.-made Skydio X10D drones",
-    "url": "https://defence-blog.com/royal-navy-moves-to-buy-u-s-made-skydio-x10d-drones/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "Britain’s Ministry of Defence has opened a tender to buy Skydio X10D small drones, the American-made reconnaissance quadcopter already ordered by the thousands by the U.S. Army, with an estimated budg",
-    "date": "2026-10-25",
-    "tag": "UK"
   }
 ]
