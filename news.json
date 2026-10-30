@@ -1,5 +1,77 @@
 [
   {
+    "title": "Defence contracts to prioritise British jobs and skills",
+    "url": "https://www.gov.uk/government/news/defence-contracts-to-prioritise-british-jobs-and-skills",
+    "source": "Ministry of Defence - Activity on GOV.UK",
+    "snippet": "Overseas firms winning UK defence contracts to be required to invest benefits back into the UK under new Offsets policy.",
+    "date": "2026-10-30",
+    "tag": "UK"
+  },
+  {
+    "title": "Policy paper: UK Offset Policy",
+    "url": "https://www.gov.uk/government/publications/uk-offset-policy",
+    "source": "Ministry of Defence - Activity on GOV.UK",
+    "snippet": "Securing additional UK industrial, capability, and economic benefit from selected overseas defence and security procurements.",
+    "date": "2026-10-30",
+    "tag": "UK"
+  },
+  {
+    "title": "Proteus demonstrator to get American autonomy software",
+    "url": "https://ukdefencejournal.org.uk/proteus-demonstrator-to-get-american-autonomy-software/",
+    "source": "UK Defence Journal",
+    "snippet": "Leonardo will use Shield AI's Hivemind software to develop autonomy for Proteus, the uncrewed rotorcraft it built with the Royal Navy and UK Defence Innovation.\nThe post Proteus demonstrator to get Am",
+    "date": "2026-10-29",
+    "tag": "UK"
+  },
+  {
+    "title": "Early warning radar flown on Protector type airframe",
+    "url": "https://ukdefencejournal.org.uk/early-warning-radar-flown-on-protector-type-airframe/",
+    "source": "UK Defence Journal",
+    "snippet": "General Atomics and Saab have flown an airborne early warning radar on an uncrewed MQ-9B, the same aircraft the Royal Air Force operates as Protector, tracking fighter jets and commercial aircraft alo",
+    "date": "2026-10-29",
+    "tag": "UK"
+  },
+  {
+    "title": "UK Keeps Buying Israeli Defence Systems Despite Political Friction",
+    "url": "https://euro-sd.com/2026/10/news/54452/uk-israeli-defence-systems/",
+    "source": "European Security & Defence",
+    "snippet": "Political tensions between London and Jerusalem have increased over the war in Gaza, but British procurement of Israeli defence systems … mehr... \nThe post UK Keeps Buying Israeli Defence Systems Desp",
+    "date": "2026-10-29",
+    "tag": "UK"
+  },
+  {
+    "title": "Finland and Varjo test virtual counter-drone training for soldiers",
+    "url": "https://defence-blog.com/finland-and-varjo-test-virtual-counter-drone-training-for-soldiers/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "The Finnish Defence Forces have teamed up with Helsinki-based headset maker Varjo to test and develop mixed reality training that prepares soldiers to spot and counter small attack drones, the militar",
+    "date": "2026-10-29",
+    "tag": "EU"
+  },
+  {
+    "title": "Germany and Netherlands raise Schakal order to 291 fighting vehicles",
+    "url": "https://defence-blog.com/germany-and-netherlands-raise-schakal-order-to-291-fighting-vehicles/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "Rheinmetall has booked an order worth a medium three-digit million-euro sum for its share of 69 more Schakal wheeled infantry fighting vehicles for Germany and the Netherlands, the company announced, ",
+    "date": "2026-10-29",
+    "tag": "EU"
+  },
+  {
+    "title": "Destinus’ monthly output tops Europe’s pre-war annual cruise missile production",
+    "url": "https://www.defensenews.com/global/europe/2026/10/29/destinus-monthly-output-tops-europes-pre-war-annual-cruise-missile-production/",
+    "source": "Global - Defense News",
+    "snippet": "Defence startup Destinus says it has built more than 1,750 Ruta cruise missiles in Europe and now produces more cruise missiles in a month than Europe did in a year before Russia's full-scale invasion",
+    "date": "2026-10-29",
+    "tag": "EU"
+  },
+  {
+    "title": "Switzerland shortlists SAMP/T, Barak MX for long-range air defense",
+    "url": "https://www.defensenews.com/global/europe/2026/10/29/switzerland-shortlists-samp-t-barak-mx-for-long-range-air-defense/",
+    "source": "Global - Defense News",
+    "snippet": "Switzerland narrowed down the choice of the country’s second future long-range air defense system to either Israel’s Barak MX system or the French-Italian SAMP/T NG.",
+    "date": "2026-10-29",
+    "tag": "EU"
+  },
+  {
     "title": "British stratospheric spy flight planned for next year",
     "url": "https://ukdefencejournal.org.uk/british-stratospheric-spy-flight-planned-for-next-year/",
     "source": "UK Defence Journal",
@@ -126,85 +198,5 @@
     "snippet": "The Defense Intelligence Agency’s third iteration of its unclassified report on space threats also includes a never-before released image of China’s",
     "date": "2026-10-27",
     "tag": "World"
-  },
-  {
-    "title": "Army drone deal widened to cover heavier aircraft",
-    "url": "https://ukdefencejournal.org.uk/army-drone-deal-widened-to-cover-heavier-aircraft/",
-    "source": "UK Defence Journal",
-    "snippet": "The Ministry of Defence intends to raise the maximum take-off weight allowed under the British Army's mini drone contract from twenty kilograms to fifty.\nThe post Army drone deal widened to cover heav",
-    "date": "2026-10-26",
-    "tag": "UK"
-  },
-  {
-    "title": "Type 31 frigate affordability under review as UK assesses rising costs",
-    "url": "https://navaltoday.com/2026/10/26/type-31-frigate-affordability-under-review-as-uk-assesses-rising-costs",
-    "source": "Naval Today",
-    "snippet": "The UK Ministry of Defense is assessing the impact of inflation on the Type 31 frigate program, with pressure on labor costs and the wider supply...",
-    "date": "2026-10-26",
-    "tag": "UK"
-  },
-  {
-    "title": "Helsing rolls out Contra air defense design, plus two new inteceptors",
-    "url": "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors/",
-    "source": "Breaking Defense",
-    "snippet": "The company claims the Contra system can track and engage “hundreds or thousands of drone and missile threats at the same time.”",
-    "date": "2026-10-26",
-    "tag": "EU"
-  },
-  {
-    "title": "Helsing unveils interceptor missiles designed to chase Russia’s fast-flying Geran drones",
-    "url": "https://www.defensenews.com/global/europe/2026/10/26/helsing-unveils-interceptor-missiles-designed-to-chase-russias-fast-flying-geran-drones/",
-    "source": "Defense News",
-    "snippet": "Germany’s Helsing is offering a novel pair of air-defense missiles, plus the requisite AI software to organize intercepts, for downing fast attack drones for under $100,000 per shot.",
-    "date": "2026-10-26",
-    "tag": "EU"
-  },
-  {
-    "title": "French firm launches mine-hunting underwater drone",
-    "url": "https://defence-blog.com/french-firm-launches-mine-hunting-underwater-drone/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "French underwater drone maker SEABER has launched RAVEN, a compact autonomous underwater vehicle for hunting naval mines and surveying the seabed that weighs 13 kg (29 pounds) and can be launched by a",
-    "date": "2026-10-26",
-    "tag": "EU"
-  },
-  {
-    "title": "Sweden selects four Saildrone USVs to monitor Baltic Sea",
-    "url": "https://navaltoday.com/2026/10/26/sweden-selects-four-saildrone-usvs-to-monitor-baltic-sea",
-    "source": "Naval Today",
-    "snippet": "Sweden has selected Saildrone to operate four unmanned surface vehicles (USVs) for a 360-day mission to monitor its territorial waters and...",
-    "date": "2026-10-26",
-    "tag": "EU"
-  },
-  {
-    "title": "90 Days No Help: Fortress America’s Goal To Make Bases Resilient Bastions In A Crisis",
-    "url": "https://www.twz.com/nuclear/90-days-no-help-fortress-americas-goal-to-make-bases-resilient-bastions-in-a-crisis",
-    "source": "TWZ",
-    "snippet": "Cyber threats against critical infrastructure are exploding, with worries enemies could neuter U.S. military units before they even leave their garrisons. \nThe post 90 Days No Help: Fortress America’s",
-    "date": "2026-10-26",
-    "tag": "World"
-  },
-  {
-    "title": "Unmanned systems take center stage at Turkish Ateş Serbest military demonstration",
-    "url": "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration/",
-    "source": "Breaking Defense",
-    "snippet": "The highlight of the exercise may have been the Turkish military showing off a new drone for the first time: Turkish Aerospace Industries’ Ayaz, a turbojet-powered one-way attack unmanned aerial vehic",
-    "date": "2026-10-26",
-    "tag": "World"
-  },
-  {
-    "title": "China’s H-6 bomber spotted with a new large jamming pod",
-    "url": "https://defence-blog.com/chinas-h-6-bomber-spotted-with-a-new-large-jamming-pod/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "A Chinese H-6KG bomber has been seen carrying what appears to be a new large electronic jamming pod that closely resembles the pods carried by the J-16D, the People’s Liberation Army Air Force’s dedic",
-    "date": "2026-10-26",
-    "tag": "World"
-  },
-  {
-    "title": "Simulated North Korean attack pierces South’s lines without nukes",
-    "url": "https://defence-blog.com/simulated-north-korean-attack-pierces-souths-lines-without-nukes/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "A computer simulation run by South Korean and U.S. forces during this summer’s Ulchi Freedom Shield exercise ended with North Korean troops breaking through allied defensive lines and advancing to the",
-    "date": "2026-10-26",
-    "tag": "Korea"
   }
 ]
