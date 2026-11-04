@@ -1,5 +1,93 @@
 [
   {
+    "title": "Babcock signs Thales and Kraken for drone warship framework",
+    "url": "https://ukdefencejournal.org.uk/babcock-signs-thales-and-kraken-for-drone-warship-framework/",
+    "source": "UK Defence Journal",
+    "snippet": "Thales, Kraken Technology Group, Hensoldt, Exail, SH Defence, CUBEDIN and Stormborn have joined Babcock’s ARMOR Force framework, with Babcock acting as integrator for navies buying crewed and uncrewed",
+    "date": "2026-11-04",
+    "tag": "UK"
+  },
+  {
+    "title": "Babcock launches digital platform to link warship construction and fleet support",
+    "url": "https://www.defensenews.com/global/europe/2026/11/04/babcock-launches-digital-platform-to-link-warship-construction-and-fleet-support/",
+    "source": "Defense News",
+    "snippet": "U.K-based Babcock International has launched Pelorus, a digital platform intended to connect warship construction, operations and maintenance data.",
+    "date": "2026-11-04",
+    "tag": "UK"
+  },
+  {
+    "title": "Bull and Schwarz Digits: a Franco-German alliance for Europe’s digital sovereignty",
+    "url": "https://euro-sd.com/2026/11/news/cyber-coms/54538/bull-schwarz-digits/",
+    "source": "European Security & Defence",
+    "snippet": "Paris, France and Berlin, Germany – 3 November 2026 –  Bull, a leader in advanced computing and AI, and Schwarz … mehr... \nThe post Bull and Schwarz Digits: a Franco-German alliance for Europe’s digit",
+    "date": "2026-11-04",
+    "tag": "EU"
+  },
+  {
+    "title": "John Cockerill and Renault Group unveil Forefront Concept",
+    "url": "https://euro-sd.com/2026/11/news/land/54533/john-cockerill-renault-group-forefront-concept/",
+    "source": "European Security & Defence",
+    "snippet": "Forefront Concept combines Renault Group’s expertise in designing mobile platforms and industrialising them at scale, with John Cockerill’s operational expertise … mehr... \nThe post John Cockerill and",
+    "date": "2026-11-04",
+    "tag": "EU"
+  },
+  {
+    "title": "France tasks Naval Group to develop large oceangoing underwater drone",
+    "url": "https://www.defensenews.com/global/europe/2026/11/04/france-tasks-naval-group-to-develop-large-oceangoing-underwater-drone/",
+    "source": "Defense News",
+    "snippet": "France signed a contract with shipbuilder Naval Group to develop an operational demonstrator of a large-sized oceangoing underwater drone, with sea trials to start in 2028.",
+    "date": "2026-11-04",
+    "tag": "EU"
+  },
+  {
+    "title": "Saildrone expands its European market reach with manufacturing partner in Norway",
+    "url": "https://www.defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway/",
+    "source": "Defense News",
+    "snippet": "CEO Tom Fidjeland told reporters at the Euronaval trade show here that taking on the work of churning out Surveyors was “technically not difficult,” with a first mold already being readied.",
+    "date": "2026-11-04",
+    "tag": "EU"
+  },
+  {
+    "title": "ROK Navy launches second Batch-II KSS-III submarine",
+    "url": "https://navaltoday.com/2026/11/04/rok-navy-launches-second-batch-ii-kss-iii-submarine",
+    "source": "Naval Today",
+    "snippet": "The Republic of Korea Navy (ROKN) has held a launch ceremony for the second Batch-II KSS-III diesel-electric submarine. The launching ceremony...",
+    "date": "2026-11-04",
+    "tag": "Korea"
+  },
+  {
+    "title": "Israel Weapons Industry expands into Southeast Asia with Thailand’s deployment of counter-drone system",
+    "url": "https://breakingdefense.com/2026/11/israel-weapons-industry-expands-into-southeast-asia-with-thailands-deployment-of-counter-drone-system/",
+    "source": "Breaking Defense",
+    "snippet": "“We are seeing strong demand for our platforms and systems across the region,” the company said in response to questions about its growth strategy for southern Asia.”",
+    "date": "2026-11-04",
+    "tag": "World"
+  },
+  {
+    "title": "Baykar turns its Bayraktar TB2 into a carrier for FPV drones",
+    "url": "https://defence-blog.com/baykar-turns-its-bayraktar-tb2-into-a-carrier-for-fpv-drones/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "Turkish drone maker Baykar has turned its Bayraktar TB2 combat drone into a flying carrier for small FPV attack drones, firing two of them at ground targets in a test released on Nov. 4. The TB2 carri",
+    "date": "2026-11-04",
+    "tag": "World"
+  },
+  {
+    "title": "Norway deploys NASAMS to Russian border to spot stray drones",
+    "url": "https://defence-blog.com/norway-deploys-nasams-to-russian-border-to-spot-stray-drones/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "Norway’s air force has deployed NASAMS air defense sensors to Kirkenes, near the Russian border, to detect drones that drift off course into Norwegian airspace, the Norwegian Ministry of Defense said ",
+    "date": "2026-11-04",
+    "tag": "World"
+  },
+  {
+    "title": "This Is Naval Group’s Concept For A Stealthy, Drone-Armed Future Destroyer",
+    "url": "https://www.twz.com/sea/this-is-naval-groups-concept-for-a-stealthy-drone-armed-future-destroyer",
+    "source": "TWZ",
+    "snippet": "The SCX26 concept pairs a stealthy, split-superstructure design with advanced weapons and extensive facilities for uncrewed systems.\nThe post This Is Naval Group’s Concept For A Stealthy, Drone-Armed ",
+    "date": "2026-11-03",
+    "tag": "World"
+  },
+  {
     "title": "Sweden’s Saab launches family of AI agents for future aircraft projects",
     "url": "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects/",
     "source": "Breaking Defense",
@@ -78,13 +166,5 @@
     "snippet": "Ukraine has carried out the world's first medical evacuations by heavy uncrewed aircraft, lifting wounded soldiers out of positions that could not be reached from the ground.\nThe post Ukraine flies th",
     "date": "2026-11-01",
     "tag": "World"
-  },
-  {
-    "title": "Weather data that holds up when GPS doesn’t",
-    "url": "https://euro-sd.com/2026/11/sponsored-content/54372/weather-data/",
-    "source": "European Security & Defence",
-    "snippet": "Why artillery accuracy depends on upper-air weather data, and how to secure it in contested environments\nWeather awareness is not … mehr... \nThe post Weather data that holds up when GPS doesn’t appear",
-    "date": "2026-10-31",
-    "tag": "EU"
   }
 ]
