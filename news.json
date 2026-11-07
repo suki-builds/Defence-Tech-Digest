@@ -1,5 +1,53 @@
 [
   {
+    "title": "UK military satellite Titania launches into orbit following £3bn space investment into defence of space",
+    "url": "https://www.gov.uk/government/news/uk-military-satellite-titania-launches-into-orbit-following-3bn-space-investment-into-defence-of-space",
+    "source": "Ministry of Defence - Activity on GOV.UK",
+    "snippet": "UK launches Titania into orbit, giving the Armed Forces improved observation from space, along with new trial network of ground sensors to monitor threats to UK satellites.",
+    "date": "2026-11-07",
+    "tag": "UK"
+  },
+  {
+    "title": "Britain launches Titania military satellite",
+    "url": "https://defence-blog.com/britain-launches-titania-military-satellite/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "The United Kingdom has put a second military satellite into orbit. Titania, a small British-built spacecraft, launched last month and will be operated by UK Space Command, the Ministry of Defence said",
+    "date": "2026-11-07",
+    "tag": "UK"
+  },
+  {
+    "title": "US shipbuilder gave input on SSN-AUKUS, but UK holds design",
+    "url": "https://ukdefencejournal.org.uk/us-shipbuilder-gave-input-on-ssn-aukus-but-uk-holds-design/",
+    "source": "UK Defence Journal",
+    "snippet": "Huntington Ingalls Industries’ Newport News Shipbuilding has given advice and technical input on inserting US technology into the SSN-AUKUS design, while design authority remains with the UK.\nThe post",
+    "date": "2026-11-07",
+    "tag": "UK"
+  },
+  {
+    "title": "Hacked blood banks, breached supermarket fridges and plane bomb hoaxes: What’s going on in Europe?",
+    "url": "https://www.independent.co.uk/news/world/europe/uk-europe-cyber-attacks-b3079159.html",
+    "source": "The Independent World",
+    "snippet": "After a week in which several European sectors were thrown into disarray, how concerned should the continent be of hybrid warfare by hostile adversaries? Alex Croft reports",
+    "date": "2026-11-07",
+    "tag": "EU"
+  },
+  {
+    "title": "Europe’s airpower future is taking shape, but not as originally planned",
+    "url": "https://breakingdefense.com/2026/11/europes-airpower-future-is-taking-shape-but-not-as-originally-planned/",
+    "source": "Breaking Defense",
+    "snippet": "Germany’s next move, the fate of GCAP, and the rise of CCAs reshape Europe’s combat aircraft strategy.",
+    "date": "2026-11-06",
+    "tag": "EU"
+  },
+  {
+    "title": "Denmark to buy naval mines from Finnish company",
+    "url": "https://www.navaltoday.com/2026/11/06/denmark-to-buy-naval-mines-from-finnish-company",
+    "source": "Naval Today",
+    "snippet": "The Danish Ministry of Defence Acquisition and Logistics Organisation (FMI) has signed an agreement to procure the BLOCKER naval mine system from...",
+    "date": "2026-11-06",
+    "tag": "EU"
+  },
+  {
     "title": "Patria and the Finnish Defence Forces demonstrate autonomous systems operating at sea and in the air",
     "url": "https://euro-sd.com/2026/11/news/cyber-coms/54594/patria-autonomous/",
     "source": "European Security & Defence",
@@ -182,45 +230,5 @@
     "snippet": "Norway’s air force has deployed NASAMS air defense sensors to Kirkenes, near the Russian border, to detect drones that drift off course into Norwegian airspace, the Norwegian Ministry of Defense said ",
     "date": "2026-11-04",
     "tag": "World"
-  },
-  {
-    "title": "This Is Naval Group’s Concept For A Stealthy, Drone-Armed Future Destroyer",
-    "url": "https://www.twz.com/sea/this-is-naval-groups-concept-for-a-stealthy-drone-armed-future-destroyer",
-    "source": "TWZ",
-    "snippet": "The SCX26 concept pairs a stealthy, split-superstructure design with advanced weapons and extensive facilities for uncrewed systems.\nThe post This Is Naval Group’s Concept For A Stealthy, Drone-Armed ",
-    "date": "2026-11-03",
-    "tag": "World"
-  },
-  {
-    "title": "Sweden’s Saab launches family of AI agents for future aircraft projects",
-    "url": "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects/",
-    "source": "Breaking Defense",
-    "snippet": "Key to the autonomous project is Saab’s AI Fighter Jet Pilot Academy, designed to develop the agents and, in parallel, establish infrastructure necessary to “create, train and evaluate” them, says the",
-    "date": "2026-11-03",
-    "tag": "EU"
-  },
-  {
-    "title": "Humanity’s Promethean Gap with AI",
-    "url": "https://warontherocks.com/humanitys-promethean-gap-with-ai/",
-    "source": "War on the Rocks",
-    "snippet": "Frontier AI systems are beginning to test the limits of human oversight, while the companies developing them retain considerable power to define the risks and the terms of their scrutiny. In security ",
-    "date": "2026-11-03",
-    "tag": "World"
-  },
-  {
-    "title": "Babcock enters main construction on Devonport submarine dock",
-    "url": "https://ukdefencejournal.org.uk/babcock-enters-main-construction-on-devonport-submarine-dock/",
-    "source": "UK Defence Journal",
-    "snippet": "Babcock has awarded KierBAM a contract worth about £600 million to deliver the water-retaining boundary and associated infrastructure of 10 Dock at Devonport.\nThe post Babcock enters main construction",
-    "date": "2026-11-03",
-    "tag": "UK"
-  },
-  {
-    "title": "North Korea slams FBI claims it was behind €5bn Binance hack and test fires missiles",
-    "url": "https://www.euronews.com/2026/11/03/north-korea-slams-fbi-claims-it-was-behind-5bn-binance-hack-and-test-fires-missiles",
-    "source": "News | Euronews RSS",
-    "snippet": "A 2024 United Nations report said proceeds from North Korean cyberattacks had \"reportedly helped to fund the country's development of weapons of mass destruction\".",
-    "date": "2026-11-03",
-    "tag": "Korea"
   }
 ]
