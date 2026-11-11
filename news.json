@@ -1,5 +1,77 @@
 [
   {
+    "title": "European firms test cheaper drone alternative to AWACS radar planes",
+    "url": "https://defence-blog.com/european-firms-test-cheaper-drone-alternative-to-awacs-radar-planes/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "Bulgarian drone maker Dronamics and German sensor company HENSOLDT have flown an airborne early warning and surveillance system on an unmanned aircraft for the first time, the companies said on Novemb",
+    "date": "2026-11-11",
+    "tag": "EU"
+  },
+  {
+    "title": "Royal Navy gets £90M funding injection for drones, sensors and AI",
+    "url": "https://www.navaltoday.com/2026/11/10/royal-navy-gets-pound90m-funding-injection-for-drones-sensors-and-ai",
+    "source": "Naval Today",
+    "snippet": "The UK government is investing £90 million in new drones, underwater sensors and artificial intelligence (AI) systems for the Royal Navy to...",
+    "date": "2026-11-10",
+    "tag": "UK"
+  },
+  {
+    "title": "Britain to trial Talon drone from aircraft carrier",
+    "url": "https://ukdefencejournal.org.uk/britain-to-trial-talon-drone-from-aircraft-carrier/",
+    "source": "UK Defence Journal",
+    "snippet": "Britain's First Sea Lord has said he will sign an agreement with Northrop Grumman to prepare its Talon drone for Royal Navy trials.\nThe post Britain to trial Talon drone from aircraft carrier first ap",
+    "date": "2026-11-10",
+    "tag": "UK"
+  },
+  {
+    "title": "Royal Navy in biggest rebuild since Second World War",
+    "url": "https://ukdefencejournal.org.uk/royal-navy-in-biggest-rebuild-since-second-world-war/",
+    "source": "UK Defence Journal",
+    "snippet": "The Royal Navy's existing shipbuilding programme amounts to 280,000 tonnes of new steel and 450,000 tonnes when planned programmes are included, the First Sea Lord has said.\nThe post Royal Navy in big",
+    "date": "2026-11-10",
+    "tag": "UK"
+  },
+  {
+    "title": "UK calls for allied navies to become interchangeable, not just interoperable",
+    "url": "https://www.navaltoday.com/2026/11/10/uk-calls-for-allied-navies-to-become-interchangeable-not-just-interoperable",
+    "source": "Naval Today",
+    "snippet": "UK Minister for Defence Readiness and Industry Luke Pollard has called for allied navies to move beyond interoperability towards...",
+    "date": "2026-11-10",
+    "tag": "UK"
+  },
+  {
+    "title": "Allen Control Systems launches new division to develop counter-drone lasers",
+    "url": "https://breakingdefense.com/2026/11/allen-control-systems-launches-new-division-to-develop-counter-drone-lasers/",
+    "source": "Breaking Defense",
+    "snippet": "The announcement comes amid the Pentagon’s growing interest in laser weapons, which use concentrated beams of energy to heat and destroy targets.",
+    "date": "2026-11-10",
+    "tag": "World"
+  },
+  {
+    "title": "Army Wants New Palletized Short-Range Air Defenses In Service By The End Of 2029",
+    "url": "https://www.twz.com/land/army-wants-new-palletized-short-range-air-defenses-in-service-by-the-end-of-2029",
+    "source": "TWZ",
+    "snippet": "Army sees new short-range air defense 'sleds' providing critical new flexibility and capacity, especially against drone swarms.\nThe post Army Wants New Palletized Short-Range Air Defenses In Service B",
+    "date": "2026-11-10",
+    "tag": "World"
+  },
+  {
+    "title": "China Lifts The Veil On Its GJ-11 Mysterious Dragon Stealth UCAV",
+    "url": "https://www.twz.com/air/china-lifts-the-veil-on-the-gj-11-mysterious-dragon-stealth-ucav",
+    "source": "TWZ",
+    "snippet": "Beijing openly showcases the GJ-11 flying-wing combat drone and its strike and manned-unmanned teaming capabilities.\nThe post China Lifts The Veil On Its GJ-11 Mysterious Dragon Stealth UCAV appeared ",
+    "date": "2026-11-10",
+    "tag": "World"
+  },
+  {
+    "title": "To Implement Acquisition Transformation, Empower Military Mavericks",
+    "url": "https://warontherocks.com/cogs-of-war/to-implement-acquisition-transformation-empower-military-mavericks/",
+    "source": "War on the Rocks",
+    "snippet": "“I wanted disciplined but not regimented thinking. Commanders must encourage intellectual risk-taking to preclude a lethargic environment. Leaders must shelter those challenging nonconformists and mav",
+    "date": "2026-11-10",
+    "tag": "World"
+  },
+  {
     "title": "BAE Systems Strike Drones Mark Major Milestone on HMS Queen Elizabeth",
     "url": "https://euro-sd.com/2026/11/news/54611/bae-systems-strike-drones/",
     "source": "European Security & Defence",
@@ -109,78 +181,6 @@
     "source": "The Defence Blog – Military and Defense News",
     "snippet": "Hypersonica, a British-German defense company developing hypersonic strike missiles, has raised €100 million ($111.5 million) in a Series B funding round, UK Defence Journal reported. The money will g",
     "date": "2026-11-08",
-    "tag": "UK"
-  },
-  {
-    "title": "UK military satellite Titania launches into orbit following £3bn space investment into defence of space",
-    "url": "https://www.gov.uk/government/news/uk-military-satellite-titania-launches-into-orbit-following-3bn-space-investment-into-defence-of-space",
-    "source": "Ministry of Defence - Activity on GOV.UK",
-    "snippet": "UK launches Titania into orbit, giving the Armed Forces improved observation from space, along with new trial network of ground sensors to monitor threats to UK satellites.",
-    "date": "2026-11-07",
-    "tag": "UK"
-  },
-  {
-    "title": "Britain launches Titania military satellite",
-    "url": "https://defence-blog.com/britain-launches-titania-military-satellite/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "The United Kingdom has put a second military satellite into orbit. Titania, a small British-built spacecraft, launched last month and will be operated by UK Space Command, the Ministry of Defence said",
-    "date": "2026-11-07",
-    "tag": "UK"
-  },
-  {
-    "title": "US shipbuilder gave input on SSN-AUKUS, but UK holds design",
-    "url": "https://ukdefencejournal.org.uk/us-shipbuilder-gave-input-on-ssn-aukus-but-uk-holds-design/",
-    "source": "UK Defence Journal",
-    "snippet": "Huntington Ingalls Industries’ Newport News Shipbuilding has given advice and technical input on inserting US technology into the SSN-AUKUS design, while design authority remains with the UK.\nThe post",
-    "date": "2026-11-07",
-    "tag": "UK"
-  },
-  {
-    "title": "Hacked blood banks, breached supermarket fridges and plane bomb hoaxes: What’s going on in Europe?",
-    "url": "https://www.independent.co.uk/news/world/europe/uk-europe-cyber-attacks-b3079159.html",
-    "source": "The Independent World",
-    "snippet": "After a week in which several European sectors were thrown into disarray, how concerned should the continent be of hybrid warfare by hostile adversaries? Alex Croft reports",
-    "date": "2026-11-07",
-    "tag": "EU"
-  },
-  {
-    "title": "Europe’s airpower future is taking shape, but not as originally planned",
-    "url": "https://breakingdefense.com/2026/11/europes-airpower-future-is-taking-shape-but-not-as-originally-planned/",
-    "source": "Breaking Defense",
-    "snippet": "Germany’s next move, the fate of GCAP, and the rise of CCAs reshape Europe’s combat aircraft strategy.",
-    "date": "2026-11-06",
-    "tag": "EU"
-  },
-  {
-    "title": "Denmark to buy naval mines from Finnish company",
-    "url": "https://www.navaltoday.com/2026/11/06/denmark-to-buy-naval-mines-from-finnish-company",
-    "source": "Naval Today",
-    "snippet": "The Danish Ministry of Defence Acquisition and Logistics Organisation (FMI) has signed an agreement to procure the BLOCKER naval mine system from...",
-    "date": "2026-11-06",
-    "tag": "EU"
-  },
-  {
-    "title": "Patria and the Finnish Defence Forces demonstrate autonomous systems operating at sea and in the air",
-    "url": "https://euro-sd.com/2026/11/news/cyber-coms/54594/patria-autonomous/",
-    "source": "European Security & Defence",
-    "snippet": "The Finnish Defence Forces demonstrated its autonomous systems developed by Patria at an event organised by the Finnish Navy in … mehr... \nThe post Patria and the Finnish Defence Forces demonstrate au",
-    "date": "2026-11-06",
-    "tag": "EU"
-  },
-  {
-    "title": "Barak 8 Gains Prominence in Europe",
-    "url": "https://euro-sd.com/2026/11/news/air/54587/barak-8-gains-prominence-in-europe/",
-    "source": "European Security & Defence",
-    "snippet": "The shortage of Patriot interceptor missiles and the growing need for a layered air and missile defence system are drawing … mehr... \nThe post Barak 8 Gains Prominence in Europe appeared first on Euro",
-    "date": "2026-11-06",
-    "tag": "EU"
-  },
-  {
-    "title": "F-35 agreement assures UK access to US support, Pollard says",
-    "url": "https://ukdefencejournal.org.uk/f-35-agreement-assures-uk-access-to-us-support-pollard-says/",
-    "source": "UK Defence Journal",
-    "snippet": "A Memorandum of Understanding assures all F-35 participants access to the US-managed support system defence minister Luke Pollard told MPs.\nThe post F-35 agreement assures UK access to US support, Pol",
-    "date": "2026-11-06",
     "tag": "UK"
   }
 ]
