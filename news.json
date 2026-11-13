@@ -1,10 +1,18 @@
 [
   {
-    "title": "Hybrid Navy could make Britain an autonomy export leader",
-    "url": "https://ukdefencejournal.org.uk/hybrid-navy-could-make-britain-an-autonomy-export-leader/",
+    "title": "UK to buy three mine-hunting motherships",
+    "url": "https://www.navaltoday.com/2026/11/13/uk-to-buy-three-mine-hunting-motherships",
+    "source": "Naval Today",
+    "snippet": "The UK has decided to buy three new ships, which will act as motherships for uncrewed mine-hunting systems to boost UK security by making the...",
+    "date": "2026-11-13",
+    "tag": "UK"
+  },
+  {
+    "title": "Type 26 frigate work weighs on BAE maritime margins",
+    "url": "https://ukdefencejournal.org.uk/type-26-frigate-work-weighs-on-bae-maritime-margins/",
     "source": "UK Defence Journal",
-    "snippet": "General Sir Gwyn Jenkins, the First Sea Lord, has said the Hybrid Navy can give Britain an industrial lead in one of the biggest global markets of the coming decades.\nThe post Hybrid Navy could make B",
-    "date": "2026-11-12",
+    "snippet": "BAE says growth and margins in its maritime business remain subdued as the Type 26 frigate programme works through its first-in-class stage.\nThe post Type 26 frigate work weighs on BAE maritime margin",
+    "date": "2026-11-13",
     "tag": "UK"
   },
   {
@@ -12,14 +20,6 @@
     "url": "https://www.gov.uk/government/news/ukraines-drone-pioneers-bring-battle-tested-tech-and-high-skilled-jobs-to-britain",
     "source": "Ministry of Defence - Activity on GOV.UK",
     "snippet": "High-skilled jobs are coming to Britain as Ukrainian drone pioneers UFORCE expand their UK operations, bringing battle-tested technology developed on the frontline to the UK.",
-    "date": "2026-11-12",
-    "tag": "UK"
-  },
-  {
-    "title": "UK company tests its unmanned supply vehicle in Switzerland",
-    "url": "https://defence-blog.com/uk-company-tests-its-unmanned-supply-vehicle-in-switzerland/",
-    "source": "The Defence Blog – Military and Defense News",
-    "snippet": "A new unmanned ground vehicle from North Defence Group, built to haul up to 1,500 kg (3,300 pounds) of supplies for frontline troops, has been put to work at a European military exercise in Switzerlan",
     "date": "2026-11-12",
     "tag": "UK"
   },
@@ -32,20 +32,44 @@
     "tag": "UK"
   },
   {
-    "title": "Atlantic Future Forum ends in Oslo with pacts and deals",
-    "url": "https://ukdefencejournal.org.uk/atlantic-future-forum-ends-in-oslo-with-pacts-and-deals/",
-    "source": "UK Defence Journal",
-    "snippet": "A northern navies pact, Norwegian motherships for the Royal Navy, new drone deals and stark warnings on Russia: how the Atlantic Future Forum in Oslo delivered. #AFF26\nThe post Atlantic Future Forum e",
-    "date": "2026-11-12",
-    "tag": "UK"
-  },
-  {
     "title": "WB GROUP Expands into Germany",
     "url": "https://euro-sd.com/2026/11/news/land/54683/wb-group-germany/",
     "source": "European Security & Defence",
     "snippet": "The Polish WB Group, a developer and manufacturer of, among other things, unmanned multi-domain systems, unveiled its new subsidiary, WB … mehr... \nThe post WB GROUP Expands into Germany appeared firs",
     "date": "2026-11-12",
     "tag": "EU"
+  },
+  {
+    "title": "Drone and Counter-Drone Capabilities for U.S. Forces",
+    "url": "https://euro-sd.com/2026/11/news/land/54678/counter-drone-ordnanc-arquimea/",
+    "source": "European Security & Defence",
+    "snippet": "Global Ordnance Holdings and ARQUIMEA USA have signed a teaming agreement to expand the drone and counter-drone systems available to … mehr... \nThe post Drone and Counter-Drone Capabilities for U.S. F",
+    "date": "2026-11-12",
+    "tag": "World"
+  },
+  {
+    "title": "Hybrid Navy could make Britain an autonomy export leader",
+    "url": "https://ukdefencejournal.org.uk/hybrid-navy-could-make-britain-an-autonomy-export-leader/",
+    "source": "UK Defence Journal",
+    "snippet": "General Sir Gwyn Jenkins, the First Sea Lord, has said the Hybrid Navy can give Britain an industrial lead in one of the biggest global markets of the coming decades.\nThe post Hybrid Navy could make B",
+    "date": "2026-11-12",
+    "tag": "UK"
+  },
+  {
+    "title": "UK company tests its unmanned supply vehicle in Switzerland",
+    "url": "https://defence-blog.com/uk-company-tests-its-unmanned-supply-vehicle-in-switzerland/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "A new unmanned ground vehicle from North Defence Group, built to haul up to 1,500 kg (3,300 pounds) of supplies for frontline troops, has been put to work at a European military exercise in Switzerlan",
+    "date": "2026-11-12",
+    "tag": "UK"
+  },
+  {
+    "title": "Atlantic Future Forum ends in Oslo with pacts and deals",
+    "url": "https://ukdefencejournal.org.uk/atlantic-future-forum-ends-in-oslo-with-pacts-and-deals/",
+    "source": "UK Defence Journal",
+    "snippet": "A northern navies pact, Norwegian motherships for the Royal Navy, new drone deals and stark warnings on Russia: how the Atlantic Future Forum in Oslo delivered. #AFF26\nThe post Atlantic Future Forum e",
+    "date": "2026-11-12",
+    "tag": "UK"
   },
   {
     "title": "Italian LIVET turret with eight shotguns demonstrated in Denmark",
