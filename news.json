@@ -1,11 +1,51 @@
 [
   {
-    "title": "Saab receives radar contract from Royal Navy",
-    "url": "https://www.navaltoday.com/2026/11/16/saab-receives-radar-contract-from-royal-navy",
-    "source": "Naval Today",
-    "snippet": "The Royal Navy has awarded Saab a £15 million contract for the Sea Giraffe 1X radar system. The contract will see the Royal Navy buy several of...",
+    "title": "King opens new National Cyber Force HQ boosting North West growth",
+    "url": "https://www.gov.uk/government/news/king-opens-new-national-cyber-force-hq-boosting-north-west-growth",
+    "source": "Ministry of Defence - Activity on GOV.UK",
+    "snippet": "His Majesty King Charles III has officially opened Ribble House, the National Cyber Force’s (NCF) new headquarters in Samlesbury, Lancashire.",
     "date": "2026-11-16",
     "tag": "UK"
+  },
+  {
+    "title": "Russia needn’t hide grey zone attacks, says Airbus UK chief",
+    "url": "https://ukdefencejournal.org.uk/russia-neednt-hide-grey-zone-attacks-says-airbus-uk-chief/",
+    "source": "UK Defence Journal",
+    "snippet": "Hostile states don’t need to hide grey zone attacks because they aim to exploit our hesitancy, says Airbus UK boss Kata Escott, urging allies to fuse and share data faster.\nThe post Russia needn’t hid",
+    "date": "2026-11-16",
+    "tag": "UK"
+  },
+  {
+    "title": "Fife innovation campus funding still awaits business case",
+    "url": "https://ukdefencejournal.org.uk/fife-innovation-campus-funding-still-awaits-business-case/",
+    "source": "UK Defence Journal",
+    "snippet": "The £5m earmarked for the Arrol Gibb Innovation Campus in Fife under the Scotland Defence Growth Deal remains subject to the usual Ministry of Defence business case approvals.\nThe post Fife innovation",
+    "date": "2026-11-16",
+    "tag": "UK"
+  },
+  {
+    "title": "Streeting calls for military backchannel with Russia",
+    "url": "https://ukdefencejournal.org.uk/streeting-calls-for-military-backchannel-with-russia/",
+    "source": "UK Defence Journal",
+    "snippet": "Defence Secretary Wes Streeting wants new military lines of communication with Russia to avoid miscalculation, and calls its hybrid attacks state-sponsored terrorism.\nThe post Streeting calls for mili",
+    "date": "2026-11-16",
+    "tag": "UK"
+  },
+  {
+    "title": "Italy backs rapid German membership path into GCAP fighter program",
+    "url": "https://www.defensenews.com/global/europe/2026/11/16/italy-backs-rapid-german-membership-path-into-gcap-fighter-program/",
+    "source": "Defense News",
+    "snippet": "Italy has strongly denied a press report suggesting it opposes granting Germany partner status on the GCAP fighter program, claiming instead it fully backs German membership.",
+    "date": "2026-11-16",
+    "tag": "EU"
+  },
+  {
+    "title": "Germany’s participation in GCAP fighter still ‘very much open’",
+    "url": "https://www.rapporteur.com/news/germanys-participation-in-gcap-fighter-still-very-much-open/",
+    "source": "Rapporteur - Feeds",
+    "snippet": "Reports suggested Italy had opposed Germany's potential bid to join the programme",
+    "date": "2026-11-16",
+    "tag": "EU"
   },
   {
     "title": "Estonian drone company targeted in sabotage attempt as part of ‘Russia’s hybrid war against Europe’: Prime Minister Michal",
@@ -13,7 +53,55 @@
     "source": "Breaking Defense",
     "snippet": "Estonian Prime Minister Kristen Michal said in a statement on X that the attack was “GRU-ordered,” an abbreviation for the Russian military intelligence agency.",
     "date": "2026-11-16",
-    "tag": "EU"
+    "tag": "World"
+  },
+  {
+    "title": "Estonia to close border with Russia after arson attack on local drone maker",
+    "url": "https://www.defensenews.com/global/europe/2026/11/16/estonia-to-close-border-with-russia-after-arson-attack-on-local-drone-maker/",
+    "source": "Global - Defense News",
+    "snippet": "Estonia plans to close its road border crossings with Russia in response to an attempted arson attack against Estonian defense company Threod Systems.",
+    "date": "2026-11-16",
+    "tag": "World"
+  },
+  {
+    "title": "Iran claims capture of US MQM-170 drone near Strait of Hormuz",
+    "url": "https://www.navaltoday.com/2026/11/16/iran-claims-capture-of-us-mqm-170-drone-near-strait-of-hormuz",
+    "source": "Naval Today",
+    "snippet": "Iran's Islamic Revolutionary Guard Corps (IRGC) Navy claims to have taken control of a US MQM-170 drone through an electronic warfare operation...",
+    "date": "2026-11-16",
+    "tag": "World"
+  },
+  {
+    "title": "Shield to provide additional V-BATs for Hellenic Navy",
+    "url": "https://www.navaltoday.com/2026/11/16/shield-to-provide-additional-v-bats-for-hellenic-navy",
+    "source": "Naval Today",
+    "snippet": "The NATO Support and Procurement Agency (NSPA) has ordered additional Shield V-BAT vertical takeoff and landing (VTOL) uncrewed aerial vehicles...",
+    "date": "2026-11-16",
+    "tag": "World"
+  },
+  {
+    "title": "China upgrades its VT-4 export tank with a drone-killing gun",
+    "url": "https://defence-blog.com/china-upgrades-its-vt-4-export-tank-with-a-drone-killing-gun/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "A new version of China’s VT-4 export tank has been spotted with a 30 mm remote-controlled cannon and a small radar on its roof, apparently built to shoot down drones, ahead of its expected debut at th",
+    "date": "2026-11-16",
+    "tag": "World"
+  },
+  {
+    "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
+    "url": "https://www.defensenews.com/video/2026/11/16/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
+    "source": "Defense News",
+    "snippet": "The visceral threat of cheap drones delivering pinpoint, guided anti-personnel munitions continues to spawn new protection systems. Plus, an interview with a Medal of Honor recipient.",
+    "date": "2026-11-16",
+    "tag": "World"
+  },
+  {
+    "title": "Saab receives radar contract from Royal Navy",
+    "url": "https://www.navaltoday.com/2026/11/16/saab-receives-radar-contract-from-royal-navy",
+    "source": "Naval Today",
+    "snippet": "The Royal Navy has awarded Saab a £15 million contract for the Sea Giraffe 1X radar system. The contract will see the Royal Navy buy several of...",
+    "date": "2026-11-16",
+    "tag": "UK"
   },
   {
     "title": "Germany’s Trophy-equipped Leopard 2A7A1 gets a homemade drone cage",
