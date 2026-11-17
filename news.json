@@ -1,11 +1,35 @@
 [
   {
+    "title": "NATO using OpenAI models to defend allied networks",
+    "url": "https://ukdefencejournal.org.uk/nato-using-openai-models-to-defend-allied-networks/",
+    "source": "UK Defence Journal",
+    "snippet": "NATO's communications agency has used up to 300 billion tokens a month of OpenAI's cyber defence models, as its chief calls AI a \"generational leap\" in cyber security. #NATOEdge\nThe post NATO using Op",
+    "date": "2026-11-17",
+    "tag": "UK"
+  },
+  {
+    "title": "Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine",
+    "url": "https://warontherocks.com/cogs-of-war/spending-isnt-deterrence-fixing-germanys-procurement-machine/",
+    "source": "War on the Rocks",
+    "snippet": "In 2026, Germany is spending a record €125 billion on defense, second only to the United States among NATO allies, and its core defense budget is set to reach €170 billion by 2029. Its military strate",
+    "date": "2026-11-17",
+    "tag": "EU"
+  },
+  {
     "title": "King opens new National Cyber Force HQ boosting North West growth",
     "url": "https://www.gov.uk/government/news/king-opens-new-national-cyber-force-hq-boosting-north-west-growth",
     "source": "Ministry of Defence - Activity on GOV.UK",
     "snippet": "His Majesty King Charles III has officially opened Ribble House, the National Cyber Force’s (NCF) new headquarters in Samlesbury, Lancashire.",
     "date": "2026-11-16",
     "tag": "UK"
+  },
+  {
+    "title": "World Record: ASELSAN’s EJDERHA HPEM System Neutralizes 51 Drones Simultaneously",
+    "url": "https://euro-sd.com/2026/11/news/exclusive-news/54700/aselsan-ejderha-hpem/",
+    "source": "European Security & Defence",
+    "snippet": "Marking its 51st anniversary, ASELSAN demonstrates the power of directed-energy technology by neutralising 51 drones within seconds. \nASELSAN has successfully … mehr... \nThe post World Record: ASELSAN",
+    "date": "2026-11-16",
+    "tag": "World"
   },
   {
     "title": "Russia needn’t hide grey zone attacks, says Airbus UK chief",
@@ -133,30 +157,6 @@
     "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
     "snippet": "Selon le président ukrainien, la Russie avait utilisé « plus de 2 300 drones d’attaque, 1 590 bombes aériennes et 15 missiles de différents types » au cours de la semaine passée. « De nombreuses de ce",
     "date": "2026-11-15",
-    "tag": "EU"
-  },
-  {
-    "title": "UK to buy three mine-hunting motherships",
-    "url": "https://www.navaltoday.com/2026/11/13/uk-to-buy-three-mine-hunting-motherships",
-    "source": "Naval Today",
-    "snippet": "The UK has decided to buy three new ships, which will act as motherships for uncrewed mine-hunting systems to boost UK security by making the...",
-    "date": "2026-11-13",
-    "tag": "UK"
-  },
-  {
-    "title": "Type 26 frigate work weighs on BAE maritime margins",
-    "url": "https://ukdefencejournal.org.uk/type-26-frigate-work-weighs-on-bae-maritime-margins/",
-    "source": "UK Defence Journal",
-    "snippet": "BAE says growth and margins in its maritime business remain subdued as the Type 26 frigate programme works through its first-in-class stage.\nThe post Type 26 frigate work weighs on BAE maritime margin",
-    "date": "2026-11-13",
-    "tag": "UK"
-  },
-  {
-    "title": "Microsoft outage renews calls for European tech sovereignty",
-    "url": "https://www.rapporteur.com/news/microsoft-outage-renews-calls-for-european-tech-sovereignty/",
-    "source": "Rapporteur - Feeds",
-    "snippet": "Service disruption shows vulnerability of overreliance, warn cloud sovereignty lawmakers",
-    "date": "2026-11-13",
     "tag": "EU"
   }
 ]
