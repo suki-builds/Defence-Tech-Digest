@@ -1,11 +1,19 @@
 [
   {
-    "title": "NATO using OpenAI models to defend allied networks",
-    "url": "https://ukdefencejournal.org.uk/nato-using-openai-models-to-defend-allied-networks/",
+    "title": "Vandier tells defence firms cooperation is now mandatory",
+    "url": "https://ukdefencejournal.org.uk/vandier-tells-defence-firms-cooperation-is-now-mandatory/",
     "source": "UK Defence Journal",
-    "snippet": "NATO's communications agency has used up to 300 billion tokens a month of OpenAI's cyber defence models, as its chief calls AI a \"generational leap\" in cyber security. #NATOEdge\nThe post NATO using Op",
-    "date": "2026-11-17",
+    "snippet": "Sitting down with George Allison at NATO Edge, NATO's transformation chief says no company has the full stack, and lessons from its Fight Club must reach industry fast. #NATOEdge\nThe post Vandier tell",
+    "date": "2026-11-18",
     "tag": "UK"
+  },
+  {
+    "title": "South Korean Chunmoo missile launched at sea in U.S. test",
+    "url": "https://defence-blog.com/south-korean-chunmoo-missile-launched-at-sea-in-u-s-test/",
+    "source": "The Defence Blog – Military and Defense News",
+    "snippet": "Hanwha Defense USA fired a Chunmoo missile from a palletized launcher aboard a ship off the Mississippi coast on Sunday, the final shot of a two-missile campaign to test the South Korean weapon at sea",
+    "date": "2026-11-18",
+    "tag": "Korea"
   },
   {
     "title": "Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine",
@@ -14,6 +22,46 @@
     "snippet": "In 2026, Germany is spending a record €125 billion on defense, second only to the United States among NATO allies, and its core defense budget is set to reach €170 billion by 2029. Its military strate",
     "date": "2026-11-17",
     "tag": "EU"
+  },
+  {
+    "title": "ICEYE makes $2B bid for Italian rocket firm Avio",
+    "url": "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio/",
+    "source": "Breaking Defense",
+    "snippet": "The proposed deal comes at a time when many in Europe have grown increasingly concerned about the reliance on the US for space launch and military space capabilities.",
+    "date": "2026-11-17",
+    "tag": "EU"
+  },
+  {
+    "title": "Finland’s Iceye bids €2 billion for Italian rocket maker Avio",
+    "url": "https://www.defensenews.com/global/europe/2026/11/17/finlands-iceye-bids-e2-billion-for-italian-rocket-maker-avio/",
+    "source": "Global - Defense News",
+    "snippet": "Finnish satellite operator Iceye made a €2 billion ($2.2 billion) cash offer for Italian rocket maker Avio on Tuesday, with the goal of creating an integrated European space and defense group.",
+    "date": "2026-11-17",
+    "tag": "EU"
+  },
+  {
+    "title": "Hanwha transforms ship into floating multi-rocket launcher",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher/",
+    "source": "Defense News",
+    "snippet": "South Korean defense giant Hanwha said it successfully launched missiles from a palletizable multi-pod launcher system at sea.",
+    "date": "2026-11-17",
+    "tag": "Korea"
+  },
+  {
+    "title": "Army kicks off ‘manufacturing rodeo’ with focus on small drones",
+    "url": "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones/",
+    "source": "Breaking Defense",
+    "snippet": "The completed drones will compete at the Army’s third Drone Dominance Gauntlet event in March where the systems will face “complex” obstacle courses, heavy electronic jamming and “live target arrays.”",
+    "date": "2026-11-17",
+    "tag": "World"
+  },
+  {
+    "title": "NATO using OpenAI models to defend allied networks",
+    "url": "https://ukdefencejournal.org.uk/nato-using-openai-models-to-defend-allied-networks/",
+    "source": "UK Defence Journal",
+    "snippet": "NATO's communications agency has used up to 300 billion tokens a month of OpenAI's cyber defence models, as its chief calls AI a \"generational leap\" in cyber security. #NATOEdge\nThe post NATO using Op",
+    "date": "2026-11-17",
+    "tag": "UK"
   },
   {
     "title": "King opens new National Cyber Force HQ boosting North West growth",
